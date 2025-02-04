@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+marketmakers.trade	TRUE	/	FALSE	1999999999	swpm_session	217cbcc195debf953c6676c89f04e365
+
