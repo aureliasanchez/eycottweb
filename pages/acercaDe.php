@@ -1,10 +1,9 @@
 <!doctype html>
 <html lang="en-US">
 
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-
 <head>
     <!-- Meta -->
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="UTF-8" />
     <meta charset="UTF-8">
     <meta name="theme-color" content="#fafafa">
@@ -37,7 +36,9 @@
                 <div class="container">
                     <div class="specializing-wrap">
                         <div class="specializing-info">
-                            <h1 class="specializing-title">Tomorrows TA <span>today</span></h1>
+                            <h1 class="specializing-title">
+                                Energía inteligente para un <span>futuro sostenible</span>
+                            </h1>
                             <p class="specializing-desc">Market Makers provides high quality educational TA by traders, for traders</p>
                             <a href="#ideas" class="specializing-scroll smoothScroll">
                                 <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -63,7 +64,7 @@
                                 <div class="ideas-label">what we're <span>about</span></div>
                                 <h2 class="ideas-title">Helping traders <span>evolve</span></h2>
                                 <div class="ideas-action">
-                                    <a href="https://marketmakers.trade/#pricing"
+                                    <a href="https://marketmakers.trade/#precios"
                                         class="btnArrow btnArrow-green">
                                         <span class="btnArrow-title">Try us for free!</span>
                                         <span class="btnArrow-icon"></span>
@@ -126,7 +127,7 @@
                                     <h6 class="ideas-step__result-title">Ready to <span>go?</span></h6>
                                     <p class="ideas-step__result-info">Jump right in or give us a shout</p>
                                     <div class="ideas-step__result-action">
-                                        <a href="https://marketmakers.trade/#pricing"
+                                        <a href="https://marketmakers.trade/#precios"
                                             class="btnArrow btnArrow-green">
                                             <span class="btnArrow-title">Try us for free!</span>
                                             <span class="btnArrow-icon"></span>
@@ -423,7 +424,7 @@
                                 <span class="btnColor-title">Talk to us</span>
                                 <span class="btnColor-icon"></span>
                             </a>
-                            <a href="https://marketmakers.trade/#pricing" class="cta-action__btn">
+                            <a href="https://marketmakers.trade/#precios" class="cta-action__btn">
                                 <span>Try us for free!</span>
                             </a>
                         </div>
@@ -976,7 +977,7 @@
                             <h2 class="banner-title">
                                 Learn. Trade. Succeeed. </h2>
                             <div class="banner-link">
-                                <a href="https://marketmakers.trade/#pricing">
+                                <a href="https://marketmakers.trade/#precios">
                                     <span class="banner-link__title">
                                         Try us for free! </span>
                                     <span class="banner-link__icon"></span>

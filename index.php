@@ -52,15 +52,18 @@
 
                             </div>
                             <h1 class="hero-title">
-                                Learn.Trade.
-                                <span>Succeed.</span>
+                                Optimiza tu energía.
+                                <br>
+                                Reduce costos.
+                                <br>
+                                <span>Gana competitividad.</span>
                             </h1>
                             <p class="hero-desc">
-                                Where professional grade market analysis & vibrant social community converge.
+                                Ahorra desde el primer día sin inversión inicial. Implementamos tecnología avanzada para maximizar tu eficiencia energética.
                             </p>
                             <div class="hero-link">
                                 <a href="#pricing" class="btnArrow btnArrow-green">
-                                    <span class="btnArrow-title">Try us for free! </span>
+                                    <span class="btnArrow-title">Solicita tu diagnóstico gratuito</span>
                                     <span class="btnArrow-icon"></span>
                                 </a>
                             </div>
@@ -254,73 +257,107 @@
             <section class="section mission">
                 <div class="container">
                     <div class="mission-wrap">
+
                         <div class="mission-head">
+
                             <div class="mission-label">
-                                Market Makers <span>passion</span> </div>
+                                Market Makers <span>passion</span>
+                            </div>
                             <div class="mission-info">
+
                                 <h2 class="mission-title">
-                                    "We inspire <span>passionate traders</span>" </h2>
+                                    Impulsamos la
+                                    <span>eficiencia energética</span>
+                                    del futuro
+                                </h2>
                                 <div class="mission-link">
-                                    <a href="https://marketmakers.trade/about/"
-                                        class="btnColor">
-                                        <span class="btnColor-title">
-                                            Meet the team </span>
+                                    <a href="./pages/acercaDe.php" class="btnColor">
+
+                                        <span class="btnColor-title">Conoce nuestro proceso</span>
                                         <span class="btnColor-icon"></span>
+
                                     </a>
                                 </div>
+
                             </div>
+
                         </div>
                         <div class="mission-body">
                             <div class="mission-list">
+
                                 <div class="mission-item">
+
                                     <h6 class="mission-item__title">
-                                        Core <span>mission</span> </h6>
+                                        Nuestra
+                                        <span>Misión</span>
+                                    </h6>
                                     <p class="mission-item__desc">
-                                        The mission at Market Makers is simple - we foster a thriving trading community through high quality educational resources and a supportive network. Led by founder Brendan, as seen on YouTube, we provide valuable insights and real time market updates to help traders navigate the financial markets confidently. Statistics reveal that without such resources, a majority of new traders struggle significantly. Our goal is to flip this narrative, offering the tools and environment necessary for sustainable trading achievements. </p>
+                                        Facilitamos la transición hacia un modelo energético eficiente y responsable. Nuestro compromiso es maximizar el rendimiento energético de las industrias, asegurando ahorros reales y sostenibilidad a largo plazo.
+                                    </p>
+
                                 </div>
                                 <div class="mission-item">
+
                                     <div class="mission-item__top">
-                                        <div class="mission-item__label">
-                                            A hard truth about trading </div>
+
+                                        <!-- <div class="mission-item__label">A hard truth about trading</div> -->
                                         <div class="mission-item__info">
-                                            A vast majority (94%) of individuals who start trading without proper education and community support end up losing their entire investment within just six months </div>
+                                            Empresas que implementan nuestra tecnología logran hasta un
+                                            <strong>
+                                                30%
+                                            </strong>
+                                            de ahorro energético.
+                                        </div>
+
                                     </div>
                                     <div class="mission-item__bottom">
                                         <div class="mission-item__number">
-                                            <span class="mission-item__number-value">
-                                                94 </span>
-                                            %
+                                            <span class="mission-item__number-value">30</span>%
                                         </div>
                                     </div>
+
                                 </div>
                                 <div class="mission-item">
+
                                     <div class="mission-item__top">
-                                        <div class="mission-item__label">
-                                            Consistency via collaboration </div>
+
+                                        <!-- <div class="mission-item__label">Consistency via collaboration</div> -->
                                         <div class="mission-item__info">
-                                            Traders who engage in continuous learning and leverage community activities are significantly (71%) more likely to achieve consistent results over time, demonstrating the power of a well-informed and collaborative approach to trading </div>
+                                            Más del
+                                            <strong>
+                                                90%
+                                            </strong>
+                                            de nuestros clientes optimizan su consumo sin afectar su operación.
+                                        </div>
+
                                     </div>
                                     <div class="mission-item__bottom">
                                         <div class="mission-item__number">
-                                            <span class="mission-item__number-value">
-                                                71 </span>
-                                            %
+                                            <span class="mission-item__number-value">90</span>%
                                         </div>
                                     </div>
+
                                 </div>
+
                             </div>
                         </div>
+
                     </div>
                 </div>
             </section>
             <section class="section knowledge">
                 <div class="container">
                     <div class="knowledge-wrap">
+
                         <h2 class="knowledge-title">
-                            Live market intel <span>direct to you</span> </h2>
+                            Monitoreo energético en tiempo real
+                            <span>directo a tu empresa</span>
+                        </h2>
                         <p class="knowledge-desc">
-                            trading world indices, forex, stocks, commodities, metals and cryptocurrencies </p>
+                            Optimizamos tu consumo energético con tecnología avanzada. Desde generación y almacenamiento hasta eficiencia operativa, todo en un solo sistema inteligente.
+                        </p>
                         <div class="knowledge-media">
+
                             <div class="knowledge-list">
                                 <div class="knowledge-col">
                                     <div class="knowledge-item">
@@ -583,68 +620,86 @@
                                     width="352"
                                     height="443" alt="Knowledge">
                             </div>
+
                         </div>
+
                     </div>
                 </div>
             </section>
             <section class="section why">
                 <div class="container">
                     <div class="why-wrap">
+
                         <div class="why-head">
+
                             <div class="why-info">
+
                                 <div class="why-label">
                                     Why <span>Market Makers?</span> </div>
                                 <h2 class="why-title">
-                                    Connect and <span>learn</span> </h2>
+                                    Optimiza tu <span>energía</span>
+                                </h2>
                                 <div class="why-link">
-                                    <a href="https://marketmakers.trade/#pricing"
-                                        class="btnArrow btnArrow-green">
-                                        <span class="btnArrow-title">
-                                            Try us for free! </span>
+                                    <a href="#pricing" class="btnArrow btnArrow-green">
+
+                                        <span class="btnArrow-title">Agenda tu diagnóstico gratuito</span>
                                         <span class="btnArrow-icon"></span>
+
                                     </a>
                                 </div>
+
                             </div>
                             <div class="why-point">
-                                Active community </div>
+                                Active community
+                            </div>
+
                         </div>
                         <div class="why-body">
                             <div class="why-list">
+
                                 <div class="why-item">
+
                                     <div class="why-item__icon">
                                         <img src="https://marketmakers.trade/wp-content/uploads/2023/11/1.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/11/1.svg">
                                     </div>
                                     <h6 class="why-item__title">
-                                        <span>
-                                            Market insights and updates </span>
+                                        <span>Análisis inicial y propuesta</span>
                                     </h6>
                                     <p class="why-item__desc">
-                                        Stay informed with exclusive bi-weekly video market updates and technical analysis from Brendan, covering equities, crypto, and commodities. Our content is designed to provide you with timely insights and strategies to enhance your trading skills. Access Brendan’s personal trade journal for additional educational insights and strategies. </p>
+                                        Evaluamos tu consumo energético y te presentamos una estrategia de ahorro personalizada, sin compromiso.
+                                    </p>
+
                                 </div>
                                 <div class="why-item">
+
                                     <div class="why-item__icon">
                                         <img src="https://marketmakers.trade/wp-content/uploads/2023/11/3.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/11/3.svg">
                                     </div>
                                     <h6 class="why-item__title">
-                                        <span>
-                                            Master advanced techniques </span>
+                                        <span>Autorización y firma</span>
                                     </h6>
                                     <p class="why-item__desc">
-                                        Dive into Brendan’s own Fractal Pattern Trading (FPT) education series, a unique approach to the markets inspired by prolific technicians such as Robert Fischer and Bryce Gilmore. Benefit from our structured and engaging learning materials, designed to help traders of all levels develop their skills and confidence. </p>
+                                        Una vez aprobada la propuesta, formalizamos el contrato y programamos la instalación de nuestras soluciones tecnológicas.
+                                    </p>
+
                                 </div>
                                 <div class="why-item">
+
                                     <div class="why-item__icon">
                                         <img src="https://marketmakers.trade/wp-content/uploads/2023/11/2.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/11/2.svg">
                                     </div>
                                     <h6 class="why-item__title">
-                                        <span>
-                                            Connect with experts </span>
+                                        <span>Implementación y optimización continua</span>
                                     </h6>
                                     <p class="why-item__desc">
-                                        Join our premium Discord community to connect with seasoned traders and access real time market insights and TA. Participate in live QA sessions and interactive streaming events each week. Enjoy 24/7 support from our expert staff, lifetime access to custom TradingView indicators, and blockstate and macroeconomic updates with Ricardo. Plus, all our members have access to the Market Makers VIP program at SimpleFX to elevate your trading experience. </p>
+                                        Instalamos, monitoreamos y mejoramos tu sistema energético con tecnología avanzada 24/7. Si no ahorras, no pagas.
+                                    </p>
+
                                 </div>
+
                             </div>
                         </div>
+
                     </div>
                 </div>
             </section>
@@ -801,17 +856,23 @@
             <section class="section learn">
                 <div class="container">
                     <div class="learn-wrap">
+
                         <h2 class="learn-title">
-                            Your pathway to <span>consistency</span> </h2>
+                            Tu camino hacia el
+                            <br>
+                            <span>ahorro inteligente</span>
+                        </h2>
                         <div class="learn-content">
+
                             <div class="learn-list">
-                                <div class="learn-item active"
-                                    data-item="item1">
+
+                                <div class="learn-item active" data-item="item1">
+
                                     <div class="learn-item__head">
-                                        <h6 class="learn-item__title">
-                                            Interactive trade ideas </h6>
+                                        <h6 class="learn-item__title">Ahorro sin inversión inicial</h6>
                                     </div>
                                     <div class="learn-item__body">
+
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
@@ -821,20 +882,22 @@
                                             </div>
                                         </div>
                                         <p class="learn-item__desc">
-                                            Discover dynamic trade strategies and enhance your market understanding with our video market updates and technical analysis. Engage with interactive real time scenarios that sharpen decision making skills and improve your trading tactics. Learn and grow with every trade. </p>
-                                        <a href="https://marketmakers.trade/#pricing"
-                                            class="btnArrow btnArrow-green">
-                                            <span class="btnArrow-title">
-                                                Try us for free! </span>
+                                            Reduce costos desde el primer día sin descapitalizarte.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
                                             <span class="btnArrow-icon"></span>
+
                                         </a>
+
                                     </div>
+
                                 </div>
-                                <div class="learn-item "
-                                    data-item="item2">
+                                <div class="learn-item" data-item="item2">
+
                                     <div class="learn-item__head">
-                                        <h6 class="learn-item__title">
-                                            Market Makers VIP with SimpleFX </h6>
+                                        <h6 class="learn-item__title">Mayor valor para tu empresa</h6>
                                     </div>
                                     <div class="learn-item__body">
                                         <div class="learn-item__info">
@@ -846,20 +909,21 @@
                                             </div>
                                         </div>
                                         <p class="learn-item__desc">
-                                            Unlock exceptional trading opportunities through our partnership with SimpleFX. As a Market Makers VIP, enjoy double deposit bonuses up to $5,000 and access private trading competitions with real cash prizes. Elevate your trading journey with these exclusive benefits. </p>
-                                        <a href="https://marketmakers.trade/#pricing"
-                                            class="btnArrow btnArrow-green">
-                                            <span class="btnArrow-title">
-                                                Try us for free! </span>
+                                            Implementa tecnologías que optimizan tu operación y aumentan tu competitividad.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
                                             <span class="btnArrow-icon"></span>
+
                                         </a>
                                     </div>
+
                                 </div>
-                                <div class="learn-item "
-                                    data-item="item3">
+                                <div class="learn-item" data-item="item3">
+
                                     <div class="learn-item__head">
-                                        <h6 class="learn-item__title">
-                                            Weekly global market updates </h6>
+                                        <h6 class="learn-item__title">Innovación continua</h6>
                                     </div>
                                     <div class="learn-item__body">
                                         <div class="learn-item__info">
@@ -871,22 +935,24 @@
                                             </div>
                                         </div>
                                         <p class="learn-item__desc">
-                                            Stay informed with our weekly live streams hosted by senior analysts Brendan and Ricardo. Dive into global market trends, blockchain insights, and macroeconomic data. Participate in real time discussions to refine your trading strategies and stay ahead in the market. Knowledge is power. </p>
-                                        <a href="https://marketmakers.trade/#pricing"
-                                            class="btnArrow btnArrow-green">
-                                            <span class="btnArrow-title">
-                                                Try us for free! </span>
+                                            Mantente a la vanguardia con herramientas energéticas avanzadas.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
                                             <span class="btnArrow-icon"></span>
+
                                         </a>
                                     </div>
+
                                 </div>
-                                <div class="learn-item "
-                                    data-item="item4">
+                                <div class="learn-item" data-item="item4">
+
                                     <div class="learn-item__head">
-                                        <h6 class="learn-item__title">
-                                            Personalized help on any device </h6>
+                                        <h6 class="learn-item__title">Cumplimiento ASG</h6>
                                     </div>
                                     <div class="learn-item__body">
+
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
@@ -896,22 +962,25 @@
                                             </div>
                                         </div>
                                         <p class="learn-item__desc">
-                                            Receive personalized trading mentorship on mobile, tablet, or desktop. Our expert mentors provide tailored advice, strategy optimization, and continuous support, helping you follow your learning path confidently from any device. </p>
-                                        <a href="https://marketmakers.trade/#pricing"
-                                            class="btnArrow btnArrow-green">
-                                            <span class="btnArrow-title">
-                                                Try us for free! </span>
+                                            Accede a financiamientos verdes y fortalece tu reputación.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
                                             <span class="btnArrow-icon"></span>
+
                                         </a>
+
                                     </div>
+
                                 </div>
-                                <div class="learn-item "
-                                    data-item="item5">
+                                <div class="learn-item" data-item="item5">
+
                                     <div class="learn-item__head">
-                                        <h6 class="learn-item__title">
-                                            Live QA sessions </h6>
+                                        <h6 class="learn-item__title">Cero riesgos</h6>
                                     </div>
                                     <div class="learn-item__body">
+
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
@@ -921,15 +990,80 @@
                                             </div>
                                         </div>
                                         <p class="learn-item__desc">
-                                            Join our live QA sessions for a dynamic experience with trading experts. Get instant feedback, clarify doubts, and explore a wide range of topics in our interactive livestream sessions. Engage, learn, and succeed together. </p>
-                                        <a href="https://marketmakers.trade/#pricing"
-                                            class="btnArrow btnArrow-green">
-                                            <span class="btnArrow-title">
-                                                Try us for free! </span>
+                                            Nos encargamos de la inversión y mantenimiento, asegurando eficiencia operativa.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
                                             <span class="btnArrow-icon"></span>
+
                                         </a>
+
                                     </div>
+
                                 </div>
+                                <div class="learn-item" data-item="item6">
+
+                                    <div class="learn-item__head">
+                                        <h6 class="learn-item__title">Monitoreo 24/7 con IA</h6>
+                                    </div>
+                                    <div class="learn-item__body">
+
+                                        <div class="learn-item__info">
+                                            <div class="learn-item__img">
+                                                <div class="learn-item__img-wrap">
+                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Live-QA-forums-1.jpg"
+                                                        alt="Learn">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="learn-item__desc">
+                                            Detecta oportunidades de ahorro en tiempo real y mejora tu consumo energético.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
+                                            <span class="btnArrow-icon"></span>
+
+                                        </a>
+
+                                    </div>
+
+                                </div>
+                                <div class="learn-item" data-item="item7">
+
+                                    <div class="learn-item__head">
+                                        <h6 class="learn-item__title">
+                                            Garantía
+                                            <strong>
+                                                &nbsp;“No ahorras, no pagas”
+                                            </strong>
+                                        </h6>
+                                    </div>
+                                    <div class="learn-item__body">
+
+                                        <div class="learn-item__info">
+                                            <div class="learn-item__img">
+                                                <div class="learn-item__img-wrap">
+                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Live-QA-forums-1.jpg"
+                                                        alt="Learn">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <p class="learn-item__desc">
+                                            Sin riesgos financieros, solo resultados reales.
+                                        </p>
+                                        <a href="#" class="btnArrow btnArrow-green">
+
+                                            <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
+                                            <span class="btnArrow-icon"></span>
+
+                                        </a>
+
+                                    </div>
+
+                                </div>
+
                             </div>
                             <div class="learn-media">
                                 <div class="learn-img active"
@@ -1423,6 +1557,7 @@
                                     </div>
                                 </div>
                             </div>
+
                         </div>
                         <div class="learn-cta">
                             <h6 class="learn-cta__title">
@@ -1443,6 +1578,7 @@
                                 </a>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </section>
@@ -1923,72 +2059,88 @@
             </section>
             <section class="section reviews">
                 <div class="reviews-wrap">
-                    <div class="reviews-slogan">
-                        Client response </div>
+
+                    <div class="reviews-slogan">Client response</div>
                     <h2 class="reviews-title">
-                        What do people <span>think?</span> </h2>
+                        Clientes <span>Específicos</span>
+                    </h2>
                     <div class="reviews-slider">
+
                         <div class="reviews-list">
+
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
+
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
-                                            Market Makers is my secret weapon! Brendan's ideas are gold. 📈🚀 </div>
+                                            Inverfat Sc De Rl De C
+                                        </div>
                                     </div>
-                                    <div class="reviews-item__author">
-                                        CryptoGuru21 </div>
+                                    <div class="reviews-item__author">La Estancia, Hgo</div>
+
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
+
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
-                                            I was skeptical at first, but the FPT video series is a game-changer. Learning so much! </div>
+                                            Kosher Mexico Internacional S.A. De C.V.
+                                        </div>
                                     </div>
-                                    <div class="reviews-item__author">
-                                        EmilyTrades </div>
+                                    <div class="reviews-item__author">Zapotlán De Juárez, Hgo.</div>
+
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
+
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
-                                            The live QA blockchain sessions with Ricardo are a blast. I love how he uses Fib circles. loads of fun! 🎉 </div>
+                                            Ecoenergías E Iluminación Mexicana S.A De C.V
+                                        </div>
                                     </div>
-                                    <div class="reviews-item__author">
-                                        Trader87Tom </div>
+                                    <div class="reviews-item__author">Pachuca De Soto, Hgo.</div>
+
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
+
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
-                                            💪💪 Joined the premium Discord and never looked back. The community support is incredible. Thanks, MM team! </div>
+                                            Granja Tepeyac
+                                        </div>
                                     </div>
-                                    <div class="reviews-item__author">
-                                        FXNinja </div>
+                                    <div class="reviews-item__author">Francisco I. Madero, Hgo.</div>
+
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
+
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
-                                            Love this group. Keeps me on my toes and always learning. Great stuff! ❤️ </div>
+                                            Mercado Valle De Las Estrellas
+                                        </div>
                                     </div>
-                                    <div class="reviews-item__author">
-                                        SophieB </div>
+                                    <div class="reviews-item__author">Mineral de la reforma, Hgo.</div>
+
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
+
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
-                                            Brendan's indicators alone are worth it. One of the best investments I've made in my trading journey </div>
+                                            Grupo México
+                                        </div>
                                     </div>
-                                    <div class="reviews-item__author">
-                                        HodlKing </div>
+                                    <div class="reviews-item__author">Pachuca de Soto, Hgo.</div>
+
                                 </div>
                             </div>
+
                         </div>
                         <div class="reviews-navigation">
                             <div class="reviews-navigation-box">
@@ -2017,10 +2169,12 @@
                                 </div>
                             </div>
                         </div>
+
                     </div>
                     <div class="reviews-link">
                         More reviews in our <a href="https://marketmakers.trade/about/">Discord</a>
                     </div>
+
                 </div>
             </section>
             <section class="section banner">
@@ -2030,13 +2184,17 @@
 
                             <div class="banner-icon"></div>
                             <h2 class="banner-title">
-                                Learn. Trade. Succeeed.
+                                Transforma tu energía. Maximiza tu ahorro.
+                                <span style="font-size: 1.2rem; font-weight: 400;">
+                                    Sin inversión inicial, sin riesgos. Solo eficiencia y rentabilidad para tu empresa.
+                                </span>
                             </h2>
                             <div class="banner-link">
-                                <a href="https://marketmakers.trade/#pricing">
-                                    <span class="banner-link__title">
-                                        Try us for free! </span>
+                                <a href="#pricing">
+
+                                    <span class="banner-link__title">Empieza ahora </span>
                                     <span class="banner-link__icon"></span>
+
                                 </a>
                             </div>
                             <div class="banner-svg">
