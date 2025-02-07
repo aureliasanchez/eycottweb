@@ -34,11 +34,16 @@
             <div class="contact">
                 <div class="container">
                     <div class="contact-wrap">
+
                         <div class="contact-left">
-                            <h6 class="contact-label">Contacts</h6>
-                            <h1 class="contact-title"> Got something to <span> tell us?</span></h1>
-                            <p class="contact-info">Why not send us a message? We're always here to help.</p>
+
+                            <!-- <h6 class="contact-label">Contacts</h6> -->
+                            <h1 class="contact-title">
+                                EY<span>COT</span>
+                            </h1>
+                            <!-- <p class="contact-info">Why not send us a message? We're always here to help.</p> -->
                             <div class="contact-group">
+
                                 <div class="contact-social">
                                     <a href="https://www.instagram.com/officialmarketmakers?igsh=OHoyNXVzMW1ycnBj&amp;utm_source=qr" class="contact-social__item">
                                         <svg width="50" height="51" viewBox="0 0 50 51" fill="none"
@@ -123,42 +128,77 @@
                                     </a>
                                 </div>
                                 <div class="contact-links">
+
                                     <div class="contact-links__item">
-                                        <div class="contact-links__item-title">Email:</div>
-                                        <a href="mailto:contact@marketmakers.trade"
-                                            class="contact-links__item-content">contact@marketmakers.trade</a>
+
+                                        <div class="contact-links__item-title">Dirección:</div>
+                                        <a class="contact-links__item-content">
+                                            C. Campo de Tiro 402, Adolfo López Mateos, 42094 Pachuca de Soto,
+                                        </a>
+
                                     </div>
+                                    <div class="contact-links__item">
+
+                                        <div class="contact-links__item-title">Contacto:</div>
+                                        <a class="contact-links__item-content" href="https://wa.me/524461074964">
+                                            44-610-74964
+                                        </a>
+                                        <a class="contact-links__item-content" href="https://mail.google.com/mail/?view=cm&fs=1&to=contacto@eycot.com">
+                                            contacto@eycot.com
+                                        </a>
+
+                                    </div>
+
                                 </div>
+
                             </div>
+
                         </div>
                         <div class="contact-right">
                             <form action="#" class="contact-form">
-                                <h2 class="contact-form__title">Contact <span>us</span></h2>
+
+                                <h2 class="contact-form__title">
+                                    Contac<span>tanos</span>
+                                </h2>
                                 <div class="contact-form__row">
                                     <label>
-                                        <span>Email</span>
-                                        <input type="text" class="contact-email" placeholder="Type your email here">
-                                        <span class="email-error"></span>
-                                    </label>
-                                </div>
-                                <div class="contact-form__row">
-                                    <label>
-                                        <span>Name</span>
-                                        <input type="text" class="contact-name" placeholder="Type your name here">
+                                        <span>Nombre</span>
+                                        <input type="text" placeholder="Ingresa tu nombre completo">
                                         <span class="name-error"></span>
                                     </label>
                                 </div>
                                 <div class="contact-form__row">
                                     <label>
-                                        <span>Your message</span>
-                                        <textarea name="message" class="contact-message"
-                                            placeholder="Type your message here"></textarea>
+                                        <span>Teléfono</span>
+                                        <input type="tel" placeholder="Ingresa tu numero telefonico">
+                                        <span class="name-error"></span>
                                     </label>
                                 </div>
                                 <div class="contact-form__row">
                                     <label>
-                                        <input type="checkbox" class="contact-agree">
-                                        <span>I agree to the processing of my personal data</span>
+                                        <span>Correo</span>
+                                        <input type="text" placeholder="Ingresa tu correo">
+                                        <span class="name-error"></span>
+                                    </label>
+                                </div>
+                                <div class="contact-form__row">
+                                    <label>
+                                        <span>Empresa</span>
+                                        <input type="text" placeholder="Ingresa el nombre de tu empresa">
+                                        <span class="name-error"></span>
+                                    </label>
+                                </div>
+                                <!-- <div class="contact-form__row">
+                                    <label>
+                                        <span>Your message</span>
+                                        <textarea name="message" class="contact-message"
+                                            placeholder="Type your message here"></textarea>
+                                    </label>
+                                </div> -->
+                                <div class="contact-form__row">
+                                    <label>
+                                        <span>¿Cuál es tu consumo de luz al mes?</span>
+                                        <input type="number" placeholder="Ingresa la cantidad">
                                         <span class="checkbox-error"></span>
                                     </label>
                                 </div>
@@ -172,8 +212,10 @@
                                         </svg>
                                     </button>
                                 </div>
+
                             </form>
                         </div>
+
                     </div>
                 </div>
             </div>
