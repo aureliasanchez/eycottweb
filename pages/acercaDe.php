@@ -35,57 +35,112 @@
             <section class="section specializing">
                 <div class="container">
                     <div class="specializing-wrap">
+
                         <div class="specializing-info">
+
                             <h1 class="specializing-title">
                                 Energía inteligente para un <span>futuro sostenible</span>
                             </h1>
-                            <p class="specializing-desc">Market Makers provides high quality educational TA by traders, for traders</p>
-                            <a href="#ideas" class="specializing-scroll smoothScroll">
+                            <p class="specializing-desc">
+                                En
+                                <strong>
+                                    EYCOT,
+                                </strong>
+                                revolucionamos la gestión energética con tecnología avanzada, asegurando eficiencia, ahorro y sostenibilidad sin inversión inicial.
+                            </p>
+                            <div class="hero-info specializing-desc">
+                                <div class="hero-link">
+                                    <a href="#" class="btnArrow btnArrow-green">
+
+                                        <span class="btnArrow-title">Descubre nuestra historia</span>
+                                        <span class="btnArrow-icon"></span>
+
+                                    </a>
+                                </div>
+                            </div>
+                            <!-- <a href="#ideas" class="specializing-scroll smoothScroll">
                                 <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                                     <path
                                         d="M5.58719 13.8291L0.337194 8.57913C0.255628 8.49754 0.200084 8.3936 0.177587 8.28045C0.155089 8.1673 0.166647 8.05002 0.210799 7.94343C0.25495 7.83685 0.329714 7.74575 0.425637 7.68165C0.521559 7.61755 0.634333 7.58334 0.7497 7.58333L5.41636 7.58333L5.41636 0.583333C5.41636 0.428623 5.47782 0.28025 5.58722 0.170854C5.69661 0.061458 5.84499 -2.61745e-07 5.9997 -2.54982e-07C6.15441 -2.4822e-07 6.30278 0.061458 6.41218 0.170854C6.52157 0.28025 6.58303 0.428623 6.58303 0.583333L6.58303 7.58333L11.2497 7.58333C11.3651 7.58334 11.4778 7.61755 11.5738 7.68165C11.6697 7.74575 11.7444 7.83685 11.7886 7.94343C11.8327 8.05002 11.8443 8.1673 11.8218 8.28045C11.7993 8.3936 11.7438 8.49754 11.6622 8.57913L6.4122 13.8291C6.35803 13.8833 6.29372 13.9263 6.22294 13.9556C6.15217 13.9849 6.07631 14 5.9997 14C5.92309 14 5.84723 13.9849 5.77645 13.9556C5.70567 13.9263 5.64136 13.8833 5.58719 13.8291Z"
                                         fill="#A7C5E7" />
                                 </svg>
-                            </a>
+                            </a> -->
+
                         </div>
                         <div class="specializing-media">
                             <div class="specializing-media__img">
                                 <img src="https://marketmakers.trade/wp-content/uploads/2024/02/AU-Hero-section-2.png" alt="https://marketmakers.trade/wp-content/uploads/2024/02/AU-Hero-section-2.png">
                             </div>
                         </div>
+
                     </div>
                 </div>
             </section>
             <section id="ideas" class="section ideas">
                 <div class="container">
                     <div class="ideas-wrap">
+
                         <div class="ideas-head">
+
                             <div class="ideas-info">
-                                <div class="ideas-label">what we're <span>about</span></div>
-                                <h2 class="ideas-title">Helping traders <span>evolve</span></h2>
-                                <div class="ideas-action">
-                                    <a href="https://marketmakers.trade/#precios"
-                                        class="btnArrow btnArrow-green">
-                                        <span class="btnArrow-title">Try us for free!</span>
+
+                                <!-- <div class="ideas-label">what we're <span>about</span></div> -->
+                                <h2 class="ideas-subtitle">
+                                    Cómo funciona
+                                    <span>EaaS</span>
+                                    en
+                                    <span>EYCOT</span>
+                                </h2>
+                                <div class="ideas-desc">
+                                    <div class="ideas-desc__wrap">
+                                        <p>
+                                            <strong>
+                                                Energy as a Service (EaaS)
+                                            </strong>
+                                            te permite optimizar tu consumo energético sin inversión inicial. Implementamos tecnología avanzada para maximizar la eficiencia, reducir costos y garantizar el cumplimiento de normativas.
+                                            <br><br>
+                                            Con nuestro modelo, nos encargamos de todo: desde el análisis inicial hasta la gestión y mantenimiento continuo. Además, con monitoreo 24/7 basado en IA, aseguramos ahorros constantes y un rendimiento óptimo.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="ideas-action" style="padding-top: 2%;">
+                                    <a href="#" class="btnArrow btnArrow-green">
+
+                                        <span class="btnArrow-title">Descubre cómo optimizamos tu energía</span>
                                         <span class="btnArrow-icon"></span>
+
                                     </a>
                                 </div>
+
                             </div>
                             <div class="ideas-media">
                                 <div class="ideas-media__img">
                                     <img src="https://marketmakers.trade/wp-content/uploads/2024/02/About-page_Ideas-section-1.jpg" alt="https://marketmakers.trade/wp-content/uploads/2024/02/About-page_Ideas-section-1.jpg">
                                 </div>
                             </div>
+
                         </div>
                         <div class="ideas-body">
+
                             <h2 class="ideas-subtitle">
-                                <span>HOW</span> WE WORK
+                                Cómo funciona
+                                <span>EaaS</span>
+                                en
+                                <span>EYCOT</span>
                             </h2>
                             <div class="ideas-desc">
                                 <div class="ideas-desc__wrap">
-                                    <p>Join Market Makers, led by YouTube's Brendan, and become part of a vibrant trading community. Get multiple video updates each week, in-depth technical analysis, and learn Brendan's unique Fractal Pattern Trading system. Access exclusive content on our premium Discord, including real time market insights, live QA sessions, and 24/7 expert support. Benefit from custom TradingView indicators and our VIP program at SimpleFX. Experience a supportive community dedicated to your success. Learn, trade, succeed with Market Makers.</p>
+                                    <p>
+                                        <strong>
+                                            Energy as a Service (EaaS)
+                                        </strong>
+                                        te permite optimizar tu consumo energético sin inversión inicial. Implementamos tecnología avanzada para maximizar la eficiencia, reducir costos y garantizar el cumplimiento de normativas.
+                                        <br><br>
+                                        Con nuestro modelo, nos encargamos de todo: desde el análisis inicial hasta la gestión y mantenimiento continuo. Además, con monitoreo 24/7 basado en IA, aseguramos ahorros constantes y un rendimiento óptimo.
+                                    </p>
                                 </div>
                             </div>
+
                         </div>
                         <div class="ideas-step">
                             <div class="ideas-step__title">Get started <span>for free</span></div>
@@ -141,19 +196,36 @@
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </section>
             <section class="section knowledge">
                 <div class="container">
                     <div class="knowledge-wrap">
+
                         <h2 class="knowledge-title">
-                            Live market intel <span>direct to you</span> </h2>
+                            <span>
+                                Optimización energética
+                            </span>
+                            donde más la necesitas
+                        </h2>
                         <p class="knowledge-desc">
-                            trading world indices, forex, stocks, commodities, metals and cryptocurrencies </p>
+                            <strong>
+                                EYCOT
+                            </strong>
+                            opera en las principales zonas industriales de México, ayudando a empresas con un consumo superior a
+                            <strong>
+                                $100,000 MXN
+                            </strong>
+                            al mes a reducir costos y optimizar su energía sin inversión inicial.
+                        </p>
                         <div class="knowledge-media">
+
                             <div class="knowledge-list">
+
                                 <div class="knowledge-col">
+
                                     <div class="knowledge-item">
                                         <svg width="141" height="141" viewBox="0 0 141 141" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
@@ -262,6 +334,7 @@
                                             </defs>
                                         </svg>
                                     </div>
+
                                 </div>
                                 <div class="knowledge-col">
                                     <div class="knowledge-item">
@@ -332,6 +405,7 @@
                                         </svg>
                                     </div>
                                 </div>
+
                             </div>
                             <div class="knowledge-line">
                                 <svg id="knowledge-line" width="461" height="223" viewBox="0 0 461 223" fill="none"
@@ -402,15 +476,20 @@
 
                             </div>
                             <div class="knowledge-img">
-                                <img class="desktopImg"
-                                    src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
-                                    width="812" height="852" alt="Knowledge">
-                                <img class="mobileImg"
-                                    src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/imghomeknowledge-img-mobile.svg"
-                                    width="352"
-                                    height="443" alt="Knowledge">
+                                <img class="desktopImg" src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg" width="812" height="852" alt="Knowledge">
+                                <img class="mobileImg" src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/imghomeknowledge-img-mobile.svg" width="352" height="443" alt="Knowledge">
                             </div>
+
                         </div>
+                        <div class="hero-link" style="justify-content: center;">
+                            <a href="#" class="btnArrow btnArrow-green">
+
+                                <span class="btnArrow-title">Consulta disponibilidad en tu zona</span>
+                                <span class="btnArrow-icon"></span>
+
+                            </a>
+                        </div>
+
                     </div>
                 </div>
             </section>
@@ -1043,123 +1122,161 @@
             <section class=" section faq">
                 <div class="container">
                     <div class="faq-wrap">
+
                         <div class="faq-info">
-                            <div class="faq-label">
-                                Frequently asked questions </div>
+
+                            <!-- <div class="faq-label">Frequently asked questions </div> -->
                             <h2 class="faq-title">
-                                What do you <span>need to know?</span> </h2>
+                                ¿Cómo lo <span>hacemos?</span>
+                            </h2>
                             <p class="faq-desc">
-                                Check the FAQ for answers. If you still have questions, reach out and chat with us any time. </p>
+                                En
+                                <strong>
+                                    EYCOT,
+                                </strong>
+                                combinamos tecnología, experiencia y estrategia para maximizar la eficiencia energética de tu empresa.
+                            </p>
                             <div class="faq-link">
-                                <a href="https://marketmakers.trade/contacts/" class="btnColor">
-                                    <span class="btnColor-title">
-                                        Get in touch </span>
+                                <a href="#" class="btnColor">
+
+                                    <span class="btnColor-title">Optimiza tu energía con nosotros</span>
                                     <span class="btnColor-icon"></span>
+
                                 </a>
                             </div>
+
                         </div>
                         <div class="faq-list">
+
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        What is Market Makers? </h6>
+                                        ¿Cómo implementamos soluciones de electrificación?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        Market Makers is a vibrant trading community led by Brendan from YouTube. We provide exclusive weekly market updates, technical analysis, and more. Join us to learn, trade, and succeed with the support of a dynamic network. </div>
+                                        Optimizamos la infraestructura eléctrica para mejorar el suministro y reducir pérdidas energéticas.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        What benefits do I get with a Standard webiste membership? </h6>
+                                        ¿Qué sensores utilizamos para monitoreo y eficiencia?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        With the Standard website plan, you get Brendan’s market updates, the Fractal Pattern Trading video series, and his personal trade journal. It's perfect for boosting your trading knowledge and skills on a budget. </div>
+                                        Sensores inteligentes que permiten medición en tiempo real para optimizar el consumo energético.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        How does the Pro Discord membership enhance my trading experience? </h6>
+                                        ¿Cómo garantizamos el cumplimiento del Código de Red?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        Pro Discord is our all-inclusive package. Pro offers real time market insights, live QA sessions with Ricardo, and 24/7 support from expert traders and much more. Engage with a thriving community and access exclusive content. </div>
+                                        Aseguramos que tu empresa cumpla con normativas eléctricas sin afectar su operatividad.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        How can I be sure my information is secure with Market Makers? </h6>
+                                        ¿Cómo mejoramos la eficiencia energética?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        Your information is safe with us. We use industry standard security protocols and never share your data. Manage your subscription and preferences easily, and opt-in for occasional promotional emails. </div>
+                                        Aplicamos estrategias avanzadas para reducir desperdicios y optimizar el rendimiento energético.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        How can I start learning with Market Makers? </h6>
+                                        ¿Qué es el Costo Nivelado de Electricidad (LCOE)?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        Join the Standard plan for Brendan’s updates and the Fractal Pattern Trading series. For a more immersive experience, upgrade to Pro and get even more support and resources. </div>
+                                        Calculamos la mejor relación costo-beneficio para asegurar un suministro energético eficiente.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        What kind of support does Market Makers offer? </h6>
+                                        ¿Ofrecen capacitación para el personal?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        The premium Discord membership provides 24/7 support, live QA sessions, and continuous assistance from our expert traders. It's one of the best investments you can make in your trading journey. </div>
+                                        Sí, brindamos formación continua para que tu equipo implemente mejores prácticas energéticas.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        What is the refund policy at Market Makers? </h6>
+                                        ¿Cómo garantizan el mantenimiento de los sistemas?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        We want you to be completely satisfied, so we offer a 7 day free trial to explore our services. After the trial, payments are non-refundable, but we encourage you to contact us if you need assistance with your subscription. Managing your plan is easy via your user profile, and our team is always here to help at contact@marketmakers.trade </div>
+                                        Realizamos mantenimiento preventivo y correctivo para garantizar el máximo rendimiento energético.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        Is Market Makers a signal provider? </h6>
+                                        ¿Qué mejoras aplicamos en iluminación?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        No, Market Makers is all about education and community. We provide real time educational content to help you make informed trading decisions. We focus on teaching sensible trade practices and risk management, but we don't give specific financial advice or signals. Always trade responsibly and check out our terms and disclaimer for more info. </div>
+                                        Sustituimos y optimizamos sistemas de iluminación para reducir consumo sin afectar productividad.
+                                    </div>
                                 </div>
+
                             </div>
                             <div class="faq-item">
+
                                 <div class="faq-item__head">
                                     <h6 class="faq-item__title">
-                                        What is Market Makers VIP at SimpleFX? </h6>
+                                        ¿Cómo optimizamos los sistemas de bombeo?
+                                    </h6>
                                 </div>
                                 <div class="faq-item__body">
                                     <div class="faq-item__content">
-                                        Market Makers VIP at SimpleFX gives you access to private trade competitions with cash prizes and a double first deposit bonus for all members. Elevate your trading experience with these exclusive perks. </div>
+                                        Implementamos tecnología eficiente para reducir costos en procesos de bombeo y distribución.
+                                    </div>
                                 </div>
+
                             </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        Can I keep the Market Makers indicators forever? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Yes, you can keep them. Any Pro Discord plan members gain access to our library of custom TradingView indicators. They are yours to keep and use forever, no catch. </div>
-                                </div>
-                            </div>
+
                         </div>
+
                     </div>
                 </div>
             </section>
