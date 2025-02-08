@@ -17,6 +17,7 @@
 
     <!-- Link -->
     <link rel="stylesheet" href="../assets/css/universal.css">
+    <link rel="stylesheet" href="../assets/css/remplaso.css">
     <?php include '../assets/html/css.html'; ?>
 
     <link type="image/x-icon" href="../assets/img/icono/Favicon.png" rel="shortcut icon">
