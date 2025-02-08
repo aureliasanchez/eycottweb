@@ -1,0 +1,17 @@
+.partners-item__img img {
+    max-height: 100px !important;
+    max-width: 200px !important;
+}
+
+.hero-media__img img {
+    max-height: 800px !important;
+    max-width: 800px !important;
+}
+
+.learn-img:after, .learn-item__img:after {
+    background-image: none !important;
+}
+
+.learn-img:before, .learn-item__img:before {
+    background: none !important;
+}

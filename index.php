@@ -18,6 +18,8 @@
 
     <!-- Link -->
     <link rel="stylesheet" href="./assets/css/universal.css">
+    <link rel="stylesheet" href="./assets/css/remplaso.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <?php include './assets/html/css.html'; ?>
 
     <link type="image/x-icon" href="./assets/img/icono/Favicon.png" rel="shortcut icon">
@@ -39,7 +41,7 @@
 
                         <div class="hero-info">
 
-                            <div class="hero-clients">
+                            <!-- <div class="hero-clients">
 
                                 <div class="hero-clients__img">
                                     <img src="https://marketmakers.trade/wp-content/uploads/2024/06/home-client-1.png" alt="Photo">
@@ -50,7 +52,7 @@
                                     Trusted provider
                                 </div>
 
-                            </div>
+                            </div> -->
                             <h1 class="hero-title">
                                 Optimiza tu energía.
                                 <br>
@@ -72,9 +74,9 @@
                         <div class="hero-media">
 
                             <div class="hero-media__img">
-                                <img src="https://marketmakers.trade/wp-content/uploads/2023/11/Group-2072750486-1.png" width="1315" height="1001" alt="Hero image">
+                                <img src="./assets/img/imagenPrueba.png" width="1315" height="1001" alt="Hero image">
                             </div>
-                            <div class="hero-media__icon">
+                            <!-- <div class="hero-media__icon">
                                 <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <g clip-path="url(#clip0_248_2)">
@@ -247,7 +249,7 @@
                                         </radialGradient>
                                     </defs>
                                 </svg>
-                            </div>
+                            </div> -->
 
                         </div>
 
@@ -260,8 +262,8 @@
 
                         <div class="mission-head">
 
-                            <div class="mission-label">
-                                Market Makers <span>passion</span>
+                            <div class="">
+                                <!-- Market Makers <span>passion</span> -->
                             </div>
                             <div class="mission-info">
 
@@ -359,272 +361,216 @@
                         <div class="knowledge-media">
 
                             <div class="knowledge-list">
-                                <div class="knowledge-col">
-                                    <div class="knowledge-item">
-                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <g filter="url(#filter0_b_121_220)">
-                                                <rect x="0.380859" y="0.150391" width="139.871" height="139.871" rx="14"
-                                                    fill="#283F58" />
-                                                <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5"
-                                                    stroke="url(#paint0_linear_121_220)" />
-                                            </g>
-                                            <path
-                                                d="M91.359 64.5985C92.2393 58.7142 87.759 55.551 81.6329 53.4408L83.6202 45.4698L78.7682 44.2606L76.8335 52.0215C75.558 51.7037 74.2479 51.4038 72.9461 51.1067L74.8946 43.2946L70.0454 42.0854L68.0568 50.0537C67.0011 49.8132 65.9646 49.5755 64.9586 49.3254L64.9641 49.3005L58.2728 47.6298L56.9821 52.812C56.9821 52.812 60.582 53.637 60.506 53.6881C62.4711 54.1787 62.8262 55.4791 62.7668 56.51L60.5032 65.5907C60.6386 65.6253 60.8141 65.675 61.0076 65.7524C60.8459 65.7123 60.6732 65.6681 60.4949 65.6253L57.322 78.3459C57.0816 78.9429 56.4721 79.8384 55.0985 79.4985C55.1468 79.569 51.5718 78.6182 51.5718 78.6182L49.1631 84.1722L55.4771 85.7462C56.6518 86.0405 57.8029 86.3487 58.9361 86.6389L56.9282 94.7011L61.7746 95.9103L63.7632 87.9338C65.0871 88.2931 66.3723 88.6247 67.6298 88.9371L65.6481 96.8763L70.5001 98.0854L72.5081 90.0385C80.7817 91.6042 87.0031 90.9726 89.6219 83.4895C91.7321 77.4643 89.5169 73.9887 85.1638 71.7223C88.3339 70.9913 90.7219 68.906 91.359 64.5985ZM80.2731 80.1438C78.7737 86.1691 68.629 82.9118 65.34 82.0951L68.0043 71.4142C71.2933 72.235 81.8402 73.8602 80.2731 80.1438ZM81.7739 64.5114C80.4058 69.9922 71.9622 67.2076 69.2232 66.5249L71.6388 56.8376C74.3778 57.5202 83.1987 58.7944 81.7739 64.5114Z"
-                                                fill="#4CD09E" />
-                                            <defs>
-                                                <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871"
-                                                    height="207.871"
-                                                    filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                    <feComposite in2="SourceAlpha" operator="in"
-                                                        result="effect1_backgroundBlur_121_220" />
-                                                    <feBlend mode="normal" in="SourceGraphic"
-                                                        in2="effect1_backgroundBlur_121_220" result="shape" />
-                                                </filter>
-                                                <linearGradient id="paint0_linear_121_220" x1="20.3921" y1="-108.274"
-                                                    x2="114.392" y2="87.8506"
-                                                    gradientUnits="userSpaceOnUse">
-                                                    <stop stop-color="white" stop-opacity="0.27" />
-                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                </linearGradient>
-                                            </defs>
-                                        </svg>
-                                    </div>
-                                    <div class="knowledge-item">
-                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <g filter="url(#filter0_b_121_217)">
-                                                <rect x="0.174805" y="0.7146" width="139.871" height="139.871" rx="14"
-                                                    fill="#283F58" />
-                                                <rect x="0.674805" y="1.2146" width="138.871" height="138.871" rx="13.5"
-                                                    stroke="url(#paint0_linear_121_217)" />
-                                            </g>
-                                            <path
-                                                d="M47.8333 85.22C47.2633 85.22 46.8833 85.695 46.8833 86.1699V93.1996C46.8833 93.7696 47.3583 94.1496 47.8333 94.1496H54.673C55.2429 94.1496 55.6229 93.6746 55.6229 93.1996V86.1699C55.6229 85.6 55.148 85.22 54.673 85.22H47.8333Z"
-                                                fill="#4CD09E" />
-                                            <path
-                                                d="M60.0881 80.5657C59.5181 80.5657 59.1382 81.0407 59.1382 81.5157V93.2002C59.1382 93.7702 59.6131 94.1501 60.0881 94.1501H66.9278C67.4978 94.1501 67.8778 93.6752 67.8778 93.2002V81.6107C67.8778 81.0407 67.4028 80.6607 66.9278 80.6607H60.0881V80.5657Z"
-                                                fill="#4CD09E" />
-                                            <path
-                                                d="M72.6268 74.7704C72.0569 74.7704 71.6769 75.2454 71.6769 75.7204V93.1996C71.6769 93.7696 72.1519 94.1496 72.6268 94.1496H79.4666C80.0365 94.1496 80.4165 93.6746 80.4165 93.1996V75.7204C80.4165 75.1504 79.9415 74.7704 79.4666 74.7704H72.6268Z"
-                                                fill="#4CD09E" />
-                                            <path
-                                                d="M92.3866 66.9806H85.5469C84.9769 66.9806 84.5969 67.4555 84.5969 67.9305V93.1994C84.5969 93.7694 85.0719 94.1494 85.5469 94.1494H92.3866C92.9565 94.1494 93.3365 93.6744 93.3365 93.1994V67.9305C93.3365 67.3605 92.8615 66.9806 92.3866 66.9806Z"
-                                                fill="#4CD09E" />
-                                            <path
-                                                d="M92.766 60.7108L89.4412 47.6014C89.4412 47.4114 89.2512 47.3164 89.1562 47.2214C88.9662 47.1264 88.7762 47.1264 88.6812 47.2214L75.3818 51.9712C75.0968 52.0662 75.0018 52.2562 74.9068 52.5412C74.9068 52.8262 75.0018 53.0161 75.2868 53.2061L79.0866 55.1061C75.9517 59.7609 66.0722 72.4903 47.7379 78.5701C47.4529 78.6651 47.2629 79.045 47.3579 79.33C47.4529 79.615 47.7379 79.805 48.0229 79.805H48.1179C48.3079 79.615 75.2868 74.4852 87.3513 59.1909L91.9111 61.4708C92.1011 61.5658 92.386 61.5658 92.576 61.3758C92.766 61.2808 92.861 60.9958 92.766 60.7108Z"
-                                                fill="#4CD09E" />
-                                            <defs>
-                                                <filter id="filter0_b_121_217" x="-33.8252" y="-33.2854" width="207.871"
-                                                    height="207.871"
-                                                    filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                    <feComposite in2="SourceAlpha" operator="in"
-                                                        result="effect1_backgroundBlur_121_217" />
-                                                    <feBlend mode="normal" in="SourceGraphic"
-                                                        in2="effect1_backgroundBlur_121_217" result="shape" />
-                                                </filter>
-                                                <linearGradient id="paint0_linear_121_217" x1="20.1861" y1="-107.709"
-                                                    x2="114.186" y2="88.4148"
-                                                    gradientUnits="userSpaceOnUse">
-                                                    <stop stop-color="white" stop-opacity="0.27" />
-                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                </linearGradient>
-                                            </defs>
-                                        </svg>
-                                    </div>
-                                    <div class="knowledge-item">
-                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <g filter="url(#filter0_b_121_224)">
-                                                <rect x="0.174805" y="0.279907" width="139.871" height="139.871" rx="14"
-                                                    fill="#283F58" />
-                                                <rect x="0.674805" y="0.779907" width="138.871" height="138.871" rx="13.5"
-                                                    stroke="url(#paint0_linear_121_224)" />
-                                            </g>
-                                            <path
-                                                d="M70.1103 42.715C70.1103 49.5667 53.6802 72.1959 53.6802 81.2849C53.6802 90.3506 61.0446 97.715 70.1103 97.715C79.1759 97.715 86.5403 90.3506 86.5403 81.2849C86.5403 72.1959 70.1103 49.5667 70.1103 42.715ZM64.4005 81.9607C64.6336 83.9883 63.4217 85.6429 61.3709 85.6429C59.3433 85.6429 57.6886 83.9883 57.6886 81.9607C57.6886 74.3167 63.5149 69.2595 67.0806 60.823C67.5933 64.5052 62.0467 73.2679 64.4005 81.9607Z"
-                                                fill="#4CD0A0" />
-                                            <defs>
-                                                <filter id="filter0_b_121_224" x="-33.8252" y="-33.7201" width="207.871"
-                                                    height="207.871"
-                                                    filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                    <feComposite in2="SourceAlpha" operator="in"
-                                                        result="effect1_backgroundBlur_121_224" />
-                                                    <feBlend mode="normal" in="SourceGraphic"
-                                                        in2="effect1_backgroundBlur_121_224" result="shape" />
-                                                </filter>
-                                                <linearGradient id="paint0_linear_121_224" x1="20.1861" y1="-108.144"
-                                                    x2="114.186" y2="87.9801"
-                                                    gradientUnits="userSpaceOnUse">
-                                                    <stop stop-color="white" stop-opacity="0.27" />
-                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                </linearGradient>
-                                            </defs>
-                                        </svg>
-                                    </div>
-                                </div>
-                                <div class="knowledge-col">
-                                    <div class="knowledge-item">
-                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <g filter="url(#filter0_b_121_214)">
-                                                <rect x="0.899902" y="0.432861" width="139.871" height="139.871" rx="14"
-                                                    fill="#283F58" />
-                                                <rect x="1.3999" y="0.932861" width="138.871" height="138.871" rx="13.5"
-                                                    stroke="url(#paint0_linear_121_214)" />
-                                            </g>
-                                            <path
-                                                d="M59.5283 72.6033C59.2679 72.6033 59.0178 72.7048 58.8311 72.8863L39.3771 91.8027C39.1835 91.991 39.0742 92.2496 39.0742 92.5197V98.9958C39.0742 99.8808 40.1391 100.33 40.7725 99.7116L61.5588 79.4335C61.7456 79.2513 61.9962 79.1493 62.2571 79.1493H86.8602C87.1213 79.1493 87.372 79.0472 87.5588 78.8648L102.294 64.4771C102.487 64.2889 102.596 64.031 102.596 63.7616V57.2849C102.596 56.3998 101.531 55.951 100.897 56.5692L84.7587 72.319C84.5719 72.5013 84.3212 72.6033 84.0602 72.6033H59.5283ZM102.596 41.7421C102.596 40.857 101.531 40.4082 100.897 41.0265L80.1111 61.3175C79.9243 61.4998 79.6736 61.6019 79.4126 61.6019H54.8095C54.5486 61.6019 54.298 61.7039 54.1112 61.8861L39.376 76.2597C39.183 76.4479 39.0742 76.706 39.0742 76.9755V83.5385C39.0742 84.4235 40.1393 84.8723 40.7727 84.2542L56.9113 68.5044C57.098 68.3221 57.3487 68.22 57.6097 68.22H82.2128C82.4738 68.22 82.7244 68.118 82.9112 67.9357L102.294 49.0204C102.487 48.8322 102.596 48.5741 102.596 48.3047V41.7421Z"
-                                                fill="#4CD0A0" />
-                                            <defs>
-                                                <filter id="filter0_b_121_214" x="-33.1001" y="-33.5671" width="207.871"
-                                                    height="207.871"
-                                                    filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                    <feComposite in2="SourceAlpha" operator="in"
-                                                        result="effect1_backgroundBlur_121_214" />
-                                                    <feBlend mode="normal" in="SourceGraphic"
-                                                        in2="effect1_backgroundBlur_121_214" result="shape" />
-                                                </filter>
-                                                <linearGradient id="paint0_linear_121_214" x1="20.9112" y1="-107.991"
-                                                    x2="114.911" y2="88.133"
-                                                    gradientUnits="userSpaceOnUse">
-                                                    <stop stop-color="white" stop-opacity="0.27" />
-                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                </linearGradient>
-                                            </defs>
-                                        </svg>
-                                    </div>
-                                    <div class="knowledge-item">
-                                        <svg width="141" height="140" viewBox="0 0 141 140" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <g filter="url(#filter0_b_121_211)">
-                                                <rect x="0.899902" y="-0.00292969" width="139.871" height="139.871" rx="14"
-                                                    fill="#283F58" />
-                                                <rect x="1.3999" y="0.49707" width="138.871" height="138.871" rx="13.5"
-                                                    stroke="url(#paint0_linear_121_211)" />
-                                            </g>
-                                            <path d="M60.5226 51.4324H80.9674L86.0861 69.156H55.586L60.5226 51.4324Z"
-                                                fill="#4CD09E" />
-                                            <path d="M44.211 70.7087H64.6558L69.7745 88.4324H39.2744L44.211 70.7087Z"
-                                                fill="#4CD09E" />
-                                            <path d="M76.832 70.7087H97.2768L102.396 88.4324H71.8954L76.832 70.7087Z"
-                                                fill="#4CD09E" />
-                                            <defs>
-                                                <filter id="filter0_b_121_211" x="-33.1001" y="-34.0029" width="207.871"
-                                                    height="207.871"
-                                                    filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                    <feComposite in2="SourceAlpha" operator="in"
-                                                        result="effect1_backgroundBlur_121_211" />
-                                                    <feBlend mode="normal" in="SourceGraphic"
-                                                        in2="effect1_backgroundBlur_121_211" result="shape" />
-                                                </filter>
-                                                <linearGradient id="paint0_linear_121_211" x1="20.9112" y1="-108.427"
-                                                    x2="114.911" y2="87.6973"
-                                                    gradientUnits="userSpaceOnUse">
-                                                    <stop stop-color="white" stop-opacity="0.27" />
-                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                </linearGradient>
-                                            </defs>
-                                        </svg>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="knowledge-line">
-                                <svg id="knowledge-line" width="461" height="223" viewBox="0 0 461 223" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path data-start="60" data-duration="70"
-                                        d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H1.77051"
-                                        stroke="#34485F" stroke-width="2" stroke-linecap="round" />
-                                    <path data-start="110" data-duration="80" d="M459.824 107.651H274.153"
-                                        stroke="url(#paint0_linear_121_188)" stroke-width="2" stroke-linecap="round" />
-                                    <path data-start="60" data-duration="70"
-                                        d="M303.271 107.651H88.4822C82.0886 107.651 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H1.77051"
-                                        stroke="#34485F" stroke-width="2" stroke-linecap="round" />
-                                    <mask id="mask0_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1"
-                                        y="106"
-                                        width="462" height="60">
-                                        <path data-start="60" data-duration="70"
-                                            d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H0.770508"
-                                            stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
-                                    </mask>
-                                    <g mask="url(#mask0_121_188)">
-                                        <path data-start="60" data-duration="70"
-                                            d="M73.7394 177.133C80.9143 176.626 86.3186 170.412 85.8103 163.255C85.302 156.097 79.0735 150.706 71.8986 151.213C64.7236 151.72 59.3193 157.933 59.8276 165.091C60.3359 172.249 66.5644 177.64 73.7394 177.133Z"
-                                            fill="#4CD19E" />
-                                    </g>
-                                    <mask id="mask1_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37"
-                                        y="49"
-                                        width="424" height="60">
-                                        <path data-start="80" data-duration="70"
-                                            d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H38.7178"
-                                            stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
-                                    </mask>
-                                    <g mask="url(#mask1_121_188)">
-                                        <path data-start="80" data-duration="70"
-                                            d="M71.8986 64.0879C79.0735 64.595 85.302 59.2037 85.8103 52.0461C86.3186 44.8885 80.9143 38.675 73.7394 38.1679C66.5645 37.6608 60.336 43.0521 59.8276 50.2098C59.3193 57.3674 64.7237 63.5808 71.8986 64.0879Z"
-                                            fill="#4CD19E" />
-                                    </g>
-                                    <g filter="url(#filter0_d_121_188)" id="knowledge-centered">
-                                        <path d="M287.619 50.6279H210.923C200.533 50.6279 192.11 59.0302 192.11 69.3948V145.906C192.11 156.271 200.533 164.673 210.923 164.673H287.619C298.009 164.673 306.431 156.271 306.431 145.906V69.3948C306.431 59.0302 298.009 50.6279 287.619 50.6279Z"
-                                            fill="#4CD19E" />
-                                        <path d="M273.571 112.405L266.2 119.776L266.2 130.15H273.571L273.571 112.405Z"
-                                            fill="#F0F0F0" />
-                                        <path d="M242.734 98.0089L229.668 85.1504V114.472L237.04 107.101L237.04 102.747L237.633 103.33L248.365 113.354L251.571 116.44L251.62 116.487L251.669 116.44L254.875 113.354L265.607 103.33L266.2 102.747L273.571 95.3756L273.571 85.1504L260.505 98.0089L251.62 106.308L242.734 98.0089Z"
-                                            fill="#F0F0F0" />
-                                        <path d="M239.385 108.376L244.665 113.475L251.621 119.971L260.506 111.673L273.572 98.8142L273.572 109.039L266.201 116.411L265.608 116.994L254.875 127.018L251.67 130.104L251.621 130.151L251.572 130.104L248.366 127.018L239.385 118.63L230.404 127.018L227.198 130.104L227.149 130.151H216.97L236.035 111.673L239.385 108.376Z"
-                                            fill="#192B3F" />
-                                    </g>
-                                    <defs>
-                                        <filter id="filter0_d_121_188" x="138.11" y="0.62793" width="222.321"
-                                            height="222.045"
-                                            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                            <feColorMatrix in="SourceAlpha" type="matrix"
-                                                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-                                                result="hardAlpha" />
-                                            <feOffset dy="4" />
-                                            <feGaussianBlur stdDeviation="27" />
-                                            <feComposite in2="hardAlpha" operator="out" />
-                                            <feColorMatrix type="matrix"
-                                                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" />
-                                            <feBlend mode="normal" in2="BackgroundImageFix"
-                                                result="effect1_dropShadow_121_188" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_121_188"
-                                                result="shape" />
-                                        </filter>
-                                        <linearGradient id="paint0_linear_121_188" x1="303.27" y1="122.163" x2="433.27"
-                                            y2="122.163" gradientUnits="userSpaceOnUse">
-                                            <stop stop-color="#4CD19E" />
-                                            <stop offset="1" stop-color="#20344B" />
-                                        </linearGradient>
-                                    </defs>
-                                </svg>
 
-                            </div>
-                            <div class="knowledge-img">
-                                <img class="desktopImg"
-                                    src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
-                                    width="812" height="852" alt="Knowledge">
-                                <img class="mobileImg"
-                                    src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
-                                    width="352"
-                                    height="443" alt="Knowledge">
+                                <div class="knowledge-col">
+
+                                    <div class="knowledge-item">
+                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <g filter="url(#filter0_b_121_220)">
+                                                <rect x="0.380859" y="0.150391" width="139.871" height="139.871" rx="14" fill="#283F58" />
+                                                <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
+                                            </g>
+                                            <foreignObject x="20" y="20" width="100" height="100">
+                                                <i class="fas fa-solar-panel" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                            </foreignObject>
+                                            <defs>
+                                                <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
+                                                    <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_121_220" />
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_121_220" result="shape" />
+                                                </filter>
+                                                <linearGradient id="paint0_linear_121_220" x1="20.3921" y1="-108.274" x2="114.392" y2="87.8506" gradientUnits="userSpaceOnUse">
+                                                    <stop stop-color="white" stop-opacity="0.27" />
+                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
+                                                </linearGradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <div class="knowledge-item">
+                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <g filter="url(#filter0_b_121_220)">
+                                                <rect x="0.380859" y="0.150391" width="139.871" height="139.871" rx="14" fill="#283F58" />
+                                                <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
+                                            </g>
+                                            <foreignObject x="20" y="20" width="100" height="100">
+                                                <i class="fas fa-database" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                            </foreignObject>
+                                            <defs>
+                                                <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
+                                                    <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_121_220" />
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_121_220" result="shape" />
+                                                </filter>
+                                                <linearGradient id="paint0_linear_121_220" x1="20.3921" y1="-108.274" x2="114.392" y2="87.8506" gradientUnits="userSpaceOnUse">
+                                                    <stop stop-color="white" stop-opacity="0.27" />
+                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
+                                                </linearGradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <div class="knowledge-item">
+                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <g filter="url(#filter0_b_121_220)">
+                                                <rect x="0.380859" y="0.150391" width="139.871" height="139.871" rx="14" fill="#283F58" />
+                                                <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
+                                            </g>
+                                            <foreignObject x="20" y="20" width="100" height="100">
+                                                <i class="fas fa-satellite-dish" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                            </foreignObject>
+                                            <defs>
+                                                <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
+                                                    <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_121_220" />
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_121_220" result="shape" />
+                                                </filter>
+                                                <linearGradient id="paint0_linear_121_220" x1="20.3921" y1="-108.274" x2="114.392" y2="87.8506" gradientUnits="userSpaceOnUse">
+                                                    <stop stop-color="white" stop-opacity="0.27" />
+                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
+                                                </linearGradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+
+                                </div>
+                                <div class="knowledge-col">
+
+                                    <div class="knowledge-item">
+                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <g filter="url(#filter0_b_121_220)">
+                                                <rect x="0.380859" y="0.150391" width="139.871" height="139.871" rx="14" fill="#283F58" />
+                                                <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
+                                            </g>
+                                            <foreignObject x="20" y="20" width="100" height="100">
+                                                <i class="fas fa-brain" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                            </foreignObject>
+                                            <defs>
+                                                <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
+                                                    <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_121_220" />
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_121_220" result="shape" />
+                                                </filter>
+                                                <linearGradient id="paint0_linear_121_220" x1="20.3921" y1="-108.274" x2="114.392" y2="87.8506" gradientUnits="userSpaceOnUse">
+                                                    <stop stop-color="white" stop-opacity="0.27" />
+                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
+                                                </linearGradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+                                    <div class="knowledge-item">
+                                        <svg width="141" height="141" viewBox="0 0 141 141" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <g filter="url(#filter0_b_121_220)">
+                                                <rect x="0.380859" y="0.150391" width="139.871" height="139.871" rx="14" fill="#283F58" />
+                                                <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
+                                            </g>
+                                            <foreignObject x="20" y="20" width="100" height="100">
+                                                <i class="fas fa-bolt" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                            </foreignObject>
+                                            <defs>
+                                                <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                    <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                    <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
+                                                    <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_121_220" />
+                                                    <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_121_220" result="shape" />
+                                                </filter>
+                                                <linearGradient id="paint0_linear_121_220" x1="20.3921" y1="-108.274" x2="114.392" y2="87.8506" gradientUnits="userSpaceOnUse">
+                                                    <stop stop-color="white" stop-opacity="0.27" />
+                                                    <stop offset="1" stop-color="white" stop-opacity="0" />
+                                                </linearGradient>
+                                            </defs>
+                                        </svg>
+                                    </div>
+
+                                </div>
+                                <div class="knowledge-line">
+                                    <svg id="knowledge-line" width="461" height="223" viewBox="0 0 461 223" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path data-start="60" data-duration="70"
+                                            d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H1.77051"
+                                            stroke="#34485F" stroke-width="2" stroke-linecap="round" />
+                                        <path data-start="110" data-duration="80" d="M459.824 107.651H274.153"
+                                            stroke="url(#paint0_linear_121_188)" stroke-width="2" stroke-linecap="round" />
+                                        <path data-start="60" data-duration="70"
+                                            d="M303.271 107.651H88.4822C82.0886 107.651 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H1.77051"
+                                            stroke="#34485F" stroke-width="2" stroke-linecap="round" />
+                                        <mask id="mask0_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1"
+                                            y="106"
+                                            width="462" height="60">
+                                            <path data-start="60" data-duration="70"
+                                                d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H0.770508"
+                                                stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
+                                        </mask>
+                                        <g mask="url(#mask0_121_188)">
+                                            <path data-start="60" data-duration="70"
+                                                d="M73.7394 177.133C80.9143 176.626 86.3186 170.412 85.8103 163.255C85.302 156.097 79.0735 150.706 71.8986 151.213C64.7236 151.72 59.3193 157.933 59.8276 165.091C60.3359 172.249 66.5644 177.64 73.7394 177.133Z"
+                                                fill="#4CD19E" />
+                                        </g>
+                                        <mask id="mask1_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37"
+                                            y="49"
+                                            width="424" height="60">
+                                            <path data-start="80" data-duration="70"
+                                                d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H38.7178"
+                                                stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
+                                        </mask>
+                                        <g mask="url(#mask1_121_188)">
+                                            <path data-start="80" data-duration="70"
+                                                d="M71.8986 64.0879C79.0735 64.595 85.302 59.2037 85.8103 52.0461C86.3186 44.8885 80.9143 38.675 73.7394 38.1679C66.5645 37.6608 60.336 43.0521 59.8276 50.2098C59.3193 57.3674 64.7237 63.5808 71.8986 64.0879Z"
+                                                fill="#4CD19E" />
+                                        </g>
+                                        <g filter="url(#filter0_d_121_188)" id="knowledge-centered">
+                                            <path d="M287.619 50.6279H210.923C200.533 50.6279 192.11 59.0302 192.11 69.3948V145.906C192.11 156.271 200.533 164.673 210.923 164.673H287.619C298.009 164.673 306.431 156.271 306.431 145.906V69.3948C306.431 59.0302 298.009 50.6279 287.619 50.6279Z"
+                                                fill="#4CD19E" />
+                                            <path d="M273.571 112.405L266.2 119.776L266.2 130.15H273.571L273.571 112.405Z"
+                                                fill="#F0F0F0" />
+                                            <path d="M242.734 98.0089L229.668 85.1504V114.472L237.04 107.101L237.04 102.747L237.633 103.33L248.365 113.354L251.571 116.44L251.62 116.487L251.669 116.44L254.875 113.354L265.607 103.33L266.2 102.747L273.571 95.3756L273.571 85.1504L260.505 98.0089L251.62 106.308L242.734 98.0089Z"
+                                                fill="#F0F0F0" />
+                                            <path d="M239.385 108.376L244.665 113.475L251.621 119.971L260.506 111.673L273.572 98.8142L273.572 109.039L266.201 116.411L265.608 116.994L254.875 127.018L251.67 130.104L251.621 130.151L251.572 130.104L248.366 127.018L239.385 118.63L230.404 127.018L227.198 130.104L227.149 130.151H216.97L236.035 111.673L239.385 108.376Z"
+                                                fill="#192B3F" />
+                                        </g>
+                                        <defs>
+                                            <filter id="filter0_d_121_188" x="138.11" y="0.62793" width="222.321"
+                                                height="222.045"
+                                                filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                                                <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                <feColorMatrix in="SourceAlpha" type="matrix"
+                                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+                                                    result="hardAlpha" />
+                                                <feOffset dy="4" />
+                                                <feGaussianBlur stdDeviation="27" />
+                                                <feComposite in2="hardAlpha" operator="out" />
+                                                <feColorMatrix type="matrix"
+                                                    values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" />
+                                                <feBlend mode="normal" in2="BackgroundImageFix"
+                                                    result="effect1_dropShadow_121_188" />
+                                                <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_121_188"
+                                                    result="shape" />
+                                            </filter>
+                                            <linearGradient id="paint0_linear_121_188" x1="303.27" y1="122.163" x2="433.27"
+                                                y2="122.163" gradientUnits="userSpaceOnUse">
+                                                <stop stop-color="#4CD19E" />
+                                                <stop offset="1" stop-color="#20344B" />
+                                            </linearGradient>
+                                        </defs>
+                                    </svg>
+
+                                </div>
+                                <div class="knowledge-img">
+                                    <img class="desktopImg"
+                                        src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
+                                        width="812" height="852" alt="Knowledge">
+                                    <img class="mobileImg"
+                                        src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
+                                        width="352"
+                                        height="443" alt="Knowledge">
+                                </div>
+
                             </div>
 
                         </div>
-
                     </div>
-                </div>
             </section>
             <section class="section why">
                 <div class="container">
@@ -634,8 +580,7 @@
 
                             <div class="why-info">
 
-                                <div class="why-label">
-                                    Why <span>Market Makers?</span> </div>
+                                <div></div>
                                 <h2 class="why-title">
                                     Optimiza tu <span>energía</span>
                                 </h2>
@@ -649,9 +594,9 @@
                                 </div>
 
                             </div>
-                            <div class="why-point">
+                            <!-- <div class="why-point">
                                 Active community
-                            </div>
+                            </div> -->
 
                         </div>
                         <div class="why-body">
@@ -660,7 +605,7 @@
                                 <div class="why-item">
 
                                     <div class="why-item__icon">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2023/11/1.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/11/1.svg">
+                                        <i class="fas fa-chart-line" style="font-size: 80px; color: #4CD09E;"></i>
                                     </div>
                                     <h6 class="why-item__title">
                                         <span>Análisis inicial y propuesta</span>
@@ -673,7 +618,7 @@
                                 <div class="why-item">
 
                                     <div class="why-item__icon">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2023/11/3.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/11/3.svg">
+                                        <i class="fas fa-file-signature" style="font-size: 80px; color: #4CD09E;"></i>
                                     </div>
                                     <h6 class="why-item__title">
                                         <span>Autorización y firma</span>
@@ -686,7 +631,7 @@
                                 <div class="why-item">
 
                                     <div class="why-item__icon">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2023/11/2.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/11/2.svg">
+                                        <i class="fas fa-tools" style="font-size: 80px; color: #4CD09E;"></i>
                                     </div>
                                     <h6 class="why-item__title">
                                         <span>Implementación y optimización continua</span>
@@ -694,7 +639,7 @@
                                     <p class="why-item__desc">
                                         Instalamos, monitoreamos y mejoramos tu sistema energético con tecnología avanzada 24/7. Si no ahorras, no pagas.
                                     </p>
-
+                                    
                                 </div>
 
                             </div>
@@ -705,20 +650,28 @@
             </section>
             <section class="section partners">
                 <div class="partners-wrap">
+
                     <h2 class="partners-title">
-                        Our <span>partners </h2>
+                        Nuestros
+                        <span>clientes</span>
+                    </h2>
                     <div class="partners-list">
                         <div class="partners-track">
+
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/simpleflex.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/teleton.webp" alt="teleton">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        Simplefx </div>
+                                        Fundación Teletón
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        Our go-to broker for Forex and CFD trading, offering exclusive benefits and tools for our members. </div>
-                                    <a href="https://sfx.unilink.io/MarketMakersVIP" class="partners-item__tooltip-link">
+                                        Organización mexicana dedicada a la construcción y operación de centros de rehabilitación para niños con discapacidad.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -727,18 +680,24 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/06/1.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/conagua.webp" alt="conagua">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        Bitunix </div>
+                                        CONAGUA
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        Market Makers traders love Bitunix for its fresh interface and comprehensive coin offerings. </div>
-                                    <a href="https://www.bitunix.com/register?vipCode=MarketMakersVIP" class="partners-item__tooltip-link">
+                                        Institución gubernamental encargada del manejo de los recursos hídricos en México.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -747,18 +706,24 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/proton.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/vitol.webp" alt="vitol">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        Proton AG </div>
+                                        Vitol
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        We trust Proton's products, like ProtonVPN, to secure our financial data. Recommended for safe online transactions. </div>
-                                    <a href="https://proton.me/" class="partners-item__tooltip-link">
+                                        Multinacional suiza de comercialización y distribución de energía y productos petroleros.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -767,18 +732,24 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/tradingView-1.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/onu.webp" alt="onu">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        Tradingview </div>
+                                        ONU
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        Essential for all our technical analysis needs. An ultimately powerful and versatile suite of tools. Undoubtedly the most used platform for any serious trader. We're proud to use Tradingview daily. </div>
-                                    <a href="https://www.tradingview.com/" class="partners-item__tooltip-link">
+                                        Organización internacional que promueve la paz, los derechos humanos y el desarrollo sostenible.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -787,18 +758,24 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/stripe.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/proximaE.webp" alt="proximaE">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        Stripe </div>
+                                        La Próxima Estación
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        Our trusted payment service provider, ensuring secure and smooth transactions for our clients. </div>
-                                    <a href="https://stripe.com/" class="partners-item__tooltip-link">
+                                        Negocio familiar dedicado al cultivo, proceso y exportación de frutas/vegetales congelados.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -807,18 +784,24 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/paypal.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/infonavit.webp" alt="infonavit">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        PayPal </div>
+                                        Infonavit
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        A versatile payment solution we use and recommend for its ease of use and reliability. </div>
-                                    <a href="https://www.paypal.com/" class="partners-item__tooltip-link">
+                                        Instituto del Fondo Nacional de la Vivienda para los Trabajadores en México, otorga créditos para vivienda.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -827,18 +810,24 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
                             <div class="partners-item">
+
                                 <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/discord.svg" alt="Partners">
+                                    <img src="./assets/img/pages/index/clientes/qualitas.webp" alt="qualitas">
                                 </div>
                                 <div class="partners-item__tooltip">
+
                                     <div class="partners-item__tooltip-title">
-                                        Discord </div>
+                                        Qualitas
+                                    </div>
                                     <div class="partners-item__tooltip-desc">
-                                        The heart of our community. We use Discord to connect, share insights, and collaborate. </div>
-                                    <a href="https://discord.com/invite/8dQwpAhpYn/login" class="partners-item__tooltip-link">
+                                        Empresa aseguradora mexicana especializada en seguros de autos
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
                                         <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="30" height="30" rx="15" fill="#9FB1C5" />
@@ -847,10 +836,248 @@
                                                 fill="#192B3F" />
                                         </svg>
                                     </a>
+
                                 </div>
+
                             </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/alpura.webp" alt="alpura">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        Alpura
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Empresa mexicana de productos lácteos y derivados.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/cocaCola.webp" alt="cocaCola">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        Coca-Cola
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Una de las compañías de bebidas más grandes del mundo, famosa por su refresco de cola.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/tecM.webp" alt="tecM">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        TEC de Monterrey
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Prestigiosa universidad privada de México, enfocada en innovación y tecnología.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/conaford.webp" alt="conaford">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        CONAFOR
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Institución mexicana encargada de la gestión y conservación de los bosques.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/reciclaLo.webp" alt="reciclaLo">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        Recicla Lo
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Iniciativa ecológica enfocada en el reciclaje de materiales y sustentabilidad.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/grupoMexico.webp" alt="grupoMexico">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        Grupo México
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Una de las empresas mineras más grandes de México, con inversiones en infraestructura y transporte.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/nhkMexico.webp" alt="nhkMexico">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        NHK Spring México
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Empresa japonesa especializada en la fabricación de autopartes y sistemas de suspensión.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/bbva.webp" alt="bbva">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        BBVA
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Grupo bancario multinacional español con una fuerte presencia en México y Latinoamérica.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+                            <div class="partners-item">
+
+                                <div class="partners-item__img">
+                                    <img src="./assets/img/pages/index/clientes/pilgrim.webp" alt="piilgrim">
+                                </div>
+                                <div class="partners-item__tooltip">
+
+                                    <div class="partners-item__tooltip-title">
+                                        Pilgrim’s
+                                    </div>
+                                    <div class="partners-item__tooltip-desc">
+                                        Empresa productora de carne de pollo con presencia en México y EE.UU.
+                                    </div>
+                                    <a href="#" class="partners-item__tooltip-link">
+                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
+                                            xmlns="http://www.w3.org/2000/svg">
+                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
+                                            <path
+                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
+                                                fill="#192B3F" />
+                                        </svg>
+                                    </a>
+
+                                </div>
+
+                            </div>
+
                         </div>
                     </div>
+
                 </div>
             </section>
             <section class="section learn">
@@ -876,8 +1103,7 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Interactive-trade-ideas-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/ahorroSinInversion.webp" alt="ahorroSinInversión">
                                                 </div>
                                             </div>
                                         </div>
@@ -903,8 +1129,8 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Market-Makers-VIP-with-SimpleFX-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/mayorValorEmpresa.webp"
+                                                        alt="mayorValorEmpresa">
                                                 </div>
                                             </div>
                                         </div>
@@ -929,8 +1155,7 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Weekly-global-market-updates-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/innovacionContinua.webp" alt="innovacionContinua">
                                                 </div>
                                             </div>
                                         </div>
@@ -956,8 +1181,7 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Personalized-help-on-any-device-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/cumplimientoASG.webp" alt="cumplimientoASG">
                                                 </div>
                                             </div>
                                         </div>
@@ -984,8 +1208,7 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Live-QA-forums-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/ahorroSinInversion.webp" alt="ceroRisegos">
                                                 </div>
                                             </div>
                                         </div>
@@ -1012,8 +1235,7 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Live-QA-forums-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/monitoreoIA.webp" alt="monitoreoIA">
                                                 </div>
                                             </div>
                                         </div>
@@ -1045,8 +1267,7 @@
                                         <div class="learn-item__info">
                                             <div class="learn-item__img">
                                                 <div class="learn-item__img-wrap">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Live-QA-forums-1.jpg"
-                                                        alt="Learn">
+                                                    <img src="./assets/img/pages/index/ahorro/noAhorrasNoPagas.webp" alt="noAhorrasNoPagas">
                                                 </div>
                                             </div>
                                         </div>
@@ -1066,10 +1287,11 @@
 
                             </div>
                             <div class="learn-media">
+
                                 <div class="learn-img active"
                                     data-item="item1">
                                     <div class="learn-img__wrap">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Interactive-trade-ideas-1.jpg" alt="Learn">
+                                        <img src="./assets/img/pages/index/ahorro/ahorroSinInversion.webp" alt="ahorroSinInversion">
                                         <div class="learn-img__icon">
                                             <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -1167,7 +1389,7 @@
                                 <div class="learn-img "
                                     data-item="item2">
                                     <div class="learn-img__wrap">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Market-Makers-VIP-with-SimpleFX-1.jpg" alt="Learn">
+                                        <img src="./assets/img/pages/index/ahorro/mayorValorEmpresa.webp" alt="mayorValorEmpresa">
                                         <div class="learn-img__icon">
                                             <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -1265,7 +1487,7 @@
                                 <div class="learn-img "
                                     data-item="item3">
                                     <div class="learn-img__wrap">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Weekly-global-market-updates-1.jpg" alt="Learn">
+                                        <img src="./assets/img/pages/index/ahorro/inovacionContinua.webp" alt="inovacionContinua">
                                         <div class="learn-img__icon">
                                             <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -1363,7 +1585,7 @@
                                 <div class="learn-img "
                                     data-item="item4">
                                     <div class="learn-img__wrap">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Personalized-help-on-any-device-1.jpg" alt="Learn">
+                                        <img src="./assets/img/pages/index/ahorro/cumplimientoASG.webp" alt="cumplimientoASG">
                                         <div class="learn-img__icon">
                                             <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -1461,7 +1683,7 @@
                                 <div class="learn-img "
                                     data-item="item5">
                                     <div class="learn-img__wrap">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/Home-page_Learn-section_Live-QA-forums-1.jpg" alt="Learn">
+                                        <img src="./assets/img/pages/index/ahorro/ceroRiesgo.webp" alt="ceroRiesgo">
                                         <div class="learn-img__icon">
                                             <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
@@ -1556,10 +1778,207 @@
                                         </div>
                                     </div>
                                 </div>
+                                <div class="learn-img "
+                                    data-item="item6">
+                                    <div class="learn-img__wrap">
+                                        <img src="./assets/img/pages/index/ahorro/monitoreoIA.webp" alt="monitoreoIA">
+                                        <div class="learn-img__icon">
+                                            <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_248_2)">
+                                                    <g filter="url(#filter0_f_248_2)">
+                                                        <path d="M173.995 484.707C165.267 482.749 147.034 470.748 117.925 471.302C88.8157 471.857 75.757 474.411 60.6699 484.707V531.983H611.743V406.478C598.008 422.666 586.019 429.768 553.986 437.634C553.986 437.634 525.57 441.375 502.839 437.634C480.108 433.893 447.274 440.128 436.666 448.233C426.058 456.339 405.347 456.708 382.111 453.221C332.34 445.753 326.546 466.314 309.371 466.314C284.62 466.314 275.1 439.734 230.57 466.314C199.757 484.707 204.808 491.623 173.995 484.707Z"
+                                                            fill="url(#paint0_radial_248_2)" />
+                                                    </g>
+                                                    <g filter="url(#filter1_f_248_2)">
+                                                        <ellipse cx="134.396" cy="529.129" rx="36.7354"
+                                                            ry="111.736"
+                                                            fill="#0CF067" fill-opacity="0.2" />
+                                                    </g>
+                                                    <g filter="url(#filter2_f_248_2)">
+                                                        <ellipse cx="229.873" cy="563.767" rx="36.7354"
+                                                            ry="174.289"
+                                                            fill="#0CF067" fill-opacity="0.5" />
+                                                    </g>
+                                                    <g filter="url(#filter3_f_248_2)">
+                                                        <ellipse cx="134.396" cy="556.446" rx="36.7354"
+                                                            ry="74.4673"
+                                                            fill="#84FFA4" />
+                                                    </g>
+                                                    <g filter="url(#filter4_f_248_2)">
+                                                        <ellipse cx="229.873" cy="582.553" rx="36.7354"
+                                                            ry="137.172"
+                                                            fill="#84FFA4" />
+                                                    </g>
+                                                </g>
+                                                <defs>
+                                                    <filter id="filter0_f_248_2" x="16.6699" y="362.478"
+                                                        width="639.073" height="213.505"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter1_f_248_2" x="53.6602" y="373.394"
+                                                        width="161.471" height="311.471"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter2_f_248_2" x="149.138" y="345.478"
+                                                        width="161.471" height="436.579"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter3_f_248_2" x="53.6602" y="437.978"
+                                                        width="161.471" height="236.935"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter4_f_248_2" x="149.138" y="401.382"
+                                                        width="161.471" height="362.343"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <radialGradient id="paint0_radial_248_2" cx="0" cy="0" r="1"
+                                                        gradientUnits="userSpaceOnUse"
+                                                        gradientTransform="translate(335.867 451.435) rotate(56.5124) scale(84.9747 267.913)">
+                                                        <stop stop-color="#0CF067" />
+                                                        <stop offset="1" stop-color="#1A2C41" stop-opacity="0" />
+                                                    </radialGradient>
+                                                    <clipPath id="clip0_248_2">
+                                                        <rect width="552" height="472" fill="white" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="learn-img "
+                                    data-item="item7">
+                                    <div class="learn-img__wrap">
+                                        <img src="./assets/img/pages/index/ahorro/noAhorrasNoPagas.webp" alt="noAhorrasNoPagas">
+                                        <div class="learn-img__icon">
+                                            <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
+                                                xmlns="http://www.w3.org/2000/svg">
+                                                <g clip-path="url(#clip0_248_2)">
+                                                    <g filter="url(#filter0_f_248_2)">
+                                                        <path d="M173.995 484.707C165.267 482.749 147.034 470.748 117.925 471.302C88.8157 471.857 75.757 474.411 60.6699 484.707V531.983H611.743V406.478C598.008 422.666 586.019 429.768 553.986 437.634C553.986 437.634 525.57 441.375 502.839 437.634C480.108 433.893 447.274 440.128 436.666 448.233C426.058 456.339 405.347 456.708 382.111 453.221C332.34 445.753 326.546 466.314 309.371 466.314C284.62 466.314 275.1 439.734 230.57 466.314C199.757 484.707 204.808 491.623 173.995 484.707Z"
+                                                            fill="url(#paint0_radial_248_2)" />
+                                                    </g>
+                                                    <g filter="url(#filter1_f_248_2)">
+                                                        <ellipse cx="134.396" cy="529.129" rx="36.7354"
+                                                            ry="111.736"
+                                                            fill="#0CF067" fill-opacity="0.2" />
+                                                    </g>
+                                                    <g filter="url(#filter2_f_248_2)">
+                                                        <ellipse cx="229.873" cy="563.767" rx="36.7354"
+                                                            ry="174.289"
+                                                            fill="#0CF067" fill-opacity="0.5" />
+                                                    </g>
+                                                    <g filter="url(#filter3_f_248_2)">
+                                                        <ellipse cx="134.396" cy="556.446" rx="36.7354"
+                                                            ry="74.4673"
+                                                            fill="#84FFA4" />
+                                                    </g>
+                                                    <g filter="url(#filter4_f_248_2)">
+                                                        <ellipse cx="229.873" cy="582.553" rx="36.7354"
+                                                            ry="137.172"
+                                                            fill="#84FFA4" />
+                                                    </g>
+                                                </g>
+                                                <defs>
+                                                    <filter id="filter0_f_248_2" x="16.6699" y="362.478"
+                                                        width="639.073" height="213.505"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter1_f_248_2" x="53.6602" y="373.394"
+                                                        width="161.471" height="311.471"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter2_f_248_2" x="149.138" y="345.478"
+                                                        width="161.471" height="436.579"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter3_f_248_2" x="53.6602" y="437.978"
+                                                        width="161.471" height="236.935"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <filter id="filter4_f_248_2" x="149.138" y="401.382"
+                                                        width="161.471" height="362.343"
+                                                        filterUnits="userSpaceOnUse"
+                                                        color-interpolation-filters="sRGB">
+                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
+                                                        <feBlend mode="normal" in="SourceGraphic"
+                                                            in2="BackgroundImageFix" result="shape" />
+                                                        <feGaussianBlur stdDeviation="22"
+                                                            result="effect1_foregroundBlur_248_2" />
+                                                    </filter>
+                                                    <radialGradient id="paint0_radial_248_2" cx="0" cy="0" r="1"
+                                                        gradientUnits="userSpaceOnUse"
+                                                        gradientTransform="translate(335.867 451.435) rotate(56.5124) scale(84.9747 267.913)">
+                                                        <stop stop-color="#0CF067" />
+                                                        <stop offset="1" stop-color="#1A2C41" stop-opacity="0" />
+                                                    </radialGradient>
+                                                    <clipPath id="clip0_248_2">
+                                                        <rect width="552" height="472" fill="white" />
+                                                    </clipPath>
+                                                </defs>
+                                            </svg>
+                                        </div>
+                                    </div>
+                                </div>
+
                             </div>
 
                         </div>
-                        <div class="learn-cta">
+                        <!-- <div class="learn-cta">
                             <h6 class="learn-cta__title">
                                 Any <span>questions?</span> </h6>
                             <p class="learn-cta__desc">
@@ -1577,7 +1996,7 @@
                                         Get Started </span>
                                 </a>
                             </div>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
@@ -2060,7 +2479,7 @@
             <section class="section reviews">
                 <div class="reviews-wrap">
 
-                    <div class="reviews-slogan">Client response</div>
+                    <!-- <div class="reviews-slogan">Client response</div> -->
                     <h2 class="reviews-title">
                         Clientes <span>Específicos</span>
                     </h2>
@@ -2255,7 +2674,7 @@
                     </div>
                 </div>
             </section>
-            <section class=" section faq">
+            <!-- <section class=" section faq">
                 <div class="container">
                     <div class="faq-wrap">
                         <div class="faq-info">
@@ -2378,7 +2797,7 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
 
         </div>
         <div id="otros">
