@@ -38,11 +38,9 @@
 
                         <div class="contact-left">
 
-                            <!-- <h6 class="contact-label">Contacts</h6> -->
                             <h1 class="contact-title">
                                 EY<span>COT</span>
                             </h1>
-                            <!-- <p class="contact-info">Why not send us a message? We're always here to help.</p> -->
                             <div class="contact-group">
 
                                 <div class="contact-social">
@@ -159,7 +157,7 @@
                             <form action="#" class="contact-form">
 
                                 <h2 class="contact-form__title">
-                                    Contac<span>tanos</span>
+                                    Contác<span>tanos</span>
                                 </h2>
                                 <div class="contact-form__row">
                                     <label>
@@ -189,13 +187,6 @@
                                         <span class="name-error"></span>
                                     </label>
                                 </div>
-                                <!-- <div class="contact-form__row">
-                                    <label>
-                                        <span>Your message</span>
-                                        <textarea name="message" class="contact-message"
-                                            placeholder="Type your message here"></textarea>
-                                    </label>
-                                </div> -->
                                 <div class="contact-form__row">
                                     <label>
                                         <span>¿Cuál es tu consumo de luz al mes?</span>
@@ -206,11 +197,6 @@
                                 <div class="contact-form__action">
                                     <button class="contact-button">
                                         Send
-                                        <svg width="15" height="13" viewBox="0 0 15 13" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M14.2891 7.14786L9.03909 12.3979C8.9575 12.4794 8.85356 12.535 8.74041 12.5575C8.62726 12.58 8.50998 12.5684 8.40339 12.5242C8.29681 12.4801 8.20571 12.4053 8.14161 12.3094C8.07752 12.2135 8.0433 12.1007 8.04329 11.9853V7.31868H1.04329C0.888584 7.31868 0.740211 7.25722 0.630815 7.14783C0.521419 7.03843 0.459961 6.89006 0.459961 6.73535C0.459961 6.58064 0.521419 6.43227 0.630815 6.32287C0.740211 6.21347 0.888584 6.15202 1.04329 6.15202H8.04329V1.48535C8.0433 1.36999 8.07751 1.25721 8.14161 1.16129C8.20571 1.06537 8.29681 0.990602 8.40339 0.94645C8.50998 0.902298 8.62726 0.890741 8.74041 0.913239C8.85356 0.935737 8.95751 0.99128 9.03909 1.07285L14.2891 6.32284C14.3433 6.37701 14.3862 6.44132 14.4156 6.5121C14.4449 6.58288 14.46 6.65874 14.46 6.73535C14.46 6.81196 14.4449 6.88782 14.4156 6.9586C14.3862 7.02938 14.3433 7.09369 14.2891 7.14786Z"
-                                                fill="#192B3F" />
-                                        </svg>
                                     </button>
                                 </div>
 
@@ -563,9 +549,6 @@
                     <h3 class="popup__title">
                         Are you sure you want to cancel?
                     </h3>
-                    <!--<div class="popup__description">-->
-                    <!--    Do you want to cancel your subscription?-->
-                    <!--</div>-->
                     <div class="box__union">
                         <a href="#" class="popup__content-button-close">
                             Close

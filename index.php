@@ -52,7 +52,7 @@
                                 Ahorra desde el primer día sin inversión inicial. Implementamos tecnología avanzada para maximizar tu eficiencia energética.
                             </p>
                             <div class="hero-link">
-                                <a href="#" class="btnArrow btnArrow-green" style="transform: translateY(20%);">
+                                <a href="./pages/contacto.php" class="btnArrow btnArrow-green" style="transform: translateY(20%);">
                                     <span class="btnArrow-title">Solicita tu diagnóstico gratuito</span>
                                 </a>
                             </div>
@@ -347,6 +347,7 @@
 
                             </div>
                         </div>
+                        
                     </div>
             </section>
             <section class="section why">
@@ -361,7 +362,7 @@
                                     Optimiza tu <span>energía</span>
                                 </h2>
                                 <div class="why-link">
-                                    <a href="#" class="btnArrow btnArrow-green">
+                                    <a href="https://wa.me/524461074964" class="btnArrow btnArrow-green" target="_blank">
 
                                         <span class="btnArrow-title">Agenda tu diagnóstico gratuito</span>
 
@@ -737,7 +738,7 @@
                                         <p class="learn-item__desc">
                                             Reduce costos desde el primer día sin descapitalizarte.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -763,7 +764,7 @@
                                         <p class="learn-item__desc">
                                             Implementa tecnologías que optimizan tu operación y aumentan tu competitividad.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -787,7 +788,7 @@
                                         <p class="learn-item__desc">
                                             Mantente a la vanguardia con herramientas energéticas avanzadas.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -812,7 +813,7 @@
                                         <p class="learn-item__desc">
                                             Accede a financiamientos verdes y fortalece tu reputación.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -838,7 +839,7 @@
                                         <p class="learn-item__desc">
                                             Nos encargamos de la inversión y mantenimiento, asegurando eficiencia operativa.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -864,7 +865,7 @@
                                         <p class="learn-item__desc">
                                             Detecta oportunidades de ahorro en tiempo real y mejora tu consumo energético.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -895,7 +896,7 @@
                                         <p class="learn-item__desc">
                                             Sin riesgos financieros, solo resultados reales.
                                         </p>
-                                        <a href="#" class="btnArrow btnArrow-green">
+                                        <a href="./pages/contacto.php" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
 
@@ -1726,7 +1727,7 @@
                                 </span>
                             </h2>
                             <div class="banner-link">
-                                <a href="#">
+                                <a href="./pages/contacto.php">
                                     <span class="banner-link__title">Empieza ahora </span>
                                 </a>
                             </div>

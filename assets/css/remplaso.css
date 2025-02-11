@@ -225,11 +225,6 @@ body {
     color: #B71828 !important;
 }
 
-.reviews-item__content {
-    border: 1px solid #2c3d6a !important;
-    background: #2c3d6a !important;
-}
-
 .reviews-navigation-block:before,
 .reviews-navigation-block,
 .reviews-navigation-block::after,
@@ -284,18 +279,94 @@ body {
     fill-opacity: 1;
 }
 
-.mission-item:not(:first-child),
-.why-item,
-.header-wrap {
-    border: 1px solid #18223B !important;
-    background: #18223B !important;
-}
-
 .reviews-navigation button:not(:first-child):after {
     background: #2c3d6a !important;
 }
 
+.specializing-title span:after {
+    background: none !important;
+}
+
+.specializing-title span {
+    color: #B71828 !important;
+}
+
+.specializing-desc {
+    color: #cac4eb !important
+}
+
+.ideas-subtitle span {
+    color: #B71828 !important;
+}
+
+.ideas-desc p {
+    color: #cac4eb !important;
+}
+
+.ideas-wrap {
+    background: #2c3d6a !important;
+}
+
+.knowledge-desc {
+    color: #cac4eb !important;
+}
+
+.faq-desc {
+    color: #cac4eb !important;
+}
+
+.faq-title span {
+    color: #B71828 !important;
+}
+
+.faq-item__body {
+    color: #cac4eb !important;
+}
+
+.contact-title span {
+    color: #B71828 !important;
+}
+
+.contact-form__title span {
+    color: #B71828 !important;
+}
+
+.contact-form {
+    background: #2c3d6a !important;
+}
+
+.contact-form button {
+    background: #B71828 !important;
+    color: #fff !important;
+}
+
+.mission-item:not(:first-child),
+.why-item,
+.header-wrap,
+.contact-form label input:not([type=checkbox]), .contact-form label textarea {
+    border: 1px solid #18223B !important;
+    background: #18223B !important;
+}
+
+.reviews-item__content,
+.faq-item {
+    border: 1px solid #2c3d6a !important;
+    background: #2c3d6a !important;
+}
+
 @media screen and (max-width: 991px) {
+
+    .moveLeft{
+        width: 50%;
+    }
+
+    .hero-link {
+        position: fixed !important;
+        bottom: 0px !important;
+        left: 0 !important;
+        width: 50% !important;
+    }
+
     .knowledge-img img {
         margin-left: 0px !important;
     }

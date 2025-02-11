@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="es">
 
 <head>
     <!-- Meta -->
@@ -50,28 +50,18 @@
                                 </strong>
                                 revolucionamos la gestión energética con tecnología avanzada, asegurando eficiencia, ahorro y sostenibilidad sin inversión inicial.
                             </p>
-                            <div class="hero-info specializing-desc">
+                            <div class="hero-info specializing-desc" style="margin-top: 10%;">
                                 <div class="hero-link">
-                                    <a href="#" class="btnArrow btnArrow-green">
-
-                                        <span class="btnArrow-title">Descubre nuestra historia</span>
-                                        <span class="btnArrow-icon"></span>
-
+                                    <a href="#optimizacion" class="btnArrow btnArrow-green">
+                                        <span class="btnArrow-title">Descubre nuestra trayectoria</span>
                                     </a>
                                 </div>
                             </div>
-                            <!-- <a href="#ideas" class="specializing-scroll smoothScroll">
-                                <svg width="12" height="14" viewBox="0 0 12 14" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                    <path
-                                        d="M5.58719 13.8291L0.337194 8.57913C0.255628 8.49754 0.200084 8.3936 0.177587 8.28045C0.155089 8.1673 0.166647 8.05002 0.210799 7.94343C0.25495 7.83685 0.329714 7.74575 0.425637 7.68165C0.521559 7.61755 0.634333 7.58334 0.7497 7.58333L5.41636 7.58333L5.41636 0.583333C5.41636 0.428623 5.47782 0.28025 5.58722 0.170854C5.69661 0.061458 5.84499 -2.61745e-07 5.9997 -2.54982e-07C6.15441 -2.4822e-07 6.30278 0.061458 6.41218 0.170854C6.52157 0.28025 6.58303 0.428623 6.58303 0.583333L6.58303 7.58333L11.2497 7.58333C11.3651 7.58334 11.4778 7.61755 11.5738 7.68165C11.6697 7.74575 11.7444 7.83685 11.7886 7.94343C11.8327 8.05002 11.8443 8.1673 11.8218 8.28045C11.7993 8.3936 11.7438 8.49754 11.6622 8.57913L6.4122 13.8291C6.35803 13.8833 6.29372 13.9263 6.22294 13.9556C6.15217 13.9849 6.07631 14 5.9997 14C5.92309 14 5.84723 13.9849 5.77645 13.9556C5.70567 13.9263 5.64136 13.8833 5.58719 13.8291Z"
-                                        fill="#A7C5E7" />
-                                </svg>
-                            </a> -->
 
                         </div>
-                        <div class="specializing-media">
+                        <div class="specializing-media" style="margin-top: 10%;">
                             <div class="specializing-media__img">
-                                <img src="../assets/img/imagenPrueba.png" alt="https://marketmakers.trade/wp-content/uploads/2024/02/AU-Hero-section-2.png">
+                                <img src="../assets/img/pages/acercaDe/ingeniero.webp" alt="ingeniero" class="border-radius">
                             </div>
                         </div>
 
@@ -86,7 +76,6 @@
 
                             <div class="ideas-info">
 
-                                <!-- <div class="ideas-label">what we're <span>about</span></div> -->
                                 <h2 class="ideas-subtitle">
                                     Cómo funciona
                                     <span>EaaS</span>
@@ -106,10 +95,9 @@
                                     </div>
                                 </div>
                                 <div class="ideas-action" style="padding-top: 2%;">
-                                    <a href="#" class="btnArrow btnArrow-green">
+                                    <a href="#comoHacemos" class="btnArrow btnArrow-green">
 
                                         <span class="btnArrow-title">Descubre cómo optimizamos tu energía</span>
-                                        <span class="btnArrow-icon"></span>
 
                                     </a>
                                 </div>
@@ -117,92 +105,16 @@
                             </div>
                             <div class="ideas-media">
                                 <div class="ideas-media__img">
-                                    <img src="../assets/img/imagenPrueba.png" alt="https://marketmakers.trade/wp-content/uploads/2024/02/About-page_Ideas-section-1.jpg">
+                                    <img src="../assets/img/pages/acercaDe/comoFunciona.webp" alt="pregunta">
                                 </div>
                             </div>
 
                         </div>
-                        <!-- <div class="ideas-body">
-
-                            <h2 class="ideas-subtitle">
-                                Cómo funciona
-                                <span>EaaS</span>
-                                en
-                                <span>EYCOT</span>
-                            </h2>
-                            <div class="ideas-desc">
-                                <div class="ideas-desc__wrap">
-                                    <p>
-                                        <strong>
-                                            Energy as a Service (EaaS)
-                                        </strong>
-                                        te permite optimizar tu consumo energético sin inversión inicial. Implementamos tecnología avanzada para maximizar la eficiencia, reducir costos y garantizar el cumplimiento de normativas.
-                                        <br><br>
-                                        Con nuestro modelo, nos encargamos de todo: desde el análisis inicial hasta la gestión y mantenimiento continuo. Además, con monitoreo 24/7 basado en IA, aseguramos ahorros constantes y un rendimiento óptimo.
-                                    </p>
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="ideas-step">
-                            <div class="ideas-step__title">Get started <span>for free</span></div>
-                            <div class="ideas-step__subtitle">Choose any paid plan and get 7-days on us</div>
-                            <div class="ideas-step__list">
-                                <div class="ideas-step__item">
-                                    <div class="ideas-step__item-wrap">
-                                        <div class="ideas-step__item-label">Step #1</div>
-                                        <div class="ideas-step__item-icon">
-                                            <img src="https://marketmakers.trade/wp-content/uploads/2023/12/adsads.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/12/adsads.svg">
-                                        </div>
-                                        <h6 class="ideas-step__item-title">Select a plan</h6>
-                                        <p class="ideas-step__item-info">Create your personal account*</p>
-                                    </div>
-                                </div>
-                                <div class="ideas-step__item">
-                                    <div class="ideas-step__item-wrap">
-                                        <div class="ideas-step__item-label">Step #2</div>
-                                        <div class="ideas-step__item-icon">
-                                            <img src="https://marketmakers.trade/wp-content/uploads/2023/12/Vector.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/12/Vector.svg">
-                                        </div>
-                                        <h6 class="ideas-step__item-title">Purchase <span>subscription</span></h6>
-                                        <p class="ideas-step__item-info">Pay with credit card*</p>
-                                    </div>
-                                </div>
-                                <div class="ideas-step__item">
-                                    <div class="ideas-step__item-wrap">
-                                        <div class="ideas-step__item-label">Step #3</div>
-                                        <div class="ideas-step__item-icon">
-                                            <img src="https://marketmakers.trade/wp-content/uploads/2023/12/Vector-1.svg" alt="https://marketmakers.trade/wp-content/uploads/2023/12/Vector-1.svg">
-                                        </div>
-                                        <h6 class="ideas-step__item-title">Join our <span>Discord</span></h6>
-                                        <p class="ideas-step__item-info">Discord Account required*</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="ideas-step__result">
-                                <div class="ideas-step__result-wrap">
-                                    <h6 class="ideas-step__result-title">Ready to <span>go?</span></h6>
-                                    <p class="ideas-step__result-info">Jump right in or give us a shout</p>
-                                    <div class="ideas-step__result-action">
-                                        <a href="https://marketmakers.trade/#precios"
-                                            class="btnArrow btnArrow-green">
-                                            <span class="btnArrow-title">Try us for free!</span>
-                                            <span class="btnArrow-icon"></span>
-                                        </a>
-                                        <a href="https://marketmakers.trade/contacts/"
-                                            class="btnColor">
-                                            <span class="btnColor-title">Reach out</span>
-                                            <span class="btnColor-icon"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div> -->
 
                     </div>
                 </div>
             </section>
-            <section class="section knowledge">
+            <section class="section knowledge" id="optimizacion">
                 <div class="container">
                     <div class="knowledge-wrap">
 
@@ -330,56 +242,35 @@
                             </div>
                             <div class="knowledge-line">
                                 <svg id="knowledge-line" width="461" height="223" viewBox="0 0 461 223" fill="none" xmlns="http://www.w3.org/2000/svg">
-
                                     <path data-start="60" data-duration="70"
-                                        d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H1.77051" stroke="#34485F" stroke-width="2"
-                                        stroke-linecap="round" />
-                                    <path data-start="60"
-                                        data-duration="80" d="M459.824 107.651H274.153" stroke="url(#paint0_linear_121_188)" stroke-width="2"
-                                        stroke-linecap="round" />
+                                        d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H1.77051"
+                                        stroke="#34485F" stroke-width="2" stroke-linecap="round" />
+                                    <path data-start="110" data-duration="80" d="M459.824 107.651H274.153"
+                                        stroke="url(#paint0_linear_121_188)" stroke-width="2" stroke-linecap="round" />
                                     <path data-start="60" data-duration="70"
                                         d="M303.271 107.651H88.4822C82.0886 107.651 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H1.77051"
-                                        stroke="#34485F" stroke-width="2"
-                                        stroke-linecap="round" />
-                                    <mask id="mask0_121_188"
-                                        style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="106" width="462"
-                                        height="60">
+                                        stroke="#34485F" stroke-width="2" stroke-linecap="round" />
+                                    <mask id="mask0_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="106" width="462" height="60">
                                         <path data-start="60" data-duration="70"
                                             d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H0.770508"
-                                            stroke="#0D1624" stroke-width="2"
-                                            stroke-linecap="round" />
+                                            stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
                                     </mask>
                                     <g mask="url(#mask0_121_188)">
                                         <path data-start="60" data-duration="70"
                                             d="M73.7394 177.133C80.9143 176.626 86.3186 170.412 85.8103 163.255C85.302 156.097 79.0735 150.706 71.8986 151.213C64.7236 151.72 59.3193 157.933 59.8276 165.091C60.3359 172.249 66.5644 177.64 73.7394 177.133Z"
                                             fill="#B71828" />
                                     </g>
-                                    <mask id="mask1_121_188"
-                                        style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37" y="49"
-                                        width="424" height="60">
+                                    <mask id="mask1_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37" y="49" width="424" height="60">
                                         <path data-start="80" data-duration="70"
                                             d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H38.7178"
-                                            stroke="#0D1624" stroke-width="2"
-                                            stroke-linecap="round" />
+                                            stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
                                     </mask>
                                     <g mask="url(#mask1_121_188)">
                                         <path data-start="80" data-duration="70"
                                             d="M71.8986 64.0879C79.0735 64.595 85.302 59.2037 85.8103 52.0461C86.3186 44.8885 80.9143 38.675 73.7394 38.1679C66.5645 37.6608 60.336 43.0521 59.8276 50.2098C59.3193 57.3674 64.7237 63.5808 71.8986 64.0879Z"
                                             fill="#B71828" />
                                     </g>
-                                    <svg width="200" height="200" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                        <g filter="url(#filter0_d_121_188)" id="knowledge-centered">
-                                            <image href="../assets/img/pages/acercaDe/mapaMexico.webp" x="40" y="40" width="200" height="200" />
-                                        </g>
-                                        <defs>
-                                            <filter id="filter0_d_121_188" x="-33.6191" y="-33.8496" width="307.871" height="307.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                                <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_121_188" />
-                                                <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_121_188" result="shape" />
-                                            </filter>
-                                        </defs>
-                                    </svg>
+                                    <image href="../assets/img/pages/acercaDe/mapaMexico.webp" x="120" y="-60" width="350" height="350" class="girarImagen moveLeft" />
                                     <defs>
                                         <filter id="filter0_d_121_188" x="138.11" y="0.62793" width="222.321" height="222.045"
                                             filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -390,7 +281,8 @@
                                             <feOffset dy="4" />
                                             <feGaussianBlur stdDeviation="27" />
                                             <feComposite in2="hardAlpha" operator="out" />
-                                            <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" />
+                                            <feColorMatrix type="matrix"
+                                                values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.15 0" />
                                             <feBlend mode="normal" in2="BackgroundImageFix"
                                                 result="effect1_dropShadow_121_188" />
                                             <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_121_188"
@@ -402,20 +294,18 @@
                                             <stop offset="1" stop-color="#B71828" />
                                         </linearGradient>
                                     </defs>
-
                                 </svg>
                             </div>
                             <div class="knowledge-img">
-                                <img class="desktopImg" src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg" width="812" height="852" alt="Knowledge">
-                                <img class="mobileImg" src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/imghomeknowledge-img-mobile.svg" width="352" height="443" alt="Knowledge">
+                                <img class="desktopImg" src="/assets/img/pages/acercaDe/optimizacion.webp" width="100" height="auto" alt="optimizacion">
+                                <img class="mobileImg" src="/assets/img/pages/acercaDe/optimizacion.webp" width="100" height="auto" alt="optimizacion">
                             </div>
 
                         </div>
                         <div class="hero-link" style="justify-content: center;">
-                            <a href="#" class="btnArrow btnArrow-green">
+                            <a href="./contacto.php" class="btnArrow btnArrow-green">
 
                                 <span class="btnArrow-title">Consulta disponibilidad en tu zona</span>
-                                <span class="btnArrow-icon"></span>
 
                             </a>
                         </div>
@@ -423,13 +313,12 @@
                     </div>
                 </div>
             </section>
-            <section class=" section faq">
+            <section class=" section faq" id="comoHacemos">
                 <div class="container">
                     <div class="faq-wrap">
 
                         <div class="faq-info">
 
-                            <!-- <div class="faq-label">Frequently asked questions </div> -->
                             <h2 class="faq-title">
                                 ¿Cómo lo <span>hacemos?</span>
                             </h2>
@@ -441,15 +330,15 @@
                                 combinamos tecnología, experiencia y estrategia para maximizar la eficiencia energética de tu empresa.
                             </p>
                             <div class="faq-link">
-                                <a href="#" class="btnColor">
+                                <a href="./contacto.php" class="btnColor">
 
                                     <span class="btnColor-title">Optimiza tu energía con nosotros</span>
-                                    <span class="btnColor-icon"></span>
 
                                 </a>
                             </div>
 
                         </div>
+
                         <div class="faq-list">
 
                             <div class="faq-item">
@@ -582,6 +471,7 @@
                         </div>
 
                     </div>
+
                 </div>
             </section>
 
@@ -928,9 +818,6 @@
                     <h3 class="popup__title">
                         Are you sure you want to cancel?
                     </h3>
-                    <!--<div class="popup__description">-->
-                    <!--    Do you want to cancel your subscription?-->
-                    <!--</div>-->
                     <div class="box__union">
                         <a href="#" class="popup__content-button-close">
                             Close
