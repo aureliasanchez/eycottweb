@@ -5,15 +5,15 @@
     <!-- Meta -->
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="UTF-8" />
-    <meta charset="UTF-8">
-    <meta name="theme-color" content="#fafafa">
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="">
-    <meta property="og:type" content="">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="">
-    <meta name='robots' content='noindex, nofollow' />
+    <meta property="og:title" content="Acerca de EYCOT - Líder en Soluciones de Energy as a Service (EaaS)" />
+    <meta property="og:description" content="Conoce más sobre EYCOT, líder en soluciones de Energy as a Service (EaaS). Transformamos tu consumo energético con tecnología avanzada, garantizando eficiencia, sostenibilidad y ahorros desde el primer día." />
+    <meta property="og:url" content="https://www.EYCOT.com/acercaDe.php" />
+    <meta property="og:site_name" content="https://www.EYCOT.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.EYCOT.com/assets/img/icono/logo.webp" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
     <!-- Link -->
     <link rel="stylesheet" href="../assets/css/universal.css">
@@ -22,7 +22,7 @@
     <?php include '../assets/html/css.html'; ?>
 
     <link type="image/x-icon" href="../assets/img/icono/logo.webp" rel="shortcut icon">
-    <title>About | Market Makers</title>
+    <title>EYCOT | Acerca de </title>
 </head>
 
 <body class="page-template page-template-template-parts page-template-page-about page-template-template-partspage-about-php page page-id-17 wp-embed-responsive">

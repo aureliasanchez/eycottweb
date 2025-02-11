@@ -5,16 +5,15 @@
     <!-- Meta -->
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="UTF-8" />
-    <meta charset="UTF-8">
-    <meta name="theme-color" content="#fafafa">
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="">
-    <meta property="og:type" content="">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="">
-    <meta name='robots' content='noindex, nofollow' />
-    <meta name="generator" content="WordPress 6.7.1" />
+    <meta property="og:title" content="EYCOT - Líder en Soluciones de Energy as a Service (EaaS)" />
+    <meta property="og:description" content="EYCOT transforma tu consumo energético con tecnología avanzada, garantizando eficiencia, sostenibilidad y ahorros desde el primer día. Conoce nuestras soluciones de Energy as a Service (EaaS)." />
+    <meta property="og:url" content="https://www.EYCOT.com/acercaDe.php" />
+    <meta property="og:site_name" content="https://www.EYCOT.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.EYCOT.com/assets/img/icono/logo.webp" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
     <!-- Link -->
     <link rel="stylesheet" href="./assets/css/universal.css">
@@ -23,7 +22,7 @@
     <?php include './assets/html/css.html'; ?>
 
     <link type="image/x-icon" href="./assets/img/icono/logo.webp" rel="shortcut icon">
-    <title>Market Makers</title>
+    <title>EYCOT</title>
 </head>
 
 <body class="home page-template page-template-template-parts page-template-page-home page-template-template-partspage-home-php page page-id-15 wp-embed-responsive">
@@ -314,7 +313,7 @@
                                                 d="M71.8986 64.0879C79.0735 64.595 85.302 59.2037 85.8103 52.0461C86.3186 44.8885 80.9143 38.675 73.7394 38.1679C66.5645 37.6608 60.336 43.0521 59.8276 50.2098C59.3193 57.3674 64.7237 63.5808 71.8986 64.0879Z"
                                                 fill="#B71828" />
                                         </g>
-                                        <image href="/assets/img/icono/logo.webp" x="192.11" y="50.6279" width="115.509" height="114.045" class="girarImagen"/>
+                                        <image href="/assets/img/icono/logo.webp" x="192.11" y="50.6279" width="115.509" height="114.045" class="girarImagen" />
                                         <defs>
                                             <filter id="filter0_d_121_188" x="138.11" y="0.62793" width="222.321" height="222.045"
                                                 filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -347,7 +346,7 @@
 
                             </div>
                         </div>
-                        
+
                     </div>
             </section>
             <section class="section why">
@@ -1606,7 +1605,7 @@
             <section class="section reviews">
                 <div class="reviews-wrap">
 
-                    
+
                     <h2 class="reviews-title">
                         Clientes <span>Específicos</span>
                     </h2>
@@ -1789,7 +1788,7 @@
                     </div>
                 </div>
             </section>
-            
+
         </div>
         <div id="otros">
 

@@ -1,27 +1,28 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="es">
 
 <head>
+    <!-- Meta -->
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <meta charset="UTF-8" />
-    <meta charset="UTF-8">
-    <meta name="theme-color" content="#fafafa">
-    <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="">
-    <meta property="og:type" content="">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="">
-    <meta name='robots' content='noindex, nofollow' />
-    <meta name="generator" content="WordPress 6.7.1" />
+    <meta property="og:title" content="Contacto - EYCOT | Soluciones de Energy as a Service (EaaS)" />
+    <meta property="og:description" content="Ponte en contacto con EYCOT para conocer más sobre nuestras soluciones de Energy as a Service (EaaS). Estamos aquí para ayudarte a transformar tu consumo energético con tecnología avanzada." />
+    <meta property="og:url" content="https://www.EYCOT.com/acercaDe.php" />
+    <meta property="og:site_name" content="https://www.EYCOT.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="https://www.EYCOT.com/assets/img/icono/logo.webp" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
 
     <!-- Link -->
     <link rel="stylesheet" href="../assets/css/universal.css">
     <link rel="stylesheet" href="../assets/css/remplaso.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <?php include '../assets/html/css.html'; ?>
 
     <link type="image/x-icon" href="../assets/img/icono/logo.webp" rel="shortcut icon">
-    <title>Contacts | Market Makers</title>
+    <title>EYCOT | Contacto</title>
 </head>
 
 <body class="page-template page-template-template-parts page-template-page-contacts page-template-template-partspage-contacts-php page page-id-473 wp-embed-responsive">
