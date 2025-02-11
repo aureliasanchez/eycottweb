@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <?php include './assets/html/css.html'; ?>
 
-    <link type="image/x-icon" href="./assets/img/icono/Favicon.png" rel="shortcut icon">
+    <link type="image/x-icon" href="./assets/img/icono/logo.webp" rel="shortcut icon">
     <title>Market Makers</title>
 </head>
 
@@ -41,18 +41,6 @@
 
                         <div class="hero-info">
 
-                            <!-- <div class="hero-clients">
-
-                                <div class="hero-clients__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/06/home-client-1.png" alt="Photo">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/06/home-client-2.png" alt="Photo">
-                                </div>
-                                <div class="hero-clients__info">
-                                    <span>Active community</span>
-                                    Trusted provider
-                                </div>
-
-                            </div> -->
                             <h1 class="hero-title">
                                 Optimiza tu energía.
                                 <br>
@@ -64,193 +52,16 @@
                                 Ahorra desde el primer día sin inversión inicial. Implementamos tecnología avanzada para maximizar tu eficiencia energética.
                             </p>
                             <div class="hero-link">
-                                <a href="#pricing" class="btnArrow btnArrow-green">
+                                <a href="#" class="btnArrow btnArrow-green" style="transform: translateY(20%);">
                                     <span class="btnArrow-title">Solicita tu diagnóstico gratuito</span>
-                                    <span class="btnArrow-icon"></span>
                                 </a>
                             </div>
 
                         </div>
                         <div class="hero-media">
-
-                            <div class="hero-media__img">
-                                <img src="./assets/img/imagenPrueba.png" width="1315" height="1001" alt="Hero image">
+                            <div class="specializing-media__img">
+                                <img src="./assets/img/pages/index/ingenieros.jpg" width="auto" height="auto" alt="Hero image" class="border-radius">
                             </div>
-                            <!-- <div class="hero-media__icon">
-                                <svg width="552" height="472" viewBox="0 0 552 472" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <g clip-path="url(#clip0_248_2)">
-                                        <g filter="url(#filter0_f_248_2)">
-                                            <path d="M173.995 484.707C165.267 482.749 147.034 470.748 117.925 471.302C88.8157 471.857 75.757 474.411 60.6699 484.707V531.983H611.743V406.478C598.008 422.666 586.019 429.768 553.986 437.634C553.986 437.634 525.57 441.375 502.839 437.634C480.108 433.893 447.274 440.128 436.666 448.233C426.058 456.339 405.347 456.708 382.111 453.221C332.34 445.753 326.546 466.314 309.371 466.314C284.62 466.314 275.1 439.734 230.57 466.314C199.757 484.707 204.808 491.623 173.995 484.707Z"
-                                                fill="url(#paint0_radial_248_2)" />
-                                        </g>
-                                        <g filter="url(#filter1_f_248_2)">
-                                            <ellipse cx="134.396" cy="529.129" rx="36.7354" ry="111.736" fill="#0CF067"
-                                                fill-opacity="0.2" />
-                                        </g>
-                                        <g filter="url(#filter2_f_248_2)">
-                                            <ellipse cx="229.873" cy="563.767" rx="36.7354" ry="174.289" fill="#0CF067"
-                                                fill-opacity="0.5" />
-                                        </g>
-                                        <g filter="url(#filter3_f_248_2)">
-                                            <ellipse cx="134.396" cy="556.446" rx="36.7354" ry="74.4673" fill="#84FFA4" />
-                                        </g>
-                                        <g filter="url(#filter4_f_248_2)">
-                                            <ellipse cx="229.873" cy="582.553" rx="36.7354" ry="137.172" fill="#84FFA4" />
-                                        </g>
-                                    </g>
-                                    <defs>
-                                        <filter id="filter0_f_248_2" x="16.6699" y="362.478" width="639.073"
-                                            height="213.505"
-                                            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix"
-                                                result="shape" />
-                                            <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_248_2" />
-                                        </filter>
-                                        <filter id="filter1_f_248_2" x="53.6602" y="373.394" width="161.471"
-                                            height="311.471"
-                                            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix"
-                                                result="shape" />
-                                            <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_248_2" />
-                                        </filter>
-                                        <filter id="filter2_f_248_2" x="149.138" y="345.478" width="161.471"
-                                            height="436.579"
-                                            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix"
-                                                result="shape" />
-                                            <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_248_2" />
-                                        </filter>
-                                        <filter id="filter3_f_248_2" x="53.6602" y="437.978" width="161.471"
-                                            height="236.935"
-                                            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix"
-                                                result="shape" />
-                                            <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_248_2" />
-                                        </filter>
-                                        <filter id="filter4_f_248_2" x="149.138" y="401.382" width="161.471"
-                                            height="362.343"
-                                            filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-                                            <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                            <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix"
-                                                result="shape" />
-                                            <feGaussianBlur stdDeviation="22" result="effect1_foregroundBlur_248_2" />
-                                        </filter>
-                                        <radialGradient id="paint0_radial_248_2" cx="0" cy="0" r="1"
-                                            gradientUnits="userSpaceOnUse"
-                                            gradientTransform="translate(335.867 451.435) rotate(56.5124) scale(84.9747 267.913)">
-                                            <stop stop-color="#0CF067" />
-                                            <stop offset="1" stop-color="#1A2C41" stop-opacity="0" />
-                                        </radialGradient>
-                                        <clipPath id="clip0_248_2">
-                                            <rect width="552" height="472" fill="white" />
-                                        </clipPath>
-                                    </defs>
-                                </svg>
-                            </div>
-                            <div class="hero-media__back">
-                                <svg width="603" height="398" viewBox="0 0 603 398" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M0.165039 313.624L603 313.623M0.165039 229.247L603 229.247M86.2842 0L86.2842 398M0.165039 144.87L603 144.87M172.403 0L172.403 398M0.165039 60.4927L603 60.4926M258.522 0L258.522 398M344.642 0L344.642 398M430.761 0L430.761 398M516.88 0V398"
-                                        stroke="url(#paint0_radial_248_408)" stroke-opacity="0.1" />
-                                    <path d="M0.165039 313.624L603 313.623M0.165039 229.247L603 229.247M86.2842 0L86.2842 398M0.165039 144.87L603 144.87M172.403 0L172.403 398M0.165039 60.4927L603 60.4926M258.522 0L258.522 398M344.642 0L344.642 398M430.761 0L430.761 398M516.88 0V398"
-                                        stroke="url(#paint1_radial_248_408)" stroke-opacity="0.22" />
-                                    <path class="animated" d="M118.145 155.98V278.898" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M123.063 163.34H113.229C112.55 163.34 112 163.867 112 164.516V269.131C112 269.78 112.55 270.307 113.229 270.307H123.063C123.741 270.307 124.292 269.78 124.292 269.131V164.516C124.292 163.867 123.741 163.34 123.063 163.34Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M140.651 171.96L140.651 270.293" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M135.736 182.293H145.569C145.972 182.293 146.298 182.619 146.298 183.022V259.231C146.298 259.634 145.972 259.96 145.569 259.96H135.736C135.333 259.96 135.006 259.634 135.006 259.231V183.022C135.006 182.619 135.333 182.293 135.736 182.293Z"
-                                        fill="#1B2D41" stroke="#203449" />
-                                    <path class="animated" d="M163.158 243.253L163.158 289.959" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M158.242 253.584H168.075C168.478 253.584 168.804 253.911 168.804 254.313V278.897C168.804 279.3 168.478 279.626 168.075 279.626H158.242C157.839 279.626 157.513 279.3 157.513 278.897V254.313C157.513 253.911 157.839 253.584 158.242 253.584Z"
-                                        fill="#1B2D41" stroke="#203449" />
-                                    <path class="animated" d="M185.667 242.022V282.585" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M190.582 248.168H180.749C180.07 248.168 179.52 248.719 179.52 249.398V273.981C179.52 274.66 180.07 275.21 180.749 275.21H190.582C191.261 275.21 191.811 274.66 191.811 273.981V249.398C191.811 248.719 191.261 248.168 190.582 248.168Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M208.171 269.064V310.856" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M203.255 275.71H213.088C213.491 275.71 213.818 276.037 213.818 276.44V298.565C213.818 298.967 213.491 299.294 213.088 299.294H203.255C202.852 299.294 202.526 298.967 202.526 298.565V276.44C202.526 276.037 202.852 275.71 203.255 275.71Z"
-                                        fill="#1B2D41" stroke="#203449" />
-                                    <path class="animated" d="M230.677 281.356V336.668" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M225.761 292.303H235.595C235.998 292.303 236.324 292.63 236.324 293.033V324.991C236.324 325.394 235.998 325.72 235.595 325.72H225.761C225.359 325.72 225.032 325.394 225.032 324.991V293.033C225.032 292.63 225.359 292.303 225.761 292.303Z"
-                                        fill="#1B2D41" stroke="#203449" />
-                                    <path class="animated" d="M253.186 273.981V315.773" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M258.102 282.585H248.268C247.589 282.585 247.039 283.135 247.039 283.814V303.481C247.039 304.16 247.589 304.71 248.268 304.71H258.102C258.78 304.71 259.331 304.16 259.331 303.481V283.814C259.331 283.135 258.78 282.585 258.102 282.585Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M275.69 254.314V309.627" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M280.608 267.835H270.775C270.096 267.835 269.545 268.385 269.545 269.064V302.252C269.545 302.93 270.096 303.481 270.775 303.481H280.608C281.287 303.481 281.837 302.93 281.837 302.252V269.064C281.837 268.385 281.287 267.835 280.608 267.835Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M298.2 235.877V291.19" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M303.114 249.398H293.281C292.602 249.398 292.052 249.948 292.052 250.627V272.752C292.052 273.431 292.602 273.981 293.281 273.981H303.114C303.793 273.981 304.344 273.431 304.344 272.752V250.627C304.344 249.948 303.793 249.398 303.114 249.398Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M320.703 214.98V270.293" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M325.621 228.501H315.787C315.108 228.501 314.558 229.051 314.558 229.73V254.314C314.558 254.993 315.108 255.543 315.787 255.543H325.621C326.3 255.543 326.85 254.993 326.85 254.314V229.73C326.85 229.051 326.3 228.501 325.621 228.501Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M343.209 199.002V246.94" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M348.127 208.835H338.294C337.615 208.835 337.064 209.385 337.064 210.064V235.877C337.064 236.555 337.615 237.106 338.294 237.106H348.127C348.806 237.106 349.356 236.555 349.356 235.877V210.064C349.356 209.385 348.806 208.835 348.127 208.835Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M365.719 185.481V230.96" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M370.634 195.928H360.8C360.122 195.928 359.571 196.479 359.571 197.158V219.283C359.571 219.962 360.122 220.512 360.8 220.512H370.634C371.313 220.512 371.863 219.962 371.863 219.283V197.158C371.863 196.479 371.313 195.928 370.634 195.928Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M388.223 175.646V223.584" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M393.14 183.022H383.307C382.628 183.022 382.078 183.572 382.078 184.251V214.981C382.078 215.659 382.628 216.21 383.307 216.21H393.14C393.819 216.21 394.369 215.659 394.369 214.981V184.251C394.369 183.572 393.819 183.022 393.14 183.022Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M433.237 165.813V221.126" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M438.153 171.96H428.32C427.641 171.96 427.091 172.51 427.091 173.189V213.752C427.091 214.431 427.641 214.981 428.32 214.981H438.153C438.832 214.981 439.383 214.431 439.383 213.752V173.189C439.383 172.51 438.832 171.96 438.153 171.96Z"
-                                        fill="#203449" />
-                                    <path class="animated" d="M410.73 197.772V243.252" stroke="#203449"
-                                        stroke-linecap="round" />
-                                    <path class="animated"
-                                        d="M405.813 205.034H415.647C416.049 205.034 416.376 205.36 416.376 205.763V235.263C416.376 235.666 416.049 235.992 415.647 235.992H405.813C405.41 235.992 405.084 235.666 405.084 235.263V205.763C405.084 205.36 405.41 205.034 405.813 205.034Z"
-                                        fill="#1B2D41" stroke="#203449" />
-                                    <defs>
-                                        <radialGradient id="paint0_radial_248_408" cx="0" cy="0" r="1"
-                                            gradientUnits="userSpaceOnUse"
-                                            gradientTransform="translate(417.423 310.086) rotate(-145.62) scale(465.956 705.765)">
-                                            <stop stop-color="#25384C" />
-                                            <stop offset="1" stop-color="#25384C" stop-opacity="0" />
-                                        </radialGradient>
-                                        <radialGradient id="paint1_radial_248_408" cx="0" cy="0" r="1"
-                                            gradientUnits="userSpaceOnUse"
-                                            gradientTransform="translate(332.222 244.573) rotate(-161.086) scale(303.381 150.931)">
-                                            <stop stop-color="#4FD298" />
-                                            <stop offset="1" stop-color="#4FD298" stop-opacity="0" />
-                                        </radialGradient>
-                                    </defs>
-                                </svg>
-                            </div> -->
-
                         </div>
 
                     </div>
@@ -262,9 +73,7 @@
 
                         <div class="mission-head">
 
-                            <div class="">
-                                <!-- Market Makers <span>passion</span> -->
-                            </div>
+                            <div class=""></div>
                             <div class="mission-info">
 
                                 <h2 class="mission-title">
@@ -274,10 +83,7 @@
                                 </h2>
                                 <div class="mission-link">
                                     <a href="./pages/acercaDe.php" class="btnColor">
-
                                         <span class="btnColor-title">Conoce nuestro proceso</span>
-                                        <span class="btnColor-icon"></span>
-
                                     </a>
                                 </div>
 
@@ -301,8 +107,6 @@
                                 <div class="mission-item">
 
                                     <div class="mission-item__top">
-
-                                        <!-- <div class="mission-item__label">A hard truth about trading</div> -->
                                         <div class="mission-item__info">
                                             Empresas que implementan nuestra tecnología logran hasta un
                                             <strong>
@@ -310,7 +114,6 @@
                                             </strong>
                                             de ahorro energético.
                                         </div>
-
                                     </div>
                                     <div class="mission-item__bottom">
                                         <div class="mission-item__number">
@@ -322,8 +125,6 @@
                                 <div class="mission-item">
 
                                     <div class="mission-item__top">
-
-                                        <!-- <div class="mission-item__label">Consistency via collaboration</div> -->
                                         <div class="mission-item__info">
                                             Más del
                                             <strong>
@@ -331,7 +132,6 @@
                                             </strong>
                                             de nuestros clientes optimizan su consumo sin afectar su operación.
                                         </div>
-
                                     </div>
                                     <div class="mission-item__bottom">
                                         <div class="mission-item__number">
@@ -359,7 +159,6 @@
                             Optimizamos tu consumo energético con tecnología avanzada. Desde generación y almacenamiento hasta eficiencia operativa, todo en un solo sistema inteligente.
                         </p>
                         <div class="knowledge-media">
-
                             <div class="knowledge-list">
 
                                 <div class="knowledge-col">
@@ -371,7 +170,7 @@
                                                 <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-solar-panel" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-solar-panel" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -394,7 +193,7 @@
                                                 <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-database" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-database" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -417,7 +216,7 @@
                                                 <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-satellite-dish" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-satellite-dish" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -444,7 +243,7 @@
                                                 <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-brain" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-brain" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -467,7 +266,7 @@
                                                 <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-bolt" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-bolt" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -486,8 +285,7 @@
 
                                 </div>
                                 <div class="knowledge-line">
-                                    <svg id="knowledge-line" width="461" height="223" viewBox="0 0 461 223" fill="none"
-                                        xmlns="http://www.w3.org/2000/svg">
+                                    <svg id="knowledge-line" width="461" height="223" viewBox="0 0 461 223" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path data-start="60" data-duration="70"
                                             d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H1.77051"
                                             stroke="#34485F" stroke-width="2" stroke-linecap="round" />
@@ -496,9 +294,7 @@
                                         <path data-start="60" data-duration="70"
                                             d="M303.271 107.651H88.4822C82.0886 107.651 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H1.77051"
                                             stroke="#34485F" stroke-width="2" stroke-linecap="round" />
-                                        <mask id="mask0_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1"
-                                            y="106"
-                                            width="462" height="60">
+                                        <mask id="mask0_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="-1" y="106" width="462" height="60">
                                             <path data-start="60" data-duration="70"
                                                 d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 112.821 76.9055 119.199V153.124C76.9055 159.503 71.7223 164.673 65.3287 164.673H0.770508"
                                                 stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
@@ -506,11 +302,9 @@
                                         <g mask="url(#mask0_121_188)">
                                             <path data-start="60" data-duration="70"
                                                 d="M73.7394 177.133C80.9143 176.626 86.3186 170.412 85.8103 163.255C85.302 156.097 79.0735 150.706 71.8986 151.213C64.7236 151.72 59.3193 157.933 59.8276 165.091C60.3359 172.249 66.5644 177.64 73.7394 177.133Z"
-                                                fill="#4CD19E" />
+                                                fill="#B71828" />
                                         </g>
-                                        <mask id="mask1_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37"
-                                            y="49"
-                                            width="424" height="60">
+                                        <mask id="mask1_121_188" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37" y="49" width="424" height="60">
                                             <path data-start="80" data-duration="70"
                                                 d="M459.824 107.65H88.4822C82.0886 107.65 76.9055 102.48 76.9055 96.1016V62.1768C76.9055 55.7985 71.7223 50.6279 65.3287 50.6279H38.7178"
                                                 stroke="#0D1624" stroke-width="2" stroke-linecap="round" />
@@ -518,21 +312,11 @@
                                         <g mask="url(#mask1_121_188)">
                                             <path data-start="80" data-duration="70"
                                                 d="M71.8986 64.0879C79.0735 64.595 85.302 59.2037 85.8103 52.0461C86.3186 44.8885 80.9143 38.675 73.7394 38.1679C66.5645 37.6608 60.336 43.0521 59.8276 50.2098C59.3193 57.3674 64.7237 63.5808 71.8986 64.0879Z"
-                                                fill="#4CD19E" />
+                                                fill="#B71828" />
                                         </g>
-                                        <g filter="url(#filter0_d_121_188)" id="knowledge-centered">
-                                            <path d="M287.619 50.6279H210.923C200.533 50.6279 192.11 59.0302 192.11 69.3948V145.906C192.11 156.271 200.533 164.673 210.923 164.673H287.619C298.009 164.673 306.431 156.271 306.431 145.906V69.3948C306.431 59.0302 298.009 50.6279 287.619 50.6279Z"
-                                                fill="#4CD19E" />
-                                            <path d="M273.571 112.405L266.2 119.776L266.2 130.15H273.571L273.571 112.405Z"
-                                                fill="#F0F0F0" />
-                                            <path d="M242.734 98.0089L229.668 85.1504V114.472L237.04 107.101L237.04 102.747L237.633 103.33L248.365 113.354L251.571 116.44L251.62 116.487L251.669 116.44L254.875 113.354L265.607 103.33L266.2 102.747L273.571 95.3756L273.571 85.1504L260.505 98.0089L251.62 106.308L242.734 98.0089Z"
-                                                fill="#F0F0F0" />
-                                            <path d="M239.385 108.376L244.665 113.475L251.621 119.971L260.506 111.673L273.572 98.8142L273.572 109.039L266.201 116.411L265.608 116.994L254.875 127.018L251.67 130.104L251.621 130.151L251.572 130.104L248.366 127.018L239.385 118.63L230.404 127.018L227.198 130.104L227.149 130.151H216.97L236.035 111.673L239.385 108.376Z"
-                                                fill="#192B3F" />
-                                        </g>
+                                        <image href="/assets/img/icono/logo.webp" x="192.11" y="50.6279" width="115.509" height="114.045" class="girarImagen"/>
                                         <defs>
-                                            <filter id="filter0_d_121_188" x="138.11" y="0.62793" width="222.321"
-                                                height="222.045"
+                                            <filter id="filter0_d_121_188" x="138.11" y="0.62793" width="222.321" height="222.045"
                                                 filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
                                                 <feFlood flood-opacity="0" result="BackgroundImageFix" />
                                                 <feColorMatrix in="SourceAlpha" type="matrix"
@@ -550,25 +334,18 @@
                                             </filter>
                                             <linearGradient id="paint0_linear_121_188" x1="303.27" y1="122.163" x2="433.27"
                                                 y2="122.163" gradientUnits="userSpaceOnUse">
-                                                <stop stop-color="#4CD19E" />
-                                                <stop offset="1" stop-color="#20344B" />
+                                                <stop stop-color="#B71828" />
+                                                <stop offset="1" stop-color="#B71828" />
                                             </linearGradient>
                                         </defs>
                                     </svg>
-
                                 </div>
                                 <div class="knowledge-img">
-                                    <img class="desktopImg"
-                                        src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
-                                        width="812" height="852" alt="Knowledge">
-                                    <img class="mobileImg"
-                                        src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/knowledge-img.svg"
-                                        width="352"
-                                        height="443" alt="Knowledge">
+                                    <img class="desktopImg" src="./assets/img/pages/index/ahorro.webp" width="100" height="auto" alt="consumo">
+                                    <img class="mobileImg" src="./assets/img/pages/index/ahorro.webp" width="100" height="auto" alt="consumo">
                                 </div>
 
                             </div>
-
                         </div>
                     </div>
             </section>
@@ -577,7 +354,6 @@
                     <div class="why-wrap">
 
                         <div class="why-head">
-
                             <div class="why-info">
 
                                 <div></div>
@@ -585,19 +361,14 @@
                                     Optimiza tu <span>energía</span>
                                 </h2>
                                 <div class="why-link">
-                                    <a href="#pricing" class="btnArrow btnArrow-green">
+                                    <a href="#" class="btnArrow btnArrow-green">
 
                                         <span class="btnArrow-title">Agenda tu diagnóstico gratuito</span>
-                                        <span class="btnArrow-icon"></span>
 
                                     </a>
                                 </div>
 
                             </div>
-                            <!-- <div class="why-point">
-                                Active community
-                            </div> -->
-
                         </div>
                         <div class="why-body">
                             <div class="why-list">
@@ -605,7 +376,7 @@
                                 <div class="why-item">
 
                                     <div class="why-item__icon">
-                                        <i class="fas fa-chart-line" style="font-size: 80px; color: #4CD09E;"></i>
+                                        <i class="fas fa-chart-line" style="font-size: 80px; color: #B71828;"></i>
                                     </div>
                                     <h6 class="why-item__title">
                                         <span>Análisis inicial y propuesta</span>
@@ -618,7 +389,7 @@
                                 <div class="why-item">
 
                                     <div class="why-item__icon">
-                                        <i class="fas fa-file-signature" style="font-size: 80px; color: #4CD09E;"></i>
+                                        <i class="fas fa-file-signature" style="font-size: 80px; color: #B71828;"></i>
                                     </div>
                                     <h6 class="why-item__title">
                                         <span>Autorización y firma</span>
@@ -631,7 +402,7 @@
                                 <div class="why-item">
 
                                     <div class="why-item__icon">
-                                        <i class="fas fa-tools" style="font-size: 80px; color: #4CD09E;"></i>
+                                        <i class="fas fa-tools" style="font-size: 80px; color: #B71828;"></i>
                                     </div>
                                     <h6 class="why-item__title">
                                         <span>Implementación y optimización continua</span>
@@ -639,7 +410,7 @@
                                     <p class="why-item__desc">
                                         Instalamos, monitoreamos y mejoramos tu sistema energético con tecnología avanzada 24/7. Si no ahorras, no pagas.
                                     </p>
-                                    
+
                                 </div>
 
                             </div>
@@ -671,15 +442,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Organización mexicana dedicada a la construcción y operación de centros de rehabilitación para niños con discapacidad.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -697,15 +459,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Institución gubernamental encargada del manejo de los recursos hídricos en México.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -723,15 +476,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Multinacional suiza de comercialización y distribución de energía y productos petroleros.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -749,15 +493,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Organización internacional que promueve la paz, los derechos humanos y el desarrollo sostenible.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -775,15 +510,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Negocio familiar dedicado al cultivo, proceso y exportación de frutas/vegetales congelados.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -801,15 +527,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Instituto del Fondo Nacional de la Vivienda para los Trabajadores en México, otorga créditos para vivienda.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -827,15 +544,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Empresa aseguradora mexicana especializada en seguros de autos
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -853,15 +561,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Empresa mexicana de productos lácteos y derivados.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -879,15 +578,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Una de las compañías de bebidas más grandes del mundo, famosa por su refresco de cola.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -905,15 +595,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Prestigiosa universidad privada de México, enfocada en innovación y tecnología.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -931,15 +612,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Institución mexicana encargada de la gestión y conservación de los bosques.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -957,15 +629,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Iniciativa ecológica enfocada en el reciclaje de materiales y sustentabilidad.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -983,15 +646,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Una de las empresas mineras más grandes de México, con inversiones en infraestructura y transporte.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -1009,15 +663,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Empresa japonesa especializada en la fabricación de autopartes y sistemas de suspensión.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -1035,15 +680,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Grupo bancario multinacional español con una fuerte presencia en México y Latinoamérica.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -1061,15 +697,6 @@
                                     <div class="partners-item__tooltip-desc">
                                         Empresa productora de carne de pollo con presencia en México y EE.UU.
                                     </div>
-                                    <a href="#" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
 
                                 </div>
 
@@ -1113,7 +740,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
 
@@ -1140,7 +766,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
                                     </div>
@@ -1165,7 +790,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
                                     </div>
@@ -1191,7 +815,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
 
@@ -1218,7 +841,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
 
@@ -1245,7 +867,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
 
@@ -1277,7 +898,6 @@
                                         <a href="#" class="btnArrow btnArrow-green">
 
                                             <span class="btnArrow-title">Únete a la membresía y empieza a ahorrar</span>
-                                            <span class="btnArrow-icon"></span>
 
                                         </a>
 
@@ -1978,508 +1598,14 @@
                             </div>
 
                         </div>
-                        <!-- <div class="learn-cta">
-                            <h6 class="learn-cta__title">
-                                Any <span>questions?</span> </h6>
-                            <p class="learn-cta__desc">
-                                If you still have questions, give us a shout! </p>
-                            <div class="learn-cta__action">
-                                <a href="https://marketmakers.trade/contacts/"
-                                    class="btnColor">
-                                    <span class="btnColor-title">
-                                        Contact us </span>
-                                    <span class="btnColor-icon"></span>
-                                </a>
-                                <a href="https://marketmakers.trade/#pricing"
-                                    class="learn-cta__btn">
-                                    <span>
-                                        Get Started </span>
-                                </a>
-                            </div>
-                        </div> -->
 
-                    </div>
-                </div>
-            </section>
-            <section class="section pricing" id="pricing">
-                <div class="container">
-                    <div class="pricing-wrap">
-                        <h2 class="pricing-title">
-                            Tomorrows TA today </h2>
-                        <p class="pricing-desc">
-                            Learn together, grow together, become more. </p>
-                        <div class="pricing-content">
-                            <div class="pricing-list">
-                                <div class="pricing-list_item pricing-item">
-                                    <div class="pricing-item__wrap">
-                                        <div class="pricing-item__icon"></div>
-                                        <div class="pricing-item__slogan">
-                                            Learn. Trade. <span>Succeed.<span> </span></span>
-                                        </div>
-                                        <div class="pricing-item__svg">
-                                            <svg width="363" height="202" viewBox="0 0 363 202" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <path d="M7.37305 1.23535V137.312" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M12.8167 9.38379H1.93059C1.17906 9.38379 0.569824 9.9664 0.569824 10.6851V126.501C0.569824 127.219 1.17906 127.802 1.93059 127.802H12.8167C13.5683 127.802 14.1775 127.219 14.1775 126.501V10.6851C14.1775 9.9664 13.5683 9.38379 12.8167 9.38379Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M32.2891 18.9248L32.2891 127.786" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M26.8466 30.3105H37.7328C38.2082 30.3105 38.5935 30.6959 38.5935 31.1713V115.539C38.5935 116.014 38.2082 116.4 37.7328 116.4H26.8466C26.3712 116.4 25.9858 116.014 25.9858 115.539V31.1713C25.9858 30.6959 26.3712 30.3105 26.8466 30.3105Z"
-                                                    fill="#4FD298" stroke="#40C389"></path>
-                                                <path d="M57.2046 97.8506L57.2046 149.557" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M51.7621 109.235H62.6483C63.1237 109.235 63.5091 109.621 63.5091 110.096V137.312C63.5091 137.787 63.1237 138.172 62.6483 138.172H51.7621C51.2867 138.172 50.9014 137.787 50.9014 137.312V110.096C50.9014 109.621 51.2867 109.235 51.7621 109.235Z"
-                                                    fill="#4FD298" stroke="#40C389"></path>
-                                                <path d="M82.124 96.4873V141.393" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M87.5648 103.292H76.6786C75.9271 103.292 75.3179 103.901 75.3179 104.653V131.868C75.3179 132.62 75.9271 133.229 76.6786 133.229H87.5648C88.3163 133.229 88.9256 132.62 88.9256 131.868V104.653C88.9256 103.901 88.3163 103.292 87.5648 103.292Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M107.037 126.425V172.691" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M101.595 133.729H112.481C112.956 133.729 113.342 134.115 113.342 134.59V159.084C113.342 159.56 112.956 159.945 112.481 159.945H101.595C101.119 159.945 100.734 159.56 100.734 159.084V134.59C100.734 134.115 101.119 133.729 101.595 133.729Z"
-                                                    fill="#4FD298" stroke="#40C389"></path>
-                                                <path d="M131.953 140.032V201.267" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M126.51 152.099H137.396C137.872 152.099 138.257 152.484 138.257 152.959V188.339C138.257 188.815 137.872 189.2 137.396 189.2H126.51C126.035 189.2 125.649 188.815 125.649 188.339V152.959C125.649 152.484 126.035 152.099 126.51 152.099Z"
-                                                    fill="#4FD298" stroke="#40C389"></path>
-                                                <path d="M156.871 131.868V178.134" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M162.313 141.394H151.427C150.675 141.394 150.066 142.003 150.066 142.754V164.527C150.066 165.278 150.675 165.887 151.427 165.887H162.313C163.064 165.887 163.674 165.278 163.674 164.527V142.754C163.674 142.003 163.064 141.394 162.313 141.394Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M181.785 110.096V171.33" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M187.229 125.063H176.343C175.591 125.063 174.982 125.673 174.982 126.424V163.165C174.982 163.917 175.591 164.526 176.343 164.526H187.229C187.98 164.526 188.59 163.917 188.59 163.165V126.424C188.59 125.673 187.98 125.063 187.229 125.063Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M206.704 89.6846V150.919" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M212.144 104.653H201.258C200.507 104.653 199.897 105.263 199.897 106.014V130.508C199.897 131.259 200.507 131.869 201.258 131.869H212.144C212.896 131.869 213.505 131.259 213.505 130.508V106.014C213.505 105.263 212.896 104.653 212.144 104.653Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M231.616 66.5508V127.785" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M237.06 81.5186H226.174C225.423 81.5186 224.813 82.1278 224.813 82.8793V110.095C224.813 110.846 225.423 111.455 226.174 111.455H237.06C237.812 111.455 238.421 110.846 238.421 110.095V82.8793C238.421 82.1278 237.812 81.5186 237.06 81.5186Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M256.533 48.8613V101.931" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M261.976 59.7471H251.09C250.339 59.7471 249.729 60.3563 249.729 61.1078V89.684C249.729 90.4355 250.339 91.0448 251.09 91.0448H261.976C262.728 91.0448 263.337 90.4355 263.337 89.684V61.1078C263.337 60.3563 262.728 59.7471 261.976 59.7471Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M281.452 33.8945V84.243" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M286.892 45.46H276.006C275.255 45.46 274.646 46.0692 274.646 46.8207V71.3146C274.646 72.0661 275.255 72.6753 276.006 72.6753H286.892C287.644 72.6753 288.253 72.0661 288.253 71.3146V46.8207C288.253 46.0692 287.644 45.46 286.892 45.46Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M306.365 23.0059V76.0759" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M311.808 31.1709H300.922C300.171 31.1709 299.562 31.7801 299.562 32.5317V66.5509C299.562 67.3024 300.171 67.9117 300.922 67.9117H311.808C312.56 67.9117 313.169 67.3024 313.169 66.5509V32.5317C313.169 31.7801 312.56 31.1709 311.808 31.1709Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M356.198 12.1211V73.3557" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M361.64 18.9258H350.754C350.003 18.9258 349.394 19.535 349.394 20.2866V65.1919C349.394 65.9435 350.003 66.5527 350.754 66.5527H361.64C362.392 66.5527 363.001 65.9435 363.001 65.1919V20.2866C363.001 19.535 362.392 18.9258 361.64 18.9258Z"
-                                                    fill="#40C389"></path>
-                                                <path d="M331.282 47.501V97.8494" stroke="#40C389"
-                                                    stroke-linecap="round"></path>
-                                                <path d="M325.838 55.4854H336.724C337.2 55.4854 337.585 55.8707 337.585 56.3461V89.0046C337.585 89.48 337.2 89.8654 336.724 89.8654H325.838C325.363 89.8654 324.978 89.48 324.978 89.0046V56.3461C324.978 55.8707 325.363 55.4854 325.838 55.4854Z"
-                                                    fill="#4FD298" stroke="#40C389"></path>
-                                            </svg>
-                                        </div>
-                                        <div class="pricing-item__media">
-                                            <img src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/pricing-media.png"
-                                                alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="pricing-list_item pricing-list_item_free">
-                                    <div class="item">
-                                        <div class="item__header">
-                                            <div class="item__title">
-                                                Basic </div>
-                                            <div class="pricing-item__box" style="display: flex;">
-                                                <span class="pricing-item__price-value"><span>Free</span></span>
-                                                <span class="pricing-item__interval package-interval"><span> account</span></span>
-                                            </div>
-                                            <span class="item__description">
-                                                Enjoy completely free basic plan, free forever, no catch. </span>
-                                            <a href="https://marketmakers.trade/checkout/"
-                                                class="item__button item__button_connect" data-p-id="Free">
-                                                Get free account </a>
-                                        </div>
-                                        <div class="item__body">
-                                            <ul class="item__list">
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#677D95" />
-                                                        </svg>
-                                                    </span>
-                                                    Market Makers Discord 'Free-Chat' community room
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#677D95" />
-                                                        </svg>
-                                                    </span>
-                                                    Market Makers VIP program at SimpleFX
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    Brendan's exclusive market updates
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    Fractal Pattern Trading (FPT) education series
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    Brendan's personal video trade journal
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    BlockState & macro live-streams with Ricardo
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    Regular updates and TA from Senior analysts
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    Full access to premium Discord community
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    Permanent use of MM Tradingview indicators
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="#475E77" />
-                                                        </svg>
-                                                    </span>
-                                                    24/7 on-call educational support
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="pricing-list_item pricing-list_item_subscibe">
-                                    <div class="item">
-                                        <div class="item__header item__header_n-free">
-                                            <span class="item__current">Most popular</span>
-                                            <div class="item__title">
-                                                Standard (Website) </div>
-                                            <div class="item__pricing">
-                                                <div class="pricing-item__price_preloader">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/03/spinner-flex.gif"
-                                                        alt="spinner">
-                                                </div>
-                                                <div class="pricing-item__box">
-                                                    <span class="pricing-item__price-value package_1-pricing">$<span></span></span>
-                                                    <span class="pricing-item__interval package-interval package_1-interval">/<span></span></span>
-                                                </div>
-                                            </div>
-                                            <span class="item__description">
-                                                Enjoy a 7-day free trial with this plan. Your subscription will be charged to the payment method provided after the trial unless canceled </span>
-
-                                            <a href="https://marketmakers.trade/checkout/"
-                                                class="item__button"
-                                                data-p-id="Standard">
-                                                <span>
-                                                    <svg
-                                                        xmlns="http://www.w3.org/2000/svg" width="12" height="12"
-                                                        viewBox="0 0 12 12" fill="none">
-                                                        <path d="M4.17153 8.8724C4.05189 8.83253 3.9213 8.84181 3.8085 8.89821C3.6957 8.95461 3.60992 9.05351 3.57003 9.17315C3.18056 10.3416 1.91207 10.7035 1.18444 10.8154C1.29634 10.0874 1.65825 8.81915 2.82666 8.42971C2.88594 8.40999 2.94075 8.37878 2.98796 8.33787C3.03517 8.29696 3.07386 8.24715 3.10181 8.19128C3.12976 8.13541 3.14643 8.07458 3.15087 8.01227C3.1553 7.94996 3.14742 7.88738 3.12766 7.82812C3.1079 7.76886 3.07666 7.71407 3.03572 7.66688C2.99478 7.6197 2.94494 7.58104 2.88906 7.55313C2.83317 7.52521 2.77233 7.50858 2.71002 7.50418C2.6477 7.49978 2.58513 7.50771 2.52588 7.52751C1.55348 7.85165 0.839136 8.62415 0.459995 9.76155C0.291317 10.2717 0.198139 10.8037 0.183418 11.3409C0.183424 11.467 0.233523 11.5879 0.322693 11.6771C0.411864 11.7662 0.532804 11.8163 0.658911 11.8163C1.19601 11.8016 1.72808 11.7084 2.23822 11.5398C3.37558 11.1607 4.14808 10.4463 4.47226 9.47388C4.51213 9.35424 4.50284 9.22366 4.44645 9.11087C4.39005 8.99807 4.29117 8.9123 4.17153 8.8724Z"
-                                                            fill="#192B3F" />
-                                                        <path d="M11.9592 0.839033C11.9299 0.637667 11.8364 0.451142 11.6925 0.307266C11.5486 0.16339 11.3621 0.0698689 11.1607 0.0406444C10.4899 -0.0594522 8.74636 -0.108731 7.04719 1.59035L6.51401 2.12354H2.87328C2.74834 2.12321 2.62457 2.14765 2.50914 2.19546C2.39371 2.24327 2.2889 2.31349 2.20078 2.40206L0.278496 4.32438C0.156793 4.4461 0.0704071 4.59856 0.0285489 4.76552C-0.0133092 4.93248 -0.00906986 5.10766 0.0408151 5.2724C0.0907 5.43714 0.18436 5.58525 0.311808 5.70094C0.439255 5.81663 0.595712 5.89556 0.764494 5.92931L3.11432 6.39929L5.60054 8.8855L6.07049 11.2353C6.1042 11.4042 6.18311 11.5607 6.2988 11.6881C6.4145 11.8156 6.56263 11.9093 6.7274 11.9592C6.89217 12.0091 7.06739 12.0133 7.23437 11.9714C7.40135 11.9295 7.55382 11.8431 7.67551 11.7213L9.5978 9.79896C9.68637 9.71086 9.75659 9.60607 9.80439 9.49065C9.85219 9.37523 9.87663 9.25148 9.87629 9.12655V5.48577L10.4095 4.95258C12.1086 3.25341 12.0593 1.50984 11.9592 0.839033ZM2.87328 3.07452H5.56304L3.19247 5.44508L0.95099 4.99681L2.87328 3.07452ZM8.9253 9.12655L7.00302 11.0488L6.55473 8.80737L8.9253 6.43678L8.9253 9.12655Z"
-                                                            fill="#192B3F" />
-                                                    </svg>
-                                                </span>
-                                                Try us for free! </a>
-                                            <div class="item__notification">
-                                                Paid monthly, cancel anytime </div>
-                                        </div>
-                                        <div class="item__body">
-                                            <ul class="item__list">
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Brendan's exclusive market updates
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Fractal Pattern Trading (FPT) education series
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Brendan's personal video trade journal
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    BlockState & macro live-streams with Ricardo
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Regular video updates and TA from Senior analysts
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Market Makers VIP program at SimpleFX
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="white" fill-opacity="0.1" />
-                                                        </svg>
-                                                    </span>
-                                                    Full access to premium Discord community
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="white" fill-opacity="0.1" />
-                                                        </svg>
-                                                    </span>
-                                                    Permanent use of MM Tradingview indicators
-                                                </li>
-                                                <li class="item__hide">
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18"
-                                                            height="18" viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389957 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM12.2587 11.2797C12.3231 11.344 12.3742 11.4203 12.4091 11.5043C12.444 11.5883 12.4619 11.6784 12.462 11.7694C12.462 11.8603 12.4442 11.9504 12.4094 12.0345C12.3746 12.1185 12.3236 12.1949 12.2592 12.2592C12.1949 12.3236 12.1185 12.3746 12.0345 12.4094C11.9504 12.4441 11.8604 12.462 11.7694 12.462C11.6784 12.4619 11.5884 12.444 11.5043 12.4091C11.4203 12.3742 11.344 12.3231 11.2797 12.2587L9 9.97896L6.72025 12.2587C6.59039 12.3883 6.41439 12.461 6.23092 12.4609C6.04746 12.4608 5.87154 12.3879 5.74181 12.2582C5.61208 12.1285 5.53916 11.9525 5.53906 11.7691C5.53896 11.5856 5.6117 11.4096 5.74129 11.2797L8.02104 9L5.74129 6.72025C5.6117 6.59038 5.53896 6.41438 5.53906 6.23092C5.53916 6.04746 5.61208 5.87153 5.74181 5.74181C5.87154 5.61208 6.04746 5.53915 6.23092 5.53906C6.41439 5.53896 6.59039 5.61169 6.72025 5.74128L9 8.02103L11.2797 5.74128C11.4096 5.61169 11.5856 5.53896 11.7691 5.53906C11.9525 5.53915 12.1285 5.61208 12.2582 5.74181C12.3879 5.87153 12.4608 6.04746 12.4609 6.23092C12.461 6.41438 12.3883 6.59038 12.2587 6.72025L9.97897 9L12.2587 11.2797Z"
-                                                                fill="white" fill-opacity="0.1" />
-                                                        </svg>
-                                                    </span>
-                                                    24/7 on-call educational support
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="pricing-list_item pricing-list_item_subscibe">
-                                    <div class="item">
-                                        <div class="item__header item__header_n-free">
-                                            <div class="item__title">
-                                                Pro (Discord) </div>
-                                            <div class="item__pricing">
-                                                <div class="pricing-item__price_preloader">
-                                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/03/spinner-flex.gif"
-                                                        alt="spinner">
-                                                </div>
-                                                <div class="pricing-item__box">
-                                                    <span class="pricing-item__price-value package_2-pricing">$<span></span></span>
-                                                    <span class="pricing-item__interval package-interval package_2-interval">/<span></span></span>
-                                                </div>
-                                            </div>
-                                            <span class="item__description">
-                                                Enjoy a 7-day free trial with this plan. Your subscription will be charged to the payment method provided after the trial unless canceled </span>
-
-                                            <a href="https://marketmakers.trade/checkout/"
-                                                class="item__button"
-                                                data-p-id="Pro">
-                                                <span>
-                                                    <svg
-                                                        xmlns="http://www.w3.org/2000/svg" width="12" height="12"
-                                                        viewBox="0 0 12 12" fill="none">
-                                                        <path d="M4.17153 8.8724C4.05189 8.83253 3.9213 8.84181 3.8085 8.89821C3.6957 8.95461 3.60992 9.05351 3.57003 9.17315C3.18056 10.3416 1.91207 10.7035 1.18444 10.8154C1.29634 10.0874 1.65825 8.81915 2.82666 8.42971C2.88594 8.40999 2.94075 8.37878 2.98796 8.33787C3.03517 8.29696 3.07386 8.24715 3.10181 8.19128C3.12976 8.13541 3.14643 8.07458 3.15087 8.01227C3.1553 7.94996 3.14742 7.88738 3.12766 7.82812C3.1079 7.76886 3.07666 7.71407 3.03572 7.66688C2.99478 7.6197 2.94494 7.58104 2.88906 7.55313C2.83317 7.52521 2.77233 7.50858 2.71002 7.50418C2.6477 7.49978 2.58513 7.50771 2.52588 7.52751C1.55348 7.85165 0.839136 8.62415 0.459995 9.76155C0.291317 10.2717 0.198139 10.8037 0.183418 11.3409C0.183424 11.467 0.233523 11.5879 0.322693 11.6771C0.411864 11.7662 0.532804 11.8163 0.658911 11.8163C1.19601 11.8016 1.72808 11.7084 2.23822 11.5398C3.37558 11.1607 4.14808 10.4463 4.47226 9.47388C4.51213 9.35424 4.50284 9.22366 4.44645 9.11087C4.39005 8.99807 4.29117 8.9123 4.17153 8.8724Z"
-                                                            fill="#192B3F" />
-                                                        <path d="M11.9592 0.839033C11.9299 0.637667 11.8364 0.451142 11.6925 0.307266C11.5486 0.16339 11.3621 0.0698689 11.1607 0.0406444C10.4899 -0.0594522 8.74636 -0.108731 7.04719 1.59035L6.51401 2.12354H2.87328C2.74834 2.12321 2.62457 2.14765 2.50914 2.19546C2.39371 2.24327 2.2889 2.31349 2.20078 2.40206L0.278496 4.32438C0.156793 4.4461 0.0704071 4.59856 0.0285489 4.76552C-0.0133092 4.93248 -0.00906986 5.10766 0.0408151 5.2724C0.0907 5.43714 0.18436 5.58525 0.311808 5.70094C0.439255 5.81663 0.595712 5.89556 0.764494 5.92931L3.11432 6.39929L5.60054 8.8855L6.07049 11.2353C6.1042 11.4042 6.18311 11.5607 6.2988 11.6881C6.4145 11.8156 6.56263 11.9093 6.7274 11.9592C6.89217 12.0091 7.06739 12.0133 7.23437 11.9714C7.40135 11.9295 7.55382 11.8431 7.67551 11.7213L9.5978 9.79896C9.68637 9.71086 9.75659 9.60607 9.80439 9.49065C9.85219 9.37523 9.87663 9.25148 9.87629 9.12655V5.48577L10.4095 4.95258C12.1086 3.25341 12.0593 1.50984 11.9592 0.839033ZM2.87328 3.07452H5.56304L3.19247 5.44508L0.95099 4.99681L2.87328 3.07452ZM8.9253 9.12655L7.00302 11.0488L6.55473 8.80737L8.9253 6.43678L8.9253 9.12655Z"
-                                                            fill="#192B3F" />
-                                                    </svg>
-                                                </span>
-                                                Try us for free! </a>
-                                            <div class="item__notification">
-                                                Paid monthly, cancel anytime </div>
-                                        </div>
-                                        <div class="item__body">
-                                            <ul class="item__list">
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Brendan's exclusive market updates
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Fractal Pattern Trading (FPT) education series
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Brendan's personal video trade journal
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    BlockState & macro live-streams with Ricardo
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Regular video updates and TA from Senior analysts
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Market Makers VIP program at SimpleFX
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Full access to premium Discord community
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    Permanent use of MM Tradingview indicators
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"
-                                                            viewBox="0 0 18 18" fill="none">
-                                                            <path d="M9 0C7.21997 0 5.47991 0.527841 3.99987 1.51677C2.51983 2.50571 1.36628 3.91131 0.685088 5.55585C0.00389956 7.20038 -0.17433 9.00998 0.172936 10.7558C0.520203 12.5016 1.37737 14.1053 2.63604 15.364C3.89471 16.6226 5.49836 17.4798 7.24419 17.8271C8.99002 18.1743 10.7996 17.9961 12.4442 17.3149C14.0887 16.6337 15.4943 15.4802 16.4832 14.0001C17.4722 12.5201 18 10.78 18 9C17.9972 6.6139 17.0481 4.32631 15.3609 2.63908C13.6737 0.951855 11.3861 0.00275781 9 0ZM13.2864 7.42405L8.20899 12.2702C8.07989 12.393 7.90852 12.4615 7.73032 12.4615C7.55213 12.4615 7.38075 12.393 7.25166 12.2702L4.71364 9.84713C4.58105 9.72011 4.50429 9.54566 4.50022 9.36209C4.49616 9.17853 4.56512 9.00085 4.69197 8.86809C4.81881 8.73534 4.99317 8.65835 5.17673 8.65406C5.36029 8.64976 5.53806 8.7185 5.67098 8.84517L7.73032 10.8119L12.329 6.4221C12.4619 6.29542 12.6397 6.22668 12.8233 6.23098C13.0068 6.23528 13.1812 6.31226 13.308 6.44502C13.4349 6.57777 13.5038 6.75545 13.4998 6.93902C13.4957 7.12259 13.419 7.29704 13.2864 7.42405Z"
-                                                                fill="#4FD298" />
-                                                        </svg>
-                                                    </span>
-                                                    24/7 on-call educational support
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </div>
             </section>
             <section class="section reviews">
                 <div class="reviews-wrap">
 
-                    <!-- <div class="reviews-slogan">Client response</div> -->
+                    
                     <h2 class="reviews-title">
                         Clientes <span>Específicos</span>
                     </h2>
@@ -2489,74 +1615,69 @@
 
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
-
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
                                             Inverfat Sc De Rl De C
+                                            <br><br>
+                                            La Estancia, Hgo
                                         </div>
                                     </div>
-                                    <div class="reviews-item__author">La Estancia, Hgo</div>
-
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
-
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
                                             Kosher Mexico Internacional S.A. De C.V.
+                                            <br><br>
+                                            Zapotlán De Juárez, Hgo.
                                         </div>
                                     </div>
-                                    <div class="reviews-item__author">Zapotlán De Juárez, Hgo.</div>
-
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
-
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
                                             Ecoenergías E Iluminación Mexicana S.A De C.V
+                                            <br><br>
+                                            Pachuca De Soto, Hgo.
                                         </div>
                                     </div>
-                                    <div class="reviews-item__author">Pachuca De Soto, Hgo.</div>
-
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
-
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
                                             Granja Tepeyac
+                                            <br><br>
+                                            Francisco I. Madero, Hgo.
                                         </div>
                                     </div>
-                                    <div class="reviews-item__author">Francisco I. Madero, Hgo.</div>
-
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
-
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
                                             Mercado Valle De Las Estrellas
+                                            <br><br>
+                                            Mineral de la reforma, Hgo.
                                         </div>
                                     </div>
-                                    <div class="reviews-item__author">Mineral de la reforma, Hgo.</div>
-
                                 </div>
                             </div>
                             <div class="reviews-item">
                                 <div class="reviews-item__wrap">
-
                                     <div class="reviews-item__content">
                                         <div class="reviews-item__content_box">
                                             Grupo México
+                                            <br><br>
+                                            Pachuca de Soto, Hgo.
                                         </div>
                                     </div>
-                                    <div class="reviews-item__author">Pachuca de Soto, Hgo.</div>
-
+                                    <div class="reviews-item__author"></div>
                                 </div>
                             </div>
 
@@ -2568,30 +1689,27 @@
                                         <svg width="58" height="59" viewBox="0 0 58 59" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
                                             <rect width="58" height="58" rx="29" transform="matrix(-1 0 0 1 58 0.719727)"
-                                                fill="#4FD298"
+                                                fill="#B71828"
                                                 fill-opacity="0.1" />
                                             <path
                                                 d="M22.1709 30.1316L27.4209 35.3816C27.5025 35.4631 27.6064 35.5187 27.7195 35.5412C27.8327 35.5637 27.95 35.5521 28.0566 35.508C28.1632 35.4638 28.2543 35.389 28.3183 35.2931C28.3824 35.1972 28.4167 35.0844 28.4167 34.969V30.3024H35.4167C35.5714 30.3024 35.7197 30.2409 35.8291 30.1315C35.9385 30.0221 36 29.8738 36 29.7191C36 29.5643 35.9385 29.416 35.8291 29.3066C35.7197 29.1972 35.5714 29.1357 35.4167 29.1357H28.4167V24.4691C28.4167 24.3537 28.3824 24.2409 28.3183 24.145C28.2543 24.0491 28.1632 23.9743 28.0566 23.9302C27.95 23.886 27.8327 23.8744 27.7195 23.8969C27.6064 23.9194 27.5025 23.975 27.4209 24.0566L22.1709 29.3065C22.1167 29.3607 22.0737 29.425 22.0444 29.4958C22.0151 29.5666 22 29.6424 22 29.7191C22 29.7957 22.0151 29.8715 22.0444 29.9423C22.0737 30.0131 22.1167 30.0774 22.1709 30.1316Z"
-                                                fill="#4FD298" />
+                                                fill="#B71828" />
                                         </svg>
                                     </button>
                                     <button class="reviews-navigation__next">
                                         <svg width="58" height="59" viewBox="0 0 58 59" fill="none"
                                             xmlns="http://www.w3.org/2000/svg">
-                                            <rect y="0.719727" width="58" height="58" rx="29" fill="#4FD298"
+                                            <rect y="0.719727" width="58" height="58" rx="29" fill="#B71828"
                                                 fill-opacity="0.1" />
                                             <path
                                                 d="M35.8291 30.1316L30.5791 35.3816C30.4975 35.4631 30.3936 35.5187 30.2805 35.5412C30.1673 35.5637 30.05 35.5521 29.9434 35.508C29.8368 35.4638 29.7457 35.389 29.6817 35.2931C29.6176 35.1972 29.5833 35.0844 29.5833 34.969V30.3024H22.5833C22.4286 30.3024 22.2803 30.2409 22.1709 30.1315C22.0615 30.0221 22 29.8738 22 29.7191C22 29.5643 22.0615 29.416 22.1709 29.3066C22.2803 29.1972 22.4286 29.1357 22.5833 29.1357H29.5833V24.4691C29.5833 24.3537 29.6176 24.2409 29.6817 24.145C29.7457 24.0491 29.8368 23.9743 29.9434 23.9302C30.05 23.886 30.1673 23.8744 30.2805 23.8969C30.3936 23.9194 30.4975 23.975 30.5791 24.0566L35.8291 29.3065C35.8833 29.3607 35.9263 29.425 35.9556 29.4958C35.9849 29.5666 36 29.6424 36 29.7191C36 29.7957 35.9849 29.8715 35.9556 29.9423C35.9263 30.0131 35.8833 30.0774 35.8291 30.1316Z"
-                                                fill="#4FD298" />
+                                                fill="#B71828" />
                                         </svg>
                                     </button>
                                 </div>
                             </div>
                         </div>
 
-                    </div>
-                    <div class="reviews-link">
-                        More reviews in our <a href="https://marketmakers.trade/about/">Discord</a>
                     </div>
 
                 </div>
@@ -2601,7 +1719,6 @@
                     <div class="banner-wrap">
                         <div class="banner-info">
 
-                            <div class="banner-icon"></div>
                             <h2 class="banner-title">
                                 Transforma tu energía. Maximiza tu ahorro.
                                 <span style="font-size: 1.2rem; font-weight: 400;">
@@ -2609,196 +1726,69 @@
                                 </span>
                             </h2>
                             <div class="banner-link">
-                                <a href="#pricing">
-
+                                <a href="#">
                                     <span class="banner-link__title">Empieza ahora </span>
-                                    <span class="banner-link__icon"></span>
-
                                 </a>
                             </div>
                             <div class="banner-svg">
                                 <svg width="544" height="377" viewBox="0 0 544 377" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M231.237 1.35059L231.237 225.463" stroke="#40C389" stroke-linecap="round" />
+                                    <path d="M231.237 1.35059L231.237 225.463" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M240.202 14.7705L222.273 14.7705C221.036 14.7705 220.032 15.73 220.032 16.9137L220.032 207.656C220.032 208.84 221.036 209.8 222.273 209.8L240.202 209.8C241.44 209.8 242.443 208.84 242.443 207.656L242.443 16.9137C242.443 15.73 241.44 14.7705 240.202 14.7705Z"
-                                        fill="#40C389" />
-                                    <path d="M272.272 30.4854L272.272 209.774" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M272.272 30.4854L272.272 209.774" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M263.309 48.915L281.238 48.915C282.199 48.915 282.979 49.6946 282.979 50.6562L282.979 189.606C282.979 190.567 282.199 191.347 281.237 191.347L263.308 191.347C262.347 191.347 261.567 190.567 261.567 189.606L261.567 50.6562C261.567 49.6946 262.347 48.915 263.309 48.915Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M313.308 160.446L313.308 245.605" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" stroke="#0e1422" />
+                                    <path d="M313.308 160.446L313.308 245.605" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M304.344 178.872L322.273 178.872C323.234 178.872 324.014 179.652 324.014 180.613L324.014 225.436C324.014 226.397 323.234 227.177 322.273 227.177L304.344 227.177C303.382 227.177 302.603 226.397 302.603 225.436L302.603 180.613C302.603 179.652 303.382 178.872 304.344 178.872Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M354.349 158.202L354.349 232.16" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" stroke="#0e1422" />
+                                    <path d="M354.349 158.202L354.349 232.16" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M363.309 169.409L345.38 169.409C344.142 169.409 343.139 170.413 343.139 171.65L343.139 216.473C343.139 217.711 344.142 218.714 345.38 218.714L363.309 218.714C364.547 218.714 365.55 217.711 365.55 216.473L365.55 171.65C365.55 170.413 364.547 169.409 363.309 169.409Z"
-                                        fill="#40C389" />
-                                    <path d="M408.986 269.507L408.986 345.705" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M408.986 269.507L408.986 345.705" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M400.022 281.214L417.951 281.214C418.913 281.214 419.692 281.993 419.692 282.955L419.692 323.295C419.692 324.257 418.913 325.036 417.951 325.036L400.022 325.036C399.061 325.036 398.281 324.257 398.281 323.295L398.281 282.955C398.281 281.993 399.061 281.214 400.022 281.214Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M450.021 291.917L450.021 392.768" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" stroke="#0e1422" />
+                                    <path d="M450.021 291.917L450.021 392.768" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M441.058 311.466L458.987 311.466C459.948 311.466 460.728 312.245 460.728 313.207L460.728 371.476C460.728 372.438 459.948 373.217 458.987 373.217L441.058 373.217C440.096 373.217 439.316 372.438 439.316 371.476L439.316 313.207C439.316 312.245 440.096 311.466 441.058 311.466Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M491.06 278.472L491.06 354.67" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" stroke="#0e1422" />
+                                    <path d="M491.06 278.472L491.06 354.67" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M500.023 294.159L482.094 294.159C480.856 294.159 479.853 295.163 479.853 296.4L479.853 332.258C479.853 333.496 480.856 334.499 482.094 334.499L500.023 334.499C501.26 334.499 502.264 333.496 502.264 332.258L502.264 296.4C502.264 295.163 501.26 294.159 500.023 294.159Z"
-                                        fill="#40C389" />
-                                    <path d="M532.094 242.612L532.094 343.463" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M532.094 242.612L532.094 343.463" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M541.059 267.265L523.13 267.265C521.892 267.265 520.889 268.268 520.889 269.506L520.889 330.016C520.889 331.254 521.892 332.257 523.13 332.257L541.059 332.257C542.297 332.257 543.3 331.254 543.3 330.016L543.3 269.506C543.3 268.268 542.297 267.265 541.059 267.265Z"
-                                        fill="#40C389" />
-                                    <path d="M221.382 207.267L221.382 106.416" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M221.382 207.267L221.382 106.416" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M212.421 182.614L230.35 182.614C231.587 182.614 232.591 181.611 232.591 180.373L232.591 140.033C232.591 138.795 231.587 137.792 230.35 137.792L212.421 137.792C211.183 137.792 210.18 138.795 210.18 140.033L210.18 180.373C210.18 181.611 211.183 182.614 212.421 182.614Z"
-                                        fill="#40C389" />
-                                    <path d="M216.389 251.366L216.389 150.516" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M216.389 251.366L216.389 150.516" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M207.423 226.714L225.352 226.714C226.589 226.714 227.593 225.71 227.593 224.473L227.593 179.65C227.593 178.413 226.589 177.409 225.352 177.409L207.423 177.409C206.185 177.409 205.182 178.413 205.182 179.65L205.182 224.473C205.182 225.71 206.185 226.714 207.423 226.714Z"
-                                        fill="#40C389" />
-                                    <path d="M175.353 280.503L175.353 193.099" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M175.353 280.503L175.353 193.099" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M166.387 262.573L184.316 262.573C185.553 262.573 186.557 261.57 186.557 260.332L186.557 213.269C186.557 212.031 185.553 211.027 184.316 211.027L166.387 211.027C165.149 211.027 164.145 212.031 164.145 213.269L164.145 260.332C164.145 261.57 165.149 262.573 166.387 262.573Z"
-                                        fill="#40C389" />
-                                    <path d="M134.312 305.149L134.313 222.228" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M134.312 305.149L134.313 222.228" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M125.351 286.101L143.28 286.101C144.518 286.101 145.521 285.097 145.521 283.859L145.521 243.519C145.521 242.281 144.518 241.278 143.28 241.278L125.351 241.278C124.114 241.278 123.11 242.281 123.11 243.519L123.11 283.859C123.11 285.097 124.114 286.101 125.351 286.101Z"
-                                        fill="#40C389" />
-                                    <path d="M93.2803 323.087L93.2803 235.683" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M93.2803 323.087L93.2803 235.683" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M84.3152 309.642L102.244 309.642C103.482 309.642 104.485 308.638 104.485 307.4L104.485 251.372C104.485 250.135 103.482 249.131 102.244 249.131L84.3152 249.131C83.0775 249.131 82.0741 250.135 82.0741 251.372L82.0741 307.4C82.0741 308.638 83.0775 309.642 84.3152 309.642Z"
-                                        fill="#40C389" />
-                                    <path d="M11.2041 341.009L11.2041 240.158" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M11.2041 341.009L11.2041 240.158" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M2.24101 329.802L20.17 329.802C21.4077 329.802 22.4111 328.798 22.4111 327.561L22.4111 253.604C22.4111 252.366 21.4078 251.362 20.17 251.362L2.24102 251.362C1.00328 251.362 -0.000103857 252.366 -0.000103965 253.604L-0.00011043 327.561C-0.000110539 328.798 1.00327 329.802 2.24101 329.802Z"
-                                        fill="#40C389" />
-                                    <path d="M52.2402 282.743L52.2402 199.822" stroke="#40C389" stroke-linecap="round" />
+                                        fill="#0e1422" />
+                                    <path d="M52.2402 282.743L52.2402 199.822" stroke="#0e1422" stroke-linecap="round" />
                                     <path d="M61.2061 269.917L43.2771 269.917C42.3155 269.917 41.536 269.137 41.536 268.176L41.536 214.389C41.536 213.427 42.3156 212.648 43.2772 212.648L61.2061 212.648C62.1677 212.648 62.9473 213.427 62.9473 214.389L62.9473 268.176C62.9473 269.137 62.1677 269.917 61.2061 269.917Z"
-                                        fill="#4FD298" stroke="#40C389" />
+                                        fill="#0e1422" stroke="#0e1422" />
                                 </svg>
                             </div>
                             <div class="banner-image">
-                                <img src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/cta-image.png" alt="">
+                                <img src="./assets/img/icono/logo.webp" alt="" width="340" height="auto" class="girarImagen2">
                             </div>
 
                         </div>
                     </div>
                 </div>
             </section>
-            <!-- <section class=" section faq">
-                <div class="container">
-                    <div class="faq-wrap">
-                        <div class="faq-info">
-                            <div class="faq-label">
-                                Frequently asked questions </div>
-                            <h2 class="faq-title">
-                                What do you <span>need to know?</span> </h2>
-                            <p class="faq-desc">
-                                Check the FAQ for answers. If you still have questions, reach out and chat with us any time. </p>
-                            <div class="faq-link">
-                                <a href="https://marketmakers.trade/contacts/"
-                                    class="btnColor">
-                                    <span class="btnColor-title">
-                                        Get in touch </span>
-                                    <span class="btnColor-icon"></span>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="faq-list">
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        What is Market Makers? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Market Makers is a vibrant trading community led by Brendan from YouTube. We provide exclusive weekly market updates, technical analysis, and more. Join us to learn, trade, and succeed with the support of a dynamic network. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        What benefits do I get with a Standard webiste membership? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        With the Standard website plan, you get Brendan’s market updates, the Fractal Pattern Trading video series, and his personal trade journal. It's perfect for boosting your trading knowledge and skills on a budget. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        How does the Pro Discord membership enhance my trading experience? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Pro Discord is our all-inclusive package. Pro offers real time market insights, live QA sessions with Ricardo, and 24/7 support from expert traders and much more. Engage with a thriving community and access exclusive content. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        How can I be sure my information is secure with Market Makers? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Your information is safe with us. We use industry standard security protocols and never share your data. Manage your subscription and preferences easily, and opt-in for occasional promotional emails. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        How can I start learning with Market Makers? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Join the Standard plan for Brendan’s updates and the Fractal Pattern Trading series. For a more immersive experience, upgrade to Pro and get even more support and resources. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        What kind of support does Market Makers offer? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        The premium Discord membership provides 24/7 support, live QA sessions, and continuous assistance from our expert traders. It's one of the best investments you can make in your trading journey. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        What is the refund policy at Market Makers? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        We want you to be completely satisfied, so we offer a 7 day free trial to explore our services. After the trial, payments are non-refundable, but we encourage you to contact us if you need assistance with your subscription. Managing your plan is easy via your user profile, and our team is always here to help at contact@marketmakers.trade </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        Is Market Makers a signal provider? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        No, Market Makers is all about education and community. We provide real time educational content to help you make informed trading decisions. We focus on teaching sensible trade practices and risk management, but we don't give specific financial advice or signals. Always trade responsibly and check out our terms and disclaimer for more info. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        What is Market Makers VIP at SimpleFX? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Market Makers VIP at SimpleFX gives you access to private trade competitions with cash prizes and a double first deposit bonus for all members. Elevate your trading experience with these exclusive perks. </div>
-                                </div>
-                            </div>
-                            <div class="faq-item">
-                                <div class="faq-item__head">
-                                    <h6 class="faq-item__title">
-                                        Can I keep the Market Makers indicators forever? </h6>
-                                </div>
-                                <div class="faq-item__body">
-                                    <div class="faq-item__content">
-                                        Yes, you can keep them. Any Pro Discord plan members gain access to our library of custom TradingView indicators. They are yours to keep and use forever, no catch. </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-
+            
         </div>
         <div id="otros">
 
@@ -2808,7 +1798,7 @@
             ">
             <div class="informationBlock">
                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
-                    <rect x="0.275391" y="0.490479" width="25" height="25" rx="3" fill="#4FD298" />
+                    <rect x="0.275391" y="0.490479" width="25" height="25" rx="3" fill="#B71828" />
                     <path d="M18.1333 9.41785L10.9888 16.562L7.4165 12.9901" stroke="#112337" stroke-width="2"
                         stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
@@ -3144,9 +2134,6 @@
                     <h3 class="popup__title">
                         Are you sure you want to cancel?
                     </h3>
-                    <!--<div class="popup__description">-->
-                    <!--    Do you want to cancel your subscription?-->
-                    <!--</div>-->
                     <div class="box__union">
                         <a href="#" class="popup__content-button-close">
                             Close

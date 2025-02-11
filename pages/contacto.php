@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="../assets/css/remplaso.css">
     <?php include '../assets/html/css.html'; ?>
 
-    <link type="image/x-icon" href="../assets/img/icono/Favicon.png" rel="shortcut icon">
+    <link type="image/x-icon" href="../assets/img/icono/logo.webp" rel="shortcut icon">
     <title>Contacts | Market Makers</title>
 </head>
 
@@ -229,7 +229,7 @@
             ">
             <div class="informationBlock">
                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
-                    <rect x="0.275391" y="0.490479" width="25" height="25" rx="3" fill="#4FD298" />
+                    <rect x="0.275391" y="0.490479" width="25" height="25" rx="3" fill="#B71828" />
                     <path d="M18.1333 9.41785L10.9888 16.562L7.4165 12.9901" stroke="#112337" stroke-width="2"
                         stroke-linecap="round" stroke-linejoin="round" />
                 </svg>

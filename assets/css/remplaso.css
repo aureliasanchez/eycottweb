@@ -1,3 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@400;700&display=swap');
+
+
+* {
+    font-family: 'Exo', sans-serif !important;
+}
+
+body {
+    font-family: 'Exo', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+strong {
+    font-family: 'Exo', sans-serif !important;
+}
+
+h1 {
+    font-weight: bold !important;
+    font-size: 3rem !important;
+}
+
+h2 {
+    font-weight: 600 !important;
+    font-size: 2.5rem !important;
+}
+
+h3 {
+    font-weight: 500 !important;
+    font-size: 2rem !important;
+}
+
+h4 {
+    font-weight: 500 !important;
+    font-size: 1.8rem !important;
+}
+
+h5 {
+    font-weight: 400 !important;
+    font-size: 1.5rem !important;
+}
+
+h6 {
+    font-weight: 400 !important;
+    font-size: 1.2rem !important;
+}
+
+p {
+    font-weight: 300 !important;
+    font-size: 1rem !important;
+}
+
+strong {
+    font-weight: bold !important;
+}
+
 .partners-item__img img {
     max-height: 100px !important;
     max-width: 200px !important;
@@ -8,10 +69,248 @@
     max-width: 800px !important;
 }
 
-.learn-img:after, .learn-item__img:after {
+.learn-img:after,
+.learn-item__img:after {
     background-image: none !important;
 }
 
-.learn-img:before, .learn-item__img:before {
+.learn-img:before,
+.learn-item__img:before {
     background: none !important;
+}
+
+.fa-solid,
+.fas {
+    font-family: "Font Awesome 6 Free" !important;
+    font-weight: 900 !important;
+}
+
+.border-radius {
+    border-radius: 20px;
+}
+
+.reviews-item__content:after {
+    background: none !important;
+}
+
+.footer-box:not(:first-child) {
+    margin-left: 50px !important;
+}
+
+.footer-nav {
+    max-width: 225px !important;
+}
+
+body {
+    background: #18223B !important;
+}
+
+.hero-title span {
+    color: #B71828 !important;
+}
+
+.btnArrow.btnArrow-green {
+    background: #B71828 !important;
+    transition: background 0.4sease !important;
+}
+
+.hovers .btnArrow-green:hover {
+    background: rgba(183, 24, 40, 0.1) !important;
+}
+
+.btnArrow-title {
+    color: #0e1422 !important;
+}
+
+.hovers .btnArrow-green:hover span {
+    color: #fff !important;
+}
+
+.mission-title span:after {
+    background: none !important;
+}
+
+.hero-desc,
+.mission-item__desc,
+.mission-item__info,
+.why-item__desc {
+    color: #cac4eb !important;
+}
+
+.mission-item__title span {
+    color: #ff2339 !important;
+}
+
+.mission-item__number {
+    color: #B71828 !important;
+}
+
+.mission-wrap {
+    background: #2c3d6a !important;
+}
+
+.btnColor:before {
+    background-image: linear-gradient(to right, #B71828, #B71828, #B71828, #B71828) !important;
+}
+
+.btnColor:after {
+    background: linear-gradient(297deg, rgba(183, 24, 40, 0.2) 0.04%, rgba(183, 24, 40, 0.2) 8.51%, rgba(183, 24, 40, 0) 37%), linear-gradient(141deg, #ff2339 -76.25%, #B71828 -48.32%, rgba(183, 24, 40, 0) 40.52%), rgba(255, 35, 57, 0.03) !important;
+}
+
+.btnColor-title {
+    font-weight: bold !important;
+}
+
+.btnColor:hover .btnColor-title {
+    color: #18223B !important;
+}
+
+.knowledge-title span {
+    color: #B71828 !important;
+}
+
+.why-title span {
+    color: #B71828 !important;
+}
+
+.why-item__title span {
+    color: #B71828 !important;
+}
+
+.why-wrap {
+    background: #2c3d6a !important;
+}
+
+.partners-title span {
+    color: #B71828 !important;
+}
+
+.partners-item__tooltip:after {
+    background: #2c3d6a !important;
+}
+
+.partners-item__tooltip:before {
+    background: #2c3d6a !important;
+}
+
+.partners-item__tooltip {
+    background: #2c3d6a !important;
+}
+
+.learn-wrap {
+    background: #2c3d6a !important;
+}
+
+.learn-title span {
+    color: #B71828 !important;
+}
+
+.learn-item.active .learn-item__title {
+    color: #B71828 !important;
+}
+
+.learn-item.active .learn-item__title:after {
+    background: #B71828 !important;
+}
+
+.learn-item__body:after {
+    background: linear-gradient(180deg, rgb(183, 24, 40) 0%, rgb(101, 13, 22) 100%) !important;
+}
+
+.learn-item__title:hover {
+    color: #B71828 !important;
+}
+
+.reviews-title span {
+    color: #B71828 !important;
+}
+
+.reviews-item__content {
+    border: 1px solid #2c3d6a !important;
+    background: #2c3d6a !important;
+}
+
+.reviews-navigation-block:before,
+.reviews-navigation-block,
+.reviews-navigation-block::after,
+.reviews-navigation-box::before,
+.reviews-navigation-box,
+.reviews-navigation-box::after {
+    background: #2c3d6a !important;
+}
+
+.reviews-navigation:before,
+.reviews-navigation,
+.reviews-navigation::after {
+    background: #2c3d6a !important;
+}
+
+.reviews-navigation__next:before,
+.reviews-navigation__prev:after {
+    background: #2c3d6a !important;
+}
+
+.hovers .reviews-navigation button:hover svg path {
+    fill: #18223B !important;
+}
+
+.banner-wrap {
+    background: #2c3d6a  !important;
+}
+
+.banner-link a {
+    box-shadow: 0px 2px 4px 0px #ff2339, 0px 4px 11px 0px #B71828 !important;
+}
+
+.hovers .banner-link a:hover {
+    background: #B71828 !important;
+    box-shadow: 0px 2px 4px 0px #18223B, 0px 4px 11px 0px #18223B !important;
+}
+
+.banner-link__title {
+    color: #18223B !important;
+}
+
+.hovers .banner-link a:hover span {
+    color: #fff !important;
+}
+
+.footer-wrap {
+    background: #2c3d6a !important;
+}
+
+.hovers .reviews-navigation button:hover svg rect {
+    fill: #B71828 !important;
+    fill-opacity: 1;
+}
+
+.mission-item:not(:first-child),
+.why-item,
+.header-wrap {
+    border: 1px solid #18223B !important;
+    background: #18223B !important;
+}
+
+.reviews-navigation button:not(:first-child):after {
+    background: #2c3d6a !important;
+}
+
+@media screen and (max-width: 991px) {
+    .knowledge-img img {
+        margin-left: 0px !important;
+    }
+
+    .girarImagen {
+        transform-origin: center;
+        transform: rotate(270deg);
+    }
+
+    .girarImagen2 {
+        transform-origin: center;
+        transform: rotate(180deg);
+    }
+
+    .banner-link a {
+        transform: translateY(-60%) !important;
+    }
 }

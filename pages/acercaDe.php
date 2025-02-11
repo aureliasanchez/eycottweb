@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <?php include '../assets/html/css.html'; ?>
 
-    <link type="image/x-icon" href="../assets/img/icono/Favicon.png" rel="shortcut icon">
+    <link type="image/x-icon" href="../assets/img/icono/logo.webp" rel="shortcut icon">
     <title>About | Market Makers</title>
 </head>
 
@@ -235,7 +235,7 @@
                                                 <rect x="0.880859" y="0.650391" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_220)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-tachometer-alt" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-tachometer-alt" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_220" x="-33.6191" y="-33.8496" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -258,7 +258,7 @@
                                                 <rect x="0.674805" y="1.2146" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_217)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-lightbulb" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-lightbulb" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_217" x="-33.8252" y="-33.2854" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -285,7 +285,7 @@
                                                 <rect x="1.3999" y="0.932861" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_214)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-leaf" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-leaf" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_214" x="-33.1001" y="-33.5671" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -308,7 +308,7 @@
                                                 <rect x="1.3999" y="0.49707" width="138.871" height="138.871" rx="13.5" stroke="url(#paint0_linear_121_211)" />
                                             </g>
                                             <foreignObject x="20" y="20" width="100" height="100">
-                                                <i class="fas fa-gavel" style="font-size: 80px; color: #4CD09E; display: flex; align-items: center; justify-content: center;"></i>
+                                                <i class="fas fa-gavel" style="font-size: 80px; color: #B71828; display: flex; align-items: center; justify-content: center;"></i>
                                             </foreignObject>
                                             <defs>
                                                 <filter id="filter0_b_121_211" x="-33.1001" y="-34.0029" width="207.871" height="207.871" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
@@ -352,7 +352,7 @@
                                     <g mask="url(#mask0_121_188)">
                                         <path data-start="60" data-duration="70"
                                             d="M73.7394 177.133C80.9143 176.626 86.3186 170.412 85.8103 163.255C85.302 156.097 79.0735 150.706 71.8986 151.213C64.7236 151.72 59.3193 157.933 59.8276 165.091C60.3359 172.249 66.5644 177.64 73.7394 177.133Z"
-                                            fill="#4CD19E" />
+                                            fill="#B71828" />
                                     </g>
                                     <mask id="mask1_121_188"
                                         style="mask-type:alpha" maskUnits="userSpaceOnUse" x="37" y="49"
@@ -365,7 +365,7 @@
                                     <g mask="url(#mask1_121_188)">
                                         <path data-start="80" data-duration="70"
                                             d="M71.8986 64.0879C79.0735 64.595 85.302 59.2037 85.8103 52.0461C86.3186 44.8885 80.9143 38.675 73.7394 38.1679C66.5645 37.6608 60.336 43.0521 59.8276 50.2098C59.3193 57.3674 64.7237 63.5808 71.8986 64.0879Z"
-                                            fill="#4CD19E" />
+                                            fill="#B71828" />
                                     </g>
                                     <svg width="200" height="200" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <g filter="url(#filter0_d_121_188)" id="knowledge-centered">
@@ -398,8 +398,8 @@
                                         </filter>
                                         <linearGradient id="paint0_linear_121_188" x1="303.27" y1="122.163" x2="433.27"
                                             y2="122.163" gradientUnits="userSpaceOnUse">
-                                            <stop stop-color="#4CD19E" />
-                                            <stop offset="1" stop-color="#20344B" />
+                                            <stop stop-color="#B71828" />
+                                            <stop offset="1" stop-color="#B71828" />
                                         </linearGradient>
                                     </defs>
 
@@ -423,632 +423,6 @@
                     </div>
                 </div>
             </section>
-            <!-- <section class="section cta">
-                <div class="container">
-                    <div class="cta-wrap">
-                        <h2 class="cta-title">Any questions?</h2>
-                        <p class="cta-desc">If you still have questions, give us a shout!</p>
-                        <div class="cta-action">
-                            <a href="https://marketmakers.trade/contacts/" class="btnColor">
-                                <span class="btnColor-title">Talk to us</span>
-                                <span class="btnColor-icon"></span>
-                            </a>
-                            <a href="https://marketmakers.trade/#precios" class="cta-action__btn">
-                                <span>Try us for free!</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- <section class="section experts">
-                <div class="container">
-                    <div class="experts-wrap">
-                        <div class="experts-list">
-                            <div class="experts-item">
-                                <div class="experts-item__label">Market Makers <span>Leaders</span></div>
-                                <h2 class="experts-item__title">Meet <span>our analysts</span></h2>
-                                <h2 class="experts-item__action">
-                                    <a href="https://marketmakers.trade/contacts/"
-                                        class="btnArrow btnArrow-green">
-                                        <span class="btnArrow-title">Talk to us</span>
-                                        <span class="btnArrow-icon"></span>
-                                    </a>
-                                </h2>
-                            </div>
-                            <div class="experts-item">
-                                <div class="experts-item__top">
-                                    <div class="experts-item__img">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/BrendanAdobeStock_664794952.jpeg" alt="https://marketmakers.trade/wp-content/uploads/2024/02/BrendanAdobeStock_664794952.jpeg">
-                                    </div>
-                                </div>
-                                <div class="experts-item__bottom">
-                                    <div class="experts-item__info">
-                                        <div class="experts-item__name">Brendan (fibotrader)</div>
-                                        <div class="experts-item__position">Founder & Lead Analyst</div>
-                                    </div>
-                                    <div class="experts-item__social">
-                                        <a href="https://discord.com/invite/8dQwpAhpYn/login"
-                                            class="experts-item__social-item">
-                                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <g filter="url(#filter0_b_257_316)">
-                                                    <rect x="0.78418" y="0.700195" width="34" height="34" rx="4"
-                                                        fill="#283F58" />
-                                                    <rect x="1.28418" y="1.2002" width="33" height="33" rx="3.5"
-                                                        stroke="url(#paint0_linear_257_316)" />
-                                                </g>
-                                                <path
-                                                    d="M23.5668 13.0986C22.1823 11.9845 19.9921 11.7956 19.8983 11.7888C19.7529 11.7766 19.6143 11.8581 19.5546 11.9926C19.5491 12.0008 19.5016 12.1108 19.4486 12.282C20.3643 12.4369 21.4893 12.7481 22.507 13.3799C22.67 13.4804 22.7203 13.6951 22.6198 13.8581C22.5532 13.9655 22.4404 14.0239 22.3236 14.0239C22.2611 14.0239 22.1972 14.0062 22.1402 13.9709C20.3902 12.8853 18.2054 12.8309 17.7842 12.8309C17.363 12.8309 15.1768 12.8853 13.4282 13.9709C13.2652 14.0728 13.0505 14.0225 12.9499 13.8595C12.848 13.6951 12.8983 13.4818 13.0614 13.3799C14.079 12.7494 15.204 12.4369 16.1198 12.2834C16.0668 12.1108 16.0192 12.0021 16.0152 11.9926C15.954 11.8581 15.8168 11.7739 15.67 11.7888C15.5763 11.7956 13.3861 11.9845 11.9825 13.1135C11.2502 13.7915 9.78418 17.7535 9.78418 21.1788C9.78418 21.2399 9.80048 21.2983 9.83038 21.3513C10.8412 23.1285 13.6008 23.5932 14.2298 23.6136C14.2325 23.6136 14.2366 23.6136 14.2407 23.6136C14.3521 23.6136 14.4567 23.5606 14.522 23.4709L15.1578 22.5959C13.4418 22.153 12.5654 21.4002 12.5152 21.3554C12.3711 21.229 12.3575 21.0089 12.4853 20.8649C12.6116 20.7209 12.8317 20.7073 12.9758 20.8337C12.9961 20.8527 14.6103 22.2222 17.7842 22.2222C20.9635 22.2222 22.5777 20.8472 22.594 20.8337C22.738 20.7087 22.9567 20.7209 23.0845 20.8663C23.2108 21.0103 23.1972 21.229 23.0532 21.3554C23.0029 21.4002 22.1266 22.153 20.4105 22.5959L21.0464 23.4709C21.1116 23.5606 21.2162 23.6136 21.3277 23.6136C21.3317 23.6136 21.3358 23.6136 21.3385 23.6136C21.9676 23.5932 24.7271 23.1285 25.738 21.3513C25.7679 21.2983 25.7842 21.2399 25.7842 21.1788C25.7842 17.7535 24.3181 13.7915 23.5668 13.0986ZM15.5233 19.7875C14.8508 19.7875 14.3059 19.1652 14.3059 18.3962C14.3059 17.6271 14.8508 17.0049 15.5233 17.0049C16.1959 17.0049 16.7407 17.6271 16.7407 18.3962C16.7407 19.1652 16.1959 19.7875 15.5233 19.7875ZM20.045 19.7875C19.3725 19.7875 18.8277 19.1652 18.8277 18.3962C18.8277 17.6271 19.3725 17.0049 20.045 17.0049C20.7176 17.0049 21.2624 17.6271 21.2624 18.3962C21.2624 19.1652 20.7176 19.7875 20.045 19.7875Z"
-                                                    fill="#A7C5E7" />
-                                                <defs>
-                                                    <filter id="filter0_b_257_316" x="-33.2158" y="-33.2998"
-                                                        width="102" height="102"
-                                                        filterUnits="userSpaceOnUse"
-                                                        color-interpolation-filters="sRGB">
-                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                        <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                        <feComposite in2="SourceAlpha" operator="in"
-                                                            result="effect1_backgroundBlur_257_316" />
-                                                        <feBlend mode="normal" in="SourceGraphic"
-                                                            in2="effect1_backgroundBlur_257_316"
-                                                            result="shape" />
-                                                    </filter>
-                                                    <linearGradient id="paint0_linear_257_316" x1="5.64856"
-                                                        y1="-25.6557" x2="28.4981" y2="22.0185"
-                                                        gradientUnits="userSpaceOnUse">
-                                                        <stop stop-color="white" stop-opacity="0.27" />
-                                                        <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                    </linearGradient>
-                                                </defs>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="experts-item">
-                                <div class="experts-item__top">
-                                    <div class="experts-item__img">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/RicardoAdobeStock_664790331.jpeg" alt="https://marketmakers.trade/wp-content/uploads/2024/02/RicardoAdobeStock_664790331.jpeg">
-                                    </div>
-                                </div>
-                                <div class="experts-item__bottom">
-                                    <div class="experts-item__info">
-                                        <div class="experts-item__name">Ricardo (ricardom.)</div>
-                                        <div class="experts-item__position">Sr. Analyst</div>
-                                    </div>
-                                    <div class="experts-item__social">
-                                        <a href="https://discord.com/invite/8dQwpAhpYn/login"
-                                            class="experts-item__social-item">
-                                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <g filter="url(#filter0_b_257_316)">
-                                                    <rect x="0.78418" y="0.700195" width="34" height="34" rx="4"
-                                                        fill="#283F58" />
-                                                    <rect x="1.28418" y="1.2002" width="33" height="33" rx="3.5"
-                                                        stroke="url(#paint0_linear_257_316)" />
-                                                </g>
-                                                <path
-                                                    d="M23.5668 13.0986C22.1823 11.9845 19.9921 11.7956 19.8983 11.7888C19.7529 11.7766 19.6143 11.8581 19.5546 11.9926C19.5491 12.0008 19.5016 12.1108 19.4486 12.282C20.3643 12.4369 21.4893 12.7481 22.507 13.3799C22.67 13.4804 22.7203 13.6951 22.6198 13.8581C22.5532 13.9655 22.4404 14.0239 22.3236 14.0239C22.2611 14.0239 22.1972 14.0062 22.1402 13.9709C20.3902 12.8853 18.2054 12.8309 17.7842 12.8309C17.363 12.8309 15.1768 12.8853 13.4282 13.9709C13.2652 14.0728 13.0505 14.0225 12.9499 13.8595C12.848 13.6951 12.8983 13.4818 13.0614 13.3799C14.079 12.7494 15.204 12.4369 16.1198 12.2834C16.0668 12.1108 16.0192 12.0021 16.0152 11.9926C15.954 11.8581 15.8168 11.7739 15.67 11.7888C15.5763 11.7956 13.3861 11.9845 11.9825 13.1135C11.2502 13.7915 9.78418 17.7535 9.78418 21.1788C9.78418 21.2399 9.80048 21.2983 9.83038 21.3513C10.8412 23.1285 13.6008 23.5932 14.2298 23.6136C14.2325 23.6136 14.2366 23.6136 14.2407 23.6136C14.3521 23.6136 14.4567 23.5606 14.522 23.4709L15.1578 22.5959C13.4418 22.153 12.5654 21.4002 12.5152 21.3554C12.3711 21.229 12.3575 21.0089 12.4853 20.8649C12.6116 20.7209 12.8317 20.7073 12.9758 20.8337C12.9961 20.8527 14.6103 22.2222 17.7842 22.2222C20.9635 22.2222 22.5777 20.8472 22.594 20.8337C22.738 20.7087 22.9567 20.7209 23.0845 20.8663C23.2108 21.0103 23.1972 21.229 23.0532 21.3554C23.0029 21.4002 22.1266 22.153 20.4105 22.5959L21.0464 23.4709C21.1116 23.5606 21.2162 23.6136 21.3277 23.6136C21.3317 23.6136 21.3358 23.6136 21.3385 23.6136C21.9676 23.5932 24.7271 23.1285 25.738 21.3513C25.7679 21.2983 25.7842 21.2399 25.7842 21.1788C25.7842 17.7535 24.3181 13.7915 23.5668 13.0986ZM15.5233 19.7875C14.8508 19.7875 14.3059 19.1652 14.3059 18.3962C14.3059 17.6271 14.8508 17.0049 15.5233 17.0049C16.1959 17.0049 16.7407 17.6271 16.7407 18.3962C16.7407 19.1652 16.1959 19.7875 15.5233 19.7875ZM20.045 19.7875C19.3725 19.7875 18.8277 19.1652 18.8277 18.3962C18.8277 17.6271 19.3725 17.0049 20.045 17.0049C20.7176 17.0049 21.2624 17.6271 21.2624 18.3962C21.2624 19.1652 20.7176 19.7875 20.045 19.7875Z"
-                                                    fill="#A7C5E7" />
-                                                <defs>
-                                                    <filter id="filter0_b_257_316" x="-33.2158" y="-33.2998"
-                                                        width="102" height="102"
-                                                        filterUnits="userSpaceOnUse"
-                                                        color-interpolation-filters="sRGB">
-                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                        <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                        <feComposite in2="SourceAlpha" operator="in"
-                                                            result="effect1_backgroundBlur_257_316" />
-                                                        <feBlend mode="normal" in="SourceGraphic"
-                                                            in2="effect1_backgroundBlur_257_316"
-                                                            result="shape" />
-                                                    </filter>
-                                                    <linearGradient id="paint0_linear_257_316" x1="5.64856"
-                                                        y1="-25.6557" x2="28.4981" y2="22.0185"
-                                                        gradientUnits="userSpaceOnUse">
-                                                        <stop stop-color="white" stop-opacity="0.27" />
-                                                        <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                    </linearGradient>
-                                                </defs>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="experts-item">
-                                <div class="experts-item__top">
-                                    <div class="experts-item__img">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/MarkAdobeStock_610354987.jpeg" alt="https://marketmakers.trade/wp-content/uploads/2024/02/MarkAdobeStock_610354987.jpeg">
-                                    </div>
-                                </div>
-                                <div class="experts-item__bottom">
-                                    <div class="experts-item__info">
-                                        <div class="experts-item__name">Clay (exit_strategy)</div>
-                                        <div class="experts-item__position">Sr. Analyst</div>
-                                    </div>
-                                    <div class="experts-item__social">
-                                        <a href="https://discord.com/invite/8dQwpAhpYn/login"
-                                            class="experts-item__social-item">
-                                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <g filter="url(#filter0_b_257_316)">
-                                                    <rect x="0.78418" y="0.700195" width="34" height="34" rx="4"
-                                                        fill="#283F58" />
-                                                    <rect x="1.28418" y="1.2002" width="33" height="33" rx="3.5"
-                                                        stroke="url(#paint0_linear_257_316)" />
-                                                </g>
-                                                <path
-                                                    d="M23.5668 13.0986C22.1823 11.9845 19.9921 11.7956 19.8983 11.7888C19.7529 11.7766 19.6143 11.8581 19.5546 11.9926C19.5491 12.0008 19.5016 12.1108 19.4486 12.282C20.3643 12.4369 21.4893 12.7481 22.507 13.3799C22.67 13.4804 22.7203 13.6951 22.6198 13.8581C22.5532 13.9655 22.4404 14.0239 22.3236 14.0239C22.2611 14.0239 22.1972 14.0062 22.1402 13.9709C20.3902 12.8853 18.2054 12.8309 17.7842 12.8309C17.363 12.8309 15.1768 12.8853 13.4282 13.9709C13.2652 14.0728 13.0505 14.0225 12.9499 13.8595C12.848 13.6951 12.8983 13.4818 13.0614 13.3799C14.079 12.7494 15.204 12.4369 16.1198 12.2834C16.0668 12.1108 16.0192 12.0021 16.0152 11.9926C15.954 11.8581 15.8168 11.7739 15.67 11.7888C15.5763 11.7956 13.3861 11.9845 11.9825 13.1135C11.2502 13.7915 9.78418 17.7535 9.78418 21.1788C9.78418 21.2399 9.80048 21.2983 9.83038 21.3513C10.8412 23.1285 13.6008 23.5932 14.2298 23.6136C14.2325 23.6136 14.2366 23.6136 14.2407 23.6136C14.3521 23.6136 14.4567 23.5606 14.522 23.4709L15.1578 22.5959C13.4418 22.153 12.5654 21.4002 12.5152 21.3554C12.3711 21.229 12.3575 21.0089 12.4853 20.8649C12.6116 20.7209 12.8317 20.7073 12.9758 20.8337C12.9961 20.8527 14.6103 22.2222 17.7842 22.2222C20.9635 22.2222 22.5777 20.8472 22.594 20.8337C22.738 20.7087 22.9567 20.7209 23.0845 20.8663C23.2108 21.0103 23.1972 21.229 23.0532 21.3554C23.0029 21.4002 22.1266 22.153 20.4105 22.5959L21.0464 23.4709C21.1116 23.5606 21.2162 23.6136 21.3277 23.6136C21.3317 23.6136 21.3358 23.6136 21.3385 23.6136C21.9676 23.5932 24.7271 23.1285 25.738 21.3513C25.7679 21.2983 25.7842 21.2399 25.7842 21.1788C25.7842 17.7535 24.3181 13.7915 23.5668 13.0986ZM15.5233 19.7875C14.8508 19.7875 14.3059 19.1652 14.3059 18.3962C14.3059 17.6271 14.8508 17.0049 15.5233 17.0049C16.1959 17.0049 16.7407 17.6271 16.7407 18.3962C16.7407 19.1652 16.1959 19.7875 15.5233 19.7875ZM20.045 19.7875C19.3725 19.7875 18.8277 19.1652 18.8277 18.3962C18.8277 17.6271 19.3725 17.0049 20.045 17.0049C20.7176 17.0049 21.2624 17.6271 21.2624 18.3962C21.2624 19.1652 20.7176 19.7875 20.045 19.7875Z"
-                                                    fill="#A7C5E7" />
-                                                <defs>
-                                                    <filter id="filter0_b_257_316" x="-33.2158" y="-33.2998"
-                                                        width="102" height="102"
-                                                        filterUnits="userSpaceOnUse"
-                                                        color-interpolation-filters="sRGB">
-                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                        <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                        <feComposite in2="SourceAlpha" operator="in"
-                                                            result="effect1_backgroundBlur_257_316" />
-                                                        <feBlend mode="normal" in="SourceGraphic"
-                                                            in2="effect1_backgroundBlur_257_316"
-                                                            result="shape" />
-                                                    </filter>
-                                                    <linearGradient id="paint0_linear_257_316" x1="5.64856"
-                                                        y1="-25.6557" x2="28.4981" y2="22.0185"
-                                                        gradientUnits="userSpaceOnUse">
-                                                        <stop stop-color="white" stop-opacity="0.27" />
-                                                        <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                    </linearGradient>
-                                                </defs>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="experts-item">
-                                <div class="experts-item__top">
-                                    <div class="experts-item__img">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/LeeAdobeStock_610354963.jpeg" alt="https://marketmakers.trade/wp-content/uploads/2024/02/LeeAdobeStock_610354963.jpeg">
-                                    </div>
-                                </div>
-                                <div class="experts-item__bottom">
-                                    <div class="experts-item__info">
-                                        <div class="experts-item__name">Lee (leewillneverdmfirst)</div>
-                                        <div class="experts-item__position">Business Manager</div>
-                                    </div>
-                                    <div class="experts-item__social">
-                                        <a href="https://discord.com/invite/8dQwpAhpYn/login"
-                                            class="experts-item__social-item">
-                                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <g filter="url(#filter0_b_257_316)">
-                                                    <rect x="0.78418" y="0.700195" width="34" height="34" rx="4"
-                                                        fill="#283F58" />
-                                                    <rect x="1.28418" y="1.2002" width="33" height="33" rx="3.5"
-                                                        stroke="url(#paint0_linear_257_316)" />
-                                                </g>
-                                                <path
-                                                    d="M23.5668 13.0986C22.1823 11.9845 19.9921 11.7956 19.8983 11.7888C19.7529 11.7766 19.6143 11.8581 19.5546 11.9926C19.5491 12.0008 19.5016 12.1108 19.4486 12.282C20.3643 12.4369 21.4893 12.7481 22.507 13.3799C22.67 13.4804 22.7203 13.6951 22.6198 13.8581C22.5532 13.9655 22.4404 14.0239 22.3236 14.0239C22.2611 14.0239 22.1972 14.0062 22.1402 13.9709C20.3902 12.8853 18.2054 12.8309 17.7842 12.8309C17.363 12.8309 15.1768 12.8853 13.4282 13.9709C13.2652 14.0728 13.0505 14.0225 12.9499 13.8595C12.848 13.6951 12.8983 13.4818 13.0614 13.3799C14.079 12.7494 15.204 12.4369 16.1198 12.2834C16.0668 12.1108 16.0192 12.0021 16.0152 11.9926C15.954 11.8581 15.8168 11.7739 15.67 11.7888C15.5763 11.7956 13.3861 11.9845 11.9825 13.1135C11.2502 13.7915 9.78418 17.7535 9.78418 21.1788C9.78418 21.2399 9.80048 21.2983 9.83038 21.3513C10.8412 23.1285 13.6008 23.5932 14.2298 23.6136C14.2325 23.6136 14.2366 23.6136 14.2407 23.6136C14.3521 23.6136 14.4567 23.5606 14.522 23.4709L15.1578 22.5959C13.4418 22.153 12.5654 21.4002 12.5152 21.3554C12.3711 21.229 12.3575 21.0089 12.4853 20.8649C12.6116 20.7209 12.8317 20.7073 12.9758 20.8337C12.9961 20.8527 14.6103 22.2222 17.7842 22.2222C20.9635 22.2222 22.5777 20.8472 22.594 20.8337C22.738 20.7087 22.9567 20.7209 23.0845 20.8663C23.2108 21.0103 23.1972 21.229 23.0532 21.3554C23.0029 21.4002 22.1266 22.153 20.4105 22.5959L21.0464 23.4709C21.1116 23.5606 21.2162 23.6136 21.3277 23.6136C21.3317 23.6136 21.3358 23.6136 21.3385 23.6136C21.9676 23.5932 24.7271 23.1285 25.738 21.3513C25.7679 21.2983 25.7842 21.2399 25.7842 21.1788C25.7842 17.7535 24.3181 13.7915 23.5668 13.0986ZM15.5233 19.7875C14.8508 19.7875 14.3059 19.1652 14.3059 18.3962C14.3059 17.6271 14.8508 17.0049 15.5233 17.0049C16.1959 17.0049 16.7407 17.6271 16.7407 18.3962C16.7407 19.1652 16.1959 19.7875 15.5233 19.7875ZM20.045 19.7875C19.3725 19.7875 18.8277 19.1652 18.8277 18.3962C18.8277 17.6271 19.3725 17.0049 20.045 17.0049C20.7176 17.0049 21.2624 17.6271 21.2624 18.3962C21.2624 19.1652 20.7176 19.7875 20.045 19.7875Z"
-                                                    fill="#A7C5E7" />
-                                                <defs>
-                                                    <filter id="filter0_b_257_316" x="-33.2158" y="-33.2998"
-                                                        width="102" height="102"
-                                                        filterUnits="userSpaceOnUse"
-                                                        color-interpolation-filters="sRGB">
-                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                        <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                        <feComposite in2="SourceAlpha" operator="in"
-                                                            result="effect1_backgroundBlur_257_316" />
-                                                        <feBlend mode="normal" in="SourceGraphic"
-                                                            in2="effect1_backgroundBlur_257_316"
-                                                            result="shape" />
-                                                    </filter>
-                                                    <linearGradient id="paint0_linear_257_316" x1="5.64856"
-                                                        y1="-25.6557" x2="28.4981" y2="22.0185"
-                                                        gradientUnits="userSpaceOnUse">
-                                                        <stop stop-color="white" stop-opacity="0.27" />
-                                                        <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                    </linearGradient>
-                                                </defs>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="experts-item">
-                                <div class="experts-item__top">
-                                    <div class="experts-item__img">
-                                        <img src="https://marketmakers.trade/wp-content/uploads/2024/02/BenAdobeStock_622113920.jpeg" alt="https://marketmakers.trade/wp-content/uploads/2024/02/BenAdobeStock_622113920.jpeg">
-                                    </div>
-                                </div>
-                                <div class="experts-item__bottom">
-                                    <div class="experts-item__info">
-                                        <div class="experts-item__name">Ben (syncro23)</div>
-                                        <div class="experts-item__position">Web Administrator</div>
-                                    </div>
-                                    <div class="experts-item__social">
-                                        <a href="https://discord.com/invite/8dQwpAhpYn/login"
-                                            class="experts-item__social-item">
-                                            <svg width="35" height="35" viewBox="0 0 35 35" fill="none"
-                                                xmlns="http://www.w3.org/2000/svg">
-                                                <g filter="url(#filter0_b_257_316)">
-                                                    <rect x="0.78418" y="0.700195" width="34" height="34" rx="4"
-                                                        fill="#283F58" />
-                                                    <rect x="1.28418" y="1.2002" width="33" height="33" rx="3.5"
-                                                        stroke="url(#paint0_linear_257_316)" />
-                                                </g>
-                                                <path
-                                                    d="M23.5668 13.0986C22.1823 11.9845 19.9921 11.7956 19.8983 11.7888C19.7529 11.7766 19.6143 11.8581 19.5546 11.9926C19.5491 12.0008 19.5016 12.1108 19.4486 12.282C20.3643 12.4369 21.4893 12.7481 22.507 13.3799C22.67 13.4804 22.7203 13.6951 22.6198 13.8581C22.5532 13.9655 22.4404 14.0239 22.3236 14.0239C22.2611 14.0239 22.1972 14.0062 22.1402 13.9709C20.3902 12.8853 18.2054 12.8309 17.7842 12.8309C17.363 12.8309 15.1768 12.8853 13.4282 13.9709C13.2652 14.0728 13.0505 14.0225 12.9499 13.8595C12.848 13.6951 12.8983 13.4818 13.0614 13.3799C14.079 12.7494 15.204 12.4369 16.1198 12.2834C16.0668 12.1108 16.0192 12.0021 16.0152 11.9926C15.954 11.8581 15.8168 11.7739 15.67 11.7888C15.5763 11.7956 13.3861 11.9845 11.9825 13.1135C11.2502 13.7915 9.78418 17.7535 9.78418 21.1788C9.78418 21.2399 9.80048 21.2983 9.83038 21.3513C10.8412 23.1285 13.6008 23.5932 14.2298 23.6136C14.2325 23.6136 14.2366 23.6136 14.2407 23.6136C14.3521 23.6136 14.4567 23.5606 14.522 23.4709L15.1578 22.5959C13.4418 22.153 12.5654 21.4002 12.5152 21.3554C12.3711 21.229 12.3575 21.0089 12.4853 20.8649C12.6116 20.7209 12.8317 20.7073 12.9758 20.8337C12.9961 20.8527 14.6103 22.2222 17.7842 22.2222C20.9635 22.2222 22.5777 20.8472 22.594 20.8337C22.738 20.7087 22.9567 20.7209 23.0845 20.8663C23.2108 21.0103 23.1972 21.229 23.0532 21.3554C23.0029 21.4002 22.1266 22.153 20.4105 22.5959L21.0464 23.4709C21.1116 23.5606 21.2162 23.6136 21.3277 23.6136C21.3317 23.6136 21.3358 23.6136 21.3385 23.6136C21.9676 23.5932 24.7271 23.1285 25.738 21.3513C25.7679 21.2983 25.7842 21.2399 25.7842 21.1788C25.7842 17.7535 24.3181 13.7915 23.5668 13.0986ZM15.5233 19.7875C14.8508 19.7875 14.3059 19.1652 14.3059 18.3962C14.3059 17.6271 14.8508 17.0049 15.5233 17.0049C16.1959 17.0049 16.7407 17.6271 16.7407 18.3962C16.7407 19.1652 16.1959 19.7875 15.5233 19.7875ZM20.045 19.7875C19.3725 19.7875 18.8277 19.1652 18.8277 18.3962C18.8277 17.6271 19.3725 17.0049 20.045 17.0049C20.7176 17.0049 21.2624 17.6271 21.2624 18.3962C21.2624 19.1652 20.7176 19.7875 20.045 19.7875Z"
-                                                    fill="#A7C5E7" />
-                                                <defs>
-                                                    <filter id="filter0_b_257_316" x="-33.2158" y="-33.2998"
-                                                        width="102" height="102"
-                                                        filterUnits="userSpaceOnUse"
-                                                        color-interpolation-filters="sRGB">
-                                                        <feFlood flood-opacity="0" result="BackgroundImageFix" />
-                                                        <feGaussianBlur in="BackgroundImageFix" stdDeviation="17" />
-                                                        <feComposite in2="SourceAlpha" operator="in"
-                                                            result="effect1_backgroundBlur_257_316" />
-                                                        <feBlend mode="normal" in="SourceGraphic"
-                                                            in2="effect1_backgroundBlur_257_316"
-                                                            result="shape" />
-                                                    </filter>
-                                                    <linearGradient id="paint0_linear_257_316" x1="5.64856"
-                                                        y1="-25.6557" x2="28.4981" y2="22.0185"
-                                                        gradientUnits="userSpaceOnUse">
-                                                        <stop stop-color="white" stop-opacity="0.27" />
-                                                        <stop offset="1" stop-color="white" stop-opacity="0" />
-                                                    </linearGradient>
-                                                </defs>
-                                            </svg>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- <section class="section partners">
-                <div class="partners-wrap">
-                    <h2 class="partners-title">
-                        Our <span>partners </h2>
-                    <div class="partners-list">
-                        <div class="partners-track">
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/simpleflex.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        Simplefx </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        Our go-to broker for Forex and CFD trading, offering exclusive benefits and tools for our members. </div>
-                                    <a href="https://sfx.unilink.io/MarketMakersVIP" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/06/1.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        Bitunix </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        Market Makers traders love Bitunix for its fresh interface and comprehensive coin offerings. </div>
-                                    <a href="https://www.bitunix.com/register?vipCode=MarketMakersVIP" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/proton.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        Proton AG </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        We trust Proton's products, like ProtonVPN, to secure our financial data. Recommended for safe online transactions. </div>
-                                    <a href="https://proton.me/" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/tradingView-1.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        Tradingview </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        Essential for all our technical analysis needs. An ultimately powerful and versatile suite of tools. Undoubtedly the most used platform for any serious trader. We're proud to use Tradingview daily. </div>
-                                    <a href="https://www.tradingview.com/" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/stripe.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        Stripe </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        Our trusted payment service provider, ensuring secure and smooth transactions for our clients. </div>
-                                    <a href="https://stripe.com/" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/paypal.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        PayPal </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        A versatile payment solution we use and recommend for its ease of use and reliability. </div>
-                                    <a href="https://www.paypal.com/" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="partners-item">
-                                <div class="partners-item__img">
-                                    <img src="https://marketmakers.trade/wp-content/uploads/2024/01/discord.svg" alt="Partners">
-                                </div>
-                                <div class="partners-item__tooltip">
-                                    <div class="partners-item__tooltip-title">
-                                        Discord </div>
-                                    <div class="partners-item__tooltip-desc">
-                                        The heart of our community. We use Discord to connect, share insights, and collaborate. </div>
-                                    <a href="https://discord.com/invite/8dQwpAhpYn/login" class="partners-item__tooltip-link">
-                                        <svg width="30" height="30" viewBox="0 0 30 30" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="30" height="30" rx="15" fill="#9FB1C5" />
-                                            <path
-                                                d="M18.9024 15.2358L15.9024 18.2358C15.8557 18.2824 15.7963 18.3141 15.7317 18.327C15.667 18.3398 15.6 18.3332 15.5391 18.308C15.4782 18.2828 15.4261 18.2401 15.3895 18.1852C15.3529 18.1304 15.3333 18.066 15.3333 18.0001V15.3334H11.3333C11.2449 15.3334 11.1601 15.2983 11.0976 15.2358C11.0351 15.1733 11 15.0885 11 15.0001C11 14.9117 11.0351 14.8269 11.0976 14.7644C11.1601 14.7019 11.2449 14.6667 11.3333 14.6667H15.3333V12.0001C15.3333 11.9341 15.3529 11.8697 15.3895 11.8149C15.4261 11.7601 15.4782 11.7174 15.5391 11.6921C15.6 11.6669 15.667 11.6603 15.7317 11.6731C15.7963 11.686 15.8557 11.7177 15.9024 11.7644L18.9024 14.7644C18.9333 14.7953 18.9579 14.8321 18.9746 14.8725C18.9914 14.9129 19 14.9563 19 15.0001C19 15.0438 18.9914 15.0872 18.9746 15.1276C18.9579 15.1681 18.9333 15.2048 18.9024 15.2358Z"
-                                                fill="#192B3F" />
-                                        </svg>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- <section class="section video">
-                <div class="container">
-                    <div class="video-wrap">
-                        <h2 class="video-title">Latest <span>Market Makers</span> content</h2>
-                        <div class="video-container">
-                            <p><iframe title="JUNE 12TH CHANGES EVERYTHING" width="500" height="281" src="https://www.youtube.com/embed/emY5nIzpMdc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-                        </div>
-                        <div class="video-action">
-                            <a href="https://www.youtube.com/c/marketmakersofficial"
-                                class="btnArrow btnArrow-green">
-                                <span class="btnArrow-title">Find us on YouTube</span>
-                                <span class="btnArrow-icon"></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-            <!-- <section class="section reviews">
-                <div class="reviews-wrap">
-                    <div class="reviews-slogan">
-                        Client response </div>
-                    <h2 class="reviews-title">
-                        What do people <span>think?</span> </h2>
-                    <div class="reviews-slider">
-                        <div class="reviews-list">
-                            <div class="reviews-item">
-                                <div class="reviews-item__wrap">
-                                    <div class="reviews-item__content">
-                                        <div class="reviews-item__content_box">
-                                            Market Makers is my secret weapon! Brendan's ideas are gold. 📈🚀 </div>
-                                    </div>
-                                    <div class="reviews-item__author">
-                                        CryptoGuru21 </div>
-                                </div>
-                            </div>
-                            <div class="reviews-item">
-                                <div class="reviews-item__wrap">
-                                    <div class="reviews-item__content">
-                                        <div class="reviews-item__content_box">
-                                            I was skeptical at first, but the FPT video series is a game-changer. Learning so much! </div>
-                                    </div>
-                                    <div class="reviews-item__author">
-                                        EmilyTrades </div>
-                                </div>
-                            </div>
-                            <div class="reviews-item">
-                                <div class="reviews-item__wrap">
-                                    <div class="reviews-item__content">
-                                        <div class="reviews-item__content_box">
-                                            The live QA blockchain sessions with Ricardo are a blast. I love how he uses Fib circles. loads of fun! 🎉 </div>
-                                    </div>
-                                    <div class="reviews-item__author">
-                                        Trader87Tom </div>
-                                </div>
-                            </div>
-                            <div class="reviews-item">
-                                <div class="reviews-item__wrap">
-                                    <div class="reviews-item__content">
-                                        <div class="reviews-item__content_box">
-                                            💪💪 Joined the premium Discord and never looked back. The community support is incredible. Thanks, MM team! </div>
-                                    </div>
-                                    <div class="reviews-item__author">
-                                        FXNinja </div>
-                                </div>
-                            </div>
-                            <div class="reviews-item">
-                                <div class="reviews-item__wrap">
-                                    <div class="reviews-item__content">
-                                        <div class="reviews-item__content_box">
-                                            Love this group. Keeps me on my toes and always learning. Great stuff! ❤️ </div>
-                                    </div>
-                                    <div class="reviews-item__author">
-                                        SophieB </div>
-                                </div>
-                            </div>
-                            <div class="reviews-item">
-                                <div class="reviews-item__wrap">
-                                    <div class="reviews-item__content">
-                                        <div class="reviews-item__content_box">
-                                            Brendan's indicators alone are worth it. One of the best investments I've made in my trading journey </div>
-                                    </div>
-                                    <div class="reviews-item__author">
-                                        HodlKing </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="reviews-navigation">
-                            <div class="reviews-navigation-box">
-                                <div class="reviews-navigation-block">
-                                    <button class="reviews-navigation__prev">
-                                        <svg width="58" height="59" viewBox="0 0 58 59" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect width="58" height="58" rx="29" transform="matrix(-1 0 0 1 58 0.719727)"
-                                                fill="#4FD298"
-                                                fill-opacity="0.1" />
-                                            <path
-                                                d="M22.1709 30.1316L27.4209 35.3816C27.5025 35.4631 27.6064 35.5187 27.7195 35.5412C27.8327 35.5637 27.95 35.5521 28.0566 35.508C28.1632 35.4638 28.2543 35.389 28.3183 35.2931C28.3824 35.1972 28.4167 35.0844 28.4167 34.969V30.3024H35.4167C35.5714 30.3024 35.7197 30.2409 35.8291 30.1315C35.9385 30.0221 36 29.8738 36 29.7191C36 29.5643 35.9385 29.416 35.8291 29.3066C35.7197 29.1972 35.5714 29.1357 35.4167 29.1357H28.4167V24.4691C28.4167 24.3537 28.3824 24.2409 28.3183 24.145C28.2543 24.0491 28.1632 23.9743 28.0566 23.9302C27.95 23.886 27.8327 23.8744 27.7195 23.8969C27.6064 23.9194 27.5025 23.975 27.4209 24.0566L22.1709 29.3065C22.1167 29.3607 22.0737 29.425 22.0444 29.4958C22.0151 29.5666 22 29.6424 22 29.7191C22 29.7957 22.0151 29.8715 22.0444 29.9423C22.0737 30.0131 22.1167 30.0774 22.1709 30.1316Z"
-                                                fill="#4FD298" />
-                                        </svg>
-                                    </button>
-                                    <button class="reviews-navigation__next">
-                                        <svg width="58" height="59" viewBox="0 0 58 59" fill="none"
-                                            xmlns="http://www.w3.org/2000/svg">
-                                            <rect y="0.719727" width="58" height="58" rx="29" fill="#4FD298"
-                                                fill-opacity="0.1" />
-                                            <path
-                                                d="M35.8291 30.1316L30.5791 35.3816C30.4975 35.4631 30.3936 35.5187 30.2805 35.5412C30.1673 35.5637 30.05 35.5521 29.9434 35.508C29.8368 35.4638 29.7457 35.389 29.6817 35.2931C29.6176 35.1972 29.5833 35.0844 29.5833 34.969V30.3024H22.5833C22.4286 30.3024 22.2803 30.2409 22.1709 30.1315C22.0615 30.0221 22 29.8738 22 29.7191C22 29.5643 22.0615 29.416 22.1709 29.3066C22.2803 29.1972 22.4286 29.1357 22.5833 29.1357H29.5833V24.4691C29.5833 24.3537 29.6176 24.2409 29.6817 24.145C29.7457 24.0491 29.8368 23.9743 29.9434 23.9302C30.05 23.886 30.1673 23.8744 30.2805 23.8969C30.3936 23.9194 30.4975 23.975 30.5791 24.0566L35.8291 29.3065C35.8833 29.3607 35.9263 29.425 35.9556 29.4958C35.9849 29.5666 36 29.6424 36 29.7191C36 29.7957 35.9849 29.8715 35.9556 29.9423C35.9263 30.0131 35.8833 30.0774 35.8291 30.1316Z"
-                                                fill="#4FD298" />
-                                        </svg>
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="reviews-link">
-                        More reviews in our <a href="https://marketmakers.trade/about/">Discord</a>
-                    </div>
-                </div>
-            </section> -->
-            <!-- <section class="section banner">
-                <div class="container">
-                    <div class="banner-wrap">
-                        <div class="banner-info">
-                            <div class="banner-icon"></div>
-                            <h2 class="banner-title">
-                                Learn. Trade. Succeeed. </h2>
-                            <div class="banner-link">
-                                <a href="https://marketmakers.trade/#precios">
-                                    <span class="banner-link__title">
-                                        Try us for free! </span>
-                                    <span class="banner-link__icon"></span>
-                                </a>
-                            </div>
-                            <div class="banner-svg">
-                                <svg width="544" height="377" viewBox="0 0 544 377" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M231.237 1.35059L231.237 225.463" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M240.202 14.7705L222.273 14.7705C221.036 14.7705 220.032 15.73 220.032 16.9137L220.032 207.656C220.032 208.84 221.036 209.8 222.273 209.8L240.202 209.8C241.44 209.8 242.443 208.84 242.443 207.656L242.443 16.9137C242.443 15.73 241.44 14.7705 240.202 14.7705Z"
-                                        fill="#40C389" />
-                                    <path d="M272.272 30.4854L272.272 209.774" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M263.309 48.915L281.238 48.915C282.199 48.915 282.979 49.6946 282.979 50.6562L282.979 189.606C282.979 190.567 282.199 191.347 281.237 191.347L263.308 191.347C262.347 191.347 261.567 190.567 261.567 189.606L261.567 50.6562C261.567 49.6946 262.347 48.915 263.309 48.915Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M313.308 160.446L313.308 245.605" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M304.344 178.872L322.273 178.872C323.234 178.872 324.014 179.652 324.014 180.613L324.014 225.436C324.014 226.397 323.234 227.177 322.273 227.177L304.344 227.177C303.382 227.177 302.603 226.397 302.603 225.436L302.603 180.613C302.603 179.652 303.382 178.872 304.344 178.872Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M354.349 158.202L354.349 232.16" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M363.309 169.409L345.38 169.409C344.142 169.409 343.139 170.413 343.139 171.65L343.139 216.473C343.139 217.711 344.142 218.714 345.38 218.714L363.309 218.714C364.547 218.714 365.55 217.711 365.55 216.473L365.55 171.65C365.55 170.413 364.547 169.409 363.309 169.409Z"
-                                        fill="#40C389" />
-                                    <path d="M408.986 269.507L408.986 345.705" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M400.022 281.214L417.951 281.214C418.913 281.214 419.692 281.993 419.692 282.955L419.692 323.295C419.692 324.257 418.913 325.036 417.951 325.036L400.022 325.036C399.061 325.036 398.281 324.257 398.281 323.295L398.281 282.955C398.281 281.993 399.061 281.214 400.022 281.214Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M450.021 291.917L450.021 392.768" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M441.058 311.466L458.987 311.466C459.948 311.466 460.728 312.245 460.728 313.207L460.728 371.476C460.728 372.438 459.948 373.217 458.987 373.217L441.058 373.217C440.096 373.217 439.316 372.438 439.316 371.476L439.316 313.207C439.316 312.245 440.096 311.466 441.058 311.466Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                    <path d="M491.06 278.472L491.06 354.67" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M500.023 294.159L482.094 294.159C480.856 294.159 479.853 295.163 479.853 296.4L479.853 332.258C479.853 333.496 480.856 334.499 482.094 334.499L500.023 334.499C501.26 334.499 502.264 333.496 502.264 332.258L502.264 296.4C502.264 295.163 501.26 294.159 500.023 294.159Z"
-                                        fill="#40C389" />
-                                    <path d="M532.094 242.612L532.094 343.463" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M541.059 267.265L523.13 267.265C521.892 267.265 520.889 268.268 520.889 269.506L520.889 330.016C520.889 331.254 521.892 332.257 523.13 332.257L541.059 332.257C542.297 332.257 543.3 331.254 543.3 330.016L543.3 269.506C543.3 268.268 542.297 267.265 541.059 267.265Z"
-                                        fill="#40C389" />
-                                    <path d="M221.382 207.267L221.382 106.416" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M212.421 182.614L230.35 182.614C231.587 182.614 232.591 181.611 232.591 180.373L232.591 140.033C232.591 138.795 231.587 137.792 230.35 137.792L212.421 137.792C211.183 137.792 210.18 138.795 210.18 140.033L210.18 180.373C210.18 181.611 211.183 182.614 212.421 182.614Z"
-                                        fill="#40C389" />
-                                    <path d="M216.389 251.366L216.389 150.516" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M207.423 226.714L225.352 226.714C226.589 226.714 227.593 225.71 227.593 224.473L227.593 179.65C227.593 178.413 226.589 177.409 225.352 177.409L207.423 177.409C206.185 177.409 205.182 178.413 205.182 179.65L205.182 224.473C205.182 225.71 206.185 226.714 207.423 226.714Z"
-                                        fill="#40C389" />
-                                    <path d="M175.353 280.503L175.353 193.099" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M166.387 262.573L184.316 262.573C185.553 262.573 186.557 261.57 186.557 260.332L186.557 213.269C186.557 212.031 185.553 211.027 184.316 211.027L166.387 211.027C165.149 211.027 164.145 212.031 164.145 213.269L164.145 260.332C164.145 261.57 165.149 262.573 166.387 262.573Z"
-                                        fill="#40C389" />
-                                    <path d="M134.312 305.149L134.313 222.228" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M125.351 286.101L143.28 286.101C144.518 286.101 145.521 285.097 145.521 283.859L145.521 243.519C145.521 242.281 144.518 241.278 143.28 241.278L125.351 241.278C124.114 241.278 123.11 242.281 123.11 243.519L123.11 283.859C123.11 285.097 124.114 286.101 125.351 286.101Z"
-                                        fill="#40C389" />
-                                    <path d="M93.2803 323.087L93.2803 235.683" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M84.3152 309.642L102.244 309.642C103.482 309.642 104.485 308.638 104.485 307.4L104.485 251.372C104.485 250.135 103.482 249.131 102.244 249.131L84.3152 249.131C83.0775 249.131 82.0741 250.135 82.0741 251.372L82.0741 307.4C82.0741 308.638 83.0775 309.642 84.3152 309.642Z"
-                                        fill="#40C389" />
-                                    <path d="M11.2041 341.009L11.2041 240.158" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M2.24101 329.802L20.17 329.802C21.4077 329.802 22.4111 328.798 22.4111 327.561L22.4111 253.604C22.4111 252.366 21.4078 251.362 20.17 251.362L2.24102 251.362C1.00328 251.362 -0.000103857 252.366 -0.000103965 253.604L-0.00011043 327.561C-0.000110539 328.798 1.00327 329.802 2.24101 329.802Z"
-                                        fill="#40C389" />
-                                    <path d="M52.2402 282.743L52.2402 199.822" stroke="#40C389" stroke-linecap="round" />
-                                    <path d="M61.2061 269.917L43.2771 269.917C42.3155 269.917 41.536 269.137 41.536 268.176L41.536 214.389C41.536 213.427 42.3156 212.648 43.2772 212.648L61.2061 212.648C62.1677 212.648 62.9473 213.427 62.9473 214.389L62.9473 268.176C62.9473 269.137 62.1677 269.917 61.2061 269.917Z"
-                                        fill="#4FD298" stroke="#40C389" />
-                                </svg>
-                            </div>
-                            <div class="banner-image">
-                                <img src="https://marketmakers.trade/wp-content/themes/market/assets/img/home/cta-image.png" alt="" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> -->
             <section class=" section faq">
                 <div class="container">
                     <div class="faq-wrap">
@@ -1220,7 +594,7 @@
         ">
             <div class="informationBlock">
                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" fill="none">
-                    <rect x="0.275391" y="0.490479" width="25" height="25" rx="3" fill="#4FD298" />
+                    <rect x="0.275391" y="0.490479" width="25" height="25" rx="3" fill="#B71828" />
                     <path d="M18.1333 9.41785L10.9888 16.562L7.4165 12.9901" stroke="#112337" stroke-width="2"
                         stroke-linecap="round" stroke-linejoin="round" />
                 </svg>
